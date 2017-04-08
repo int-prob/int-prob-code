@@ -1,0 +1,14 @@
+url: "https://lenis2000.github.io"
+# url: "http://localhost:4000/"
+
+name: Integrable Probability FRG
+description: Integrable Probability Focused Research Group
+
+markdown: kramdown
+highlighter: true
+
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+
+paginate: 10
+paginate_path: "blog/page:num"
+permalink: pretty
