@@ -5,12 +5,10 @@ name: Integrable Probability FRG
 description: Integrable Probability Focused Research Group
 
 markdown: kramdown
-highlighter: true
+highlighter: rouge
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 
 paginate: 10
 paginate_path: "blog/page:num"
 permalink: pretty
-
-theme: jekyll-theme-dinky
