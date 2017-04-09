@@ -18,7 +18,7 @@ layout: default
 - [Yi Sun][yi] (Columbia University), 2016-2019
 - [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019
 
-#Graduate students
+# Graduate students
 
 - Promit Ghosal (Columbia University), 2016-
 - Shalin Parekh (Columbia University), 2017-
