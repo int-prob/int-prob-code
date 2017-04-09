@@ -25,6 +25,9 @@ layout: default
 
 <h3>Graduate students</h3>
 
+- Promit Ghosal (Columbia University), 2016-
+- Shalin Parekh (Columbia University), 2017-
+- Xuan Wu (Columbia University), 2015-
 
 
 [jb]: http://www.math.lsa.umich.edu/~baik/Welcome.html
