@@ -1,4 +1,4 @@
 ---
-title: "Integrable Probability FRG - Publications"
+title: "Publications - Integrable Probability FRG"
 layout: default
 ---

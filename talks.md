@@ -1,4 +1,4 @@
 ---
-title: "Integrable Probability FRG - Slides of Talks"
+title: "Talks - Integrable Probability FRG"
 layout: default
 ---

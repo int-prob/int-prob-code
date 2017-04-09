@@ -1,4 +1,4 @@
 ---
-title: "Integrable Probability FRG - Courses"
+title: "Courses - Integrable Probability FRG"
 layout: default
 ---
