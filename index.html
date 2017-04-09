@@ -11,6 +11,18 @@ layout: default
     <h3>Principal Investigators</h3>
 
     {% include PIs.html %}
+
+    <h3>News</h3>
+
+    <ol>
+      {% for post in site.posts limit:10 %}
+      <li>
+        [<small>{{ post.date | date: "%B %-d, %Y" }}</small>] <b><a href="{{site.url }}{{ post.url }}">{{ post.title }}</a></b>
+        {{ post.excerpt | markdownify }}
+      </li>
+      {% endfor %}
+    </ol>
+
   </div>
   <div class="col-md-7">
     <h3>Upcoming Events</h3>
@@ -18,7 +30,7 @@ layout: default
 
     {% include cal_scripts.js %}
 
-    <a href="past_events/index.html"><h3>Past events</h3></a>
+    <a href="past_events/index.html" align="right"><h3>Past events</h3></a>
   </div>
 
 </div>
