@@ -102,11 +102,11 @@ function makeApiCall() {
                 var startDayWeek = dayString(startDateISO.getDay());
                 if( allDay == true){ //change this to match your needs
                     var str = [
-                    '<b>',
+                    '<b><a href="', item.htmlLink, '">',
                     startDayWeek, ' ',
                     startMonth, ' ',
                     startDay, ' ',
-                    startYear, '</b> - <a href="', item.htmlLink, '">', item.summary, '</a> in ', item.location, '<br><br>'
+                    startYear, '</a></b> - ', item.summary, ' in ', item.location, '<br><br>'
                     ];
                 }
                 else{
@@ -114,12 +114,12 @@ function makeApiCall() {
                     var startHour = AmPm(time[0]);
                     var startMin = time[1];
                     var str = [ //change this to match your needs
-                        '<b>',
+                        '<b><a href="', item.htmlLink, '">',
                         startDayWeek, ' ',
                         startMonth, ' ',
                         startDay, ' ',
                         startYear, ' @ ',
-                        startHour, ':', startMin, '</b> - <a href="', item.htmlLink, '">', item.summary, '</a> in ', item.location, '<br><br>'
+                        startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><br><br>'
                         ];
                 }
                 li.innerHTML = str.join('');
