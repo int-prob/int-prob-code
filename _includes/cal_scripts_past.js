@@ -106,7 +106,7 @@ function makeApiCall() {
                     startDayWeek, ' ',
                     startMonth, ' ',
                     startDay, ' ',
-                    startYear, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><br><table><tr><td style="padding-left:40px"><p style="font-size:14px">',
+                    startYear, '</a> - ', item.summary, ' in ', item.location, '</b><br><table><tr><td style="padding-left:40px"><p style="font-size:14px">',
                     item.description, '</p></td></tr></table>'
                     ];
                 }
@@ -120,7 +120,7 @@ function makeApiCall() {
                         startMonth, ' ',
                         startDay, ' ',
                         startYear, ' @ ',
-                        startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><br><table><tr><td style="padding-left:40px"><p style="font-size:14px">',
+                        startHour, ':', startMin, '</a> - ', item.summary, ' in ', item.location, '</b><br><table><tr><td style="padding-left:40px"><p style="font-size:14px">',
                         item.description, '</p></td></tr></table>'
                         ];
                 }
