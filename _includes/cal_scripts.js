@@ -26,30 +26,30 @@ function AmPm(num) {
 
 //--------------------- num Month to String
 function monthString(num) {
-         if (num === "01") { return "JAN"; }
-    else if (num === "02") { return "FEB"; }
-    else if (num === "03") { return "MAR"; }
-    else if (num === "04") { return "APR"; }
-    else if (num === "05") { return "MAJ"; }
-    else if (num === "06") { return "JUN"; }
-    else if (num === "07") { return "JUL"; }
-    else if (num === "08") { return "AUG"; }
-    else if (num === "09") { return "SEP"; }
-    else if (num === "10") { return "OCT"; }
-    else if (num === "11") { return "NOV"; }
-    else if (num === "12") { return "DEC"; }
+         if (num === "01") { return "Jan"; }
+    else if (num === "02") { return "Feb"; }
+    else if (num === "03") { return "Mar"; }
+    else if (num === "04") { return "Apr"; }
+    else if (num === "05") { return "Maj"; }
+    else if (num === "06") { return "Jun"; }
+    else if (num === "07") { return "Jul"; }
+    else if (num === "08") { return "Aug"; }
+    else if (num === "09") { return "Sep"; }
+    else if (num === "10") { return "Oct"; }
+    else if (num === "11") { return "Nov"; }
+    else if (num === "12") { return "Dec"; }
 }
 //--------------------- end
 
 //--------------------- from num to day of week
 function dayString(num){
-         if (num == "1") { return "mon" }
-    else if (num == "2") { return "tue" }
-    else if (num == "3") { return "wed" }
-    else if (num == "4") { return "thu" }
-    else if (num == "5") { return "fri" }
-    else if (num == "6") { return "sat" }
-    else if (num == "0") { return "sun" }
+         if (num == "1") { return "Mon" }
+    else if (num == "2") { return "Tue" }
+    else if (num == "3") { return "Wed" }
+    else if (num == "4") { return "Thu" }
+    else if (num == "5") { return "Fri" }
+    else if (num == "6") { return "Sat" }
+    else if (num == "0") { return "Sun" }
 }
 //--------------------- end
 
