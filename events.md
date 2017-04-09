@@ -1,4 +1,4 @@
 ---
-title: "Integrable Probability FRG - Home"
+title: "Integrable Probability FRG - Events"
 layout: default
 ---

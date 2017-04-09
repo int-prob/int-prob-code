@@ -1,5 +1,5 @@
 ---
-title: "Integrable Probability FRG - Home"
+title: "Integrable Probability FRG - People"
 layout: default
 ---
 
