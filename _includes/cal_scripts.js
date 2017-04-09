@@ -2,7 +2,7 @@
 var clientId = '924411057957-sc2sk1rd27p32ip0kkv2lcn87v23mtfn.apps.googleusercontent.com'; //choose web app client Id, redirect URI and Javascript origin set to http://localhost
 var apiKey = 'AIzaSyBPoIIEB_Xn6UOv1RKNnWkf9LrDzpsrNzM'; //choose public apiKey, any IP allowed (leave blank the allowed IP boxes in Google Dev Console)
 var userEmail = "mls9vssib1s3gvtqkbs76s1s5s@group.calendar.google.com"; //your calendar Id
-var userTimeZone = "New York"; //example "Rome" "Los_Angeles" ecc...
+var userTimeZone = "New_York"; //example "Rome" "Los_Angeles" ecc...
 var maxRows = 10; //events to shown
 var calName = ""; //name of calendar (write what you want, doesn't matter)
 
@@ -105,7 +105,7 @@ function makeApiCall() {
                     startDayWeek, ' ',
                     startMonth, ' ',
                     startDay, ' ',
-                    startYear, '</b> - ', item.summary, ' in <b>', item.location, '</b><br><br>'
+                    startYear, '</b> - <a href="', item.description, '">', item.summary, '</a> in ', item.location, '<br><br>'
                     ];
                 }
                 else{
@@ -118,7 +118,7 @@ function makeApiCall() {
                         startMonth, ' ',
                         startDay, ' ',
                         startYear, ' @ ',
-                        startHour, ':', startMin, '</b> - ', item.summary, ' in <b>',  item.location, '</b><br><br>'
+                        startHour, ':', startMin, '</b> - <a href="', item.description, '">', item.summary, '</a> in ', item.location, '<br><br>'
                         ];
                 }
                 li.innerHTML = str.join('');
