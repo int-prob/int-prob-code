@@ -3,11 +3,11 @@ title: "People - Integrable Probability FRG"
 layout: default
 ---
 
-## Senior members
+# Senior members
 
 {% include PIs.html %}
 
-## Postdocs
+# Postdocs
 
 - [Guillaume Barraquand][guil] (Columbia University), 2015-2018
 - [Axel Saenz][axel] (University of Virginia), 2016-2019
