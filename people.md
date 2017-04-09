@@ -10,19 +10,24 @@ layout: default
 # Postdocs
 
 - [Guillaume Barraquand][guil] (Columbia University), 2015-2018
-- [Axel Saenz][axel] (University of Virginia), 2016-2019
-- [Alisa Knizel][alisa] (Columbia University), 2017-2020
 - [Jeffrey Kuan][jeff] (Columbia University), 2015-2018
 - [Hao Shen][hao] (Columbia University), 2015-2018
-- [Xin Sun][xin] (Columbia University), 2017-2020
+
+- [Axel Saenz][axel] (University of Virginia), 2016-2019
 - [Yi Sun][yi] (Columbia University), 2016-2019
 - [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019
 
+- [Alisa Knizel][alisa] (Columbia University), 2017-2020
+- [Xin Sun][xin] (Columbia University), 2017-2020
+
 # Graduate students
 
-- Promit Ghosal (Columbia University), 2016-
-- Shalin Parekh (Columbia University), 2017-
 - Xuan Wu (Columbia University), 2015-
+
+- Promit Ghosal (Columbia University), 2016-
+
+- Shalin Parekh (Columbia University), 2017-
+
 
 
 [jb]: http://www.math.lsa.umich.edu/~baik/Welcome.html
