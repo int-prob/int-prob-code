@@ -11,7 +11,7 @@ layout: default
 - [MIT Integrable Probability Working Group](https://math.mit.edu/seminars/intprob/)
 - [UVA Integrable Probability Seminar](http://faculty.virginia.edu/petrov/integrable_seminar/)
 
-## General seminars
+## General probability seminars
 
 - [MIT Probability Seminar](http://math.mit.edu/seminars/probability/)
 - [Columbia Probability Seminar](http://www.math.columbia.edu/department/probability/seminar/hp.html)
