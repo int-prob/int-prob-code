@@ -30,9 +30,9 @@ layout: default
 
 - Amol Aggarwal (Harvard), 2015-
 
-- Xuan Wu (Columbia University), 2015-
+- Andrew Ahn (MIT), 2015-
 
-- Andrew Ahn (MIT), 2016-
+- Xuan Wu (Columbia University), 2015-
 
 - Promit Ghosal (Columbia University), 2016-
 
