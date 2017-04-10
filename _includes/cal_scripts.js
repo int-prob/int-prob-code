@@ -82,7 +82,7 @@ function makeApiCall() {
             'calendarId' : userEmail,
             'timeZone' : userTimeZone,
             'singleEvents': true,
-            'timeMin': today.toISOString(), //gathers only events not happened yet
+            'timeMin': '2017-04-10T00:00:00.720Z', //gathers only events not happened yet
             'maxResults': maxRows,
             'orderBy': 'startTime'});
     request.execute(function (resp) {
