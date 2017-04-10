@@ -9,7 +9,7 @@ layout: default
 
 - [NYC Integrable Probability Working Group](http://www.math.columbia.edu/department/probability/NYCIntegrableProbability/)
 - [MIT Integrable Probability Working Group](https://math.mit.edu/seminars/intprob/)
-- [UVA Integrable Probability Seminar](http://faculty.virginia.edu/petrov/integrable_seminar/)
+- [UVA Integrable Probability Seminar](http://faculty.virginia.edu/petrov/integrable_seminar/) (Spring 2017)
 
 ## General probability seminars
 
