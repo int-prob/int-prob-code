@@ -29,9 +29,7 @@ layout: default
 - Cesar Cuenca (MIT), 2014-
 
 - Amol Aggarwal (Harvard), 2015-
-
 - Andrew Ahn (MIT), 2015-
-
 - Xuan Wu (Columbia University), 2015-
 
 - Promit Ghosal (Columbia University), 2016-
