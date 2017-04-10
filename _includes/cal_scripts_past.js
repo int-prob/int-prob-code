@@ -105,7 +105,7 @@ function makeApiCall() {
                     '<b><a href="', item.htmlLink, '">',
                     startDayWeek, ' ',
                     startMonth, ' ',
-                    startDay, ' ',
+                    startDay, ', ',
                     startYear, '</a></b> - ', item.summary, ' in ', item.location, '<br><br>'
                     ];
                 }
@@ -117,7 +117,7 @@ function makeApiCall() {
                         '<b><a href="', item.htmlLink, '">',
                         startDayWeek, ' ',
                         startMonth, ' ',
-                        startDay, ' ',
+                        startDay, ', ',
                         startYear, ' @ ',
                         startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><br><br>'
                         ];
