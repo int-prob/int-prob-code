@@ -82,7 +82,8 @@ function makeApiCall() {
             'calendarId' : userEmail,
             'timeZone' : userTimeZone,
             'singleEvents': true,
-            'timeMin': '2017-04-10T00:00:00.720Z', //gathers only events not happened yet
+            // 'timeMin': today.toISOString(),      //for now will roll manually, but switch to this to do automatic
+            'timeMin': '2017-04-10T00:00:00.720Z',  //gathers only events not happened yet
             'maxResults': maxRows,
             'orderBy': 'startTime'});
     request.execute(function (resp) {
