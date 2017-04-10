@@ -37,6 +37,11 @@ layout: default
 - Shalin Parekh (Columbia University), 2017-
 
 
+# Recent junior members
+
+- [Konstantin Matveev][kostya]
+
+- [Alexander Moll][moll]
 
 
 
@@ -56,3 +61,5 @@ layout: default
 [hao]: http://math.columbia.edu/~hshen/
 [abuf]: https://sites.google.com/site/alexeybufetov/home
 [mustazee]: http://math.mit.edu/~mustazee/
+[moll]: http://www.ihes.fr/~moll/
+[kostya]: http://www.brandeis.edu/facultyguide/person.html?emplid=6dab03864a2fd23f5d5a08280ff66a845ebc8fa5
