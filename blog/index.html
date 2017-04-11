@@ -48,9 +48,9 @@ title: News - Integrable Probability FRG
     {% if page == paginator.page %}
       <em><a href="#" class="btn btn-active" role="button">{{ page }}</a></em>
     {% elsif page == 1 %}
-      <a href="{{site.url }}{{ 'blog/index.html' | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-default" role="button">{{ page }}</a>
+      <a href="{{site.url }}{{ '/blog/index.html' | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-default" role="button">{{ page }}</a>
     {% else %}
-      <a href="{{site.url }}{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="btn btn-default" role="button">{{ page }}</a>
+      <a href="{{site.url }}/{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="btn btn-default" role="button">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
