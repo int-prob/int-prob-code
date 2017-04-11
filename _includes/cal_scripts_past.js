@@ -3,7 +3,7 @@ var clientId = '924411057957-sc2sk1rd27p32ip0kkv2lcn87v23mtfn.apps.googleusercon
 var apiKey = 'AIzaSyBPoIIEB_Xn6UOv1RKNnWkf9LrDzpsrNzM'; //choose public apiKey, any IP allowed (leave blank the allowed IP boxes in Google Dev Console)
 var userEmail = "mls9vssib1s3gvtqkbs76s1s5s@group.calendar.google.com"; //your calendar Id
 var userTimeZone = "New_York"; //example "Rome" "Los_Angeles" ecc...
-var maxRows = 200; //events to shown
+var maxRows = 1000; //events to shown
 var calName = ""; //name of calendar (write what you want, doesn't matter)
 
 var scopes = 'https://www.googleapis.com/auth/calendar';
@@ -83,7 +83,7 @@ function makeApiCall() {
             'timeZone' : userTimeZone,
             'singleEvents': true,
             'timeMin': '2017-04-01T00:00:00.720Z', //gathers only events not happened yet
-            'timeMax': today.toISOString(), //gathers only events which already happened
+            'timeMax': '2021-04-10T00:00:00.720Z', //gathers only events which already happened
             'maxResults': maxRows,
             'orderBy': 'startTime'});
     request.execute(function (resp) {
@@ -136,5 +136,5 @@ function makeApiCall() {
 <script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
     <div id='content'>
     <h4 id='calendar' style="color:grey">LOADING . . . .</h4>
-    <ul id='events'></ul>
+    <ol id='events'></ol>
     </div>
