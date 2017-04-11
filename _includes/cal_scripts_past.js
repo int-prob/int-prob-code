@@ -87,7 +87,8 @@ function makeApiCall() {
             'maxResults': maxRows,
             'orderBy': 'startTime'});
     request.execute(function (resp) {
-            for (var i = 0; i < resp.items.length; i++) {
+            // for (var i = 0; i < resp.items.length; i++) {
+            for (var i = resp.items.length -1; i>=0; i--) {
                 var li = document.createElement('li');
                 var item = resp.items[i];
                 var classes = [];
@@ -136,5 +137,5 @@ function makeApiCall() {
 <script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
     <div id='content'>
     <h4 id='calendar' style="color:grey">LOADING . . . .</h4>
-    <ol id='events'></ol>
+    <ol reversed id='events'></ol>
     </div>
