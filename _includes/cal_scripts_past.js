@@ -107,7 +107,7 @@ function makeApiCall() {
                     startDayWeek, ' ',
                     startMonth, ' ',
                     startDay, ', ',
-                    startYear, '</a></b> - ', item.summary, ' in ', item.location, '<br><br>'
+                    startYear, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><br><br>'
                     ];
                 }
                 else{
