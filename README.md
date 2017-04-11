@@ -22,16 +22,20 @@ The source code is hosted here and is automatically compiled into a static HTML 
   - If not, fork the repository, make changes, commit and push. Then create a pull request
 - You can also preview the local copy of the website by making Jekyll run a simple server. This requires a local installation of Jekyll. Details are explained [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
-## Organization
+## Organization of the webpage
 
-Besides static pages such as this readme, the list of people, or the page with links to courses, there are two sources from which the content is generated "dynamically":
+### 1. "Static" content
+
+There is a number of "static" pages such as this readme, the list of people, or the page with links to courses. The static pages should be updated by hand. Overall, Jekyll provides very nice tools to reuse HTML code (such as in the top navigation bar), see the snippets in the \_includes folder.
+
+### 2. "Dynamic" content
+
+There are two sources from which some of the content is generated "dynamically":
 
 - The FRG google calendar containing events such as conferences (with details and links) on topics close to Integrable Probability, in which FRG members organize or participate in. The main page shows up to 10 upcoming events from this calendar, and all events (together with a google calendar) are listed in the events tab
 - There is a blog-like functionality which powers the lists of publications, talks. Up to 7 new items are displayed on the main page. The blog posts are located in [this folder](https://github.com/integrable-probability/integrable-probability.github.io/tree/writing_readme/blog/_posts). One publication/talk = one file. The publications are pulled from the arXiv by last names of the participants in a semi-automated regime using the [script](https://github.com/lenis2000/arXiv_API). All other items such as publications and other blog entries can be added manually by making a new file. Any other content (pictures, PDFs, etc) can also be uploaded and displayed on the website using usual HTML
 
-The static pages should be updated by hand. Overall, Jekyll provides very nice tools to reuse HTML code (such as in the top navigation bar), see the snippets in the \_includes folder
-
-## Things which need constant maintenance
+### 3. Things which need constant maintenance
 - arXiv updates by FRG members using the [script](https://github.com/lenis2000/arXiv_API)
 - events using the FRG google calendar
 - other updates like slides of talks, courses, etc.
