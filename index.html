@@ -15,7 +15,7 @@ layout: default
     <h3><a href="{{site.url }}/blog">News</a></h3>
 
     <ul>
-      {% for post in site.posts limit:10 %}
+      {% for post in site.posts limit:7 %}
       <li>
         [<small>{{ post.date | date: "%B %-d, %Y" }}</small>] <b><a href="{{site.url }}{{ post.url }}">{{ post.title }}</a></b>
         {{ post.excerpt | markdownify }}

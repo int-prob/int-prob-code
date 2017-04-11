@@ -3,7 +3,7 @@ title: "Publications - Integrable Probability FRG"
 layout: default
 ---
 
-<ol>
+<ol reversed>
   {% for post in site.posts %}
   {% for tag in post.tags %}
   {% if tag == "publication" %}
