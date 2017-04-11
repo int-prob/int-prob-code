@@ -18,8 +18,8 @@ A few things to note first:
 
 Besides static pages such as this readme, the list of people, or the page with links to courses, there are two sources from which the content is generated "dynamically":
 
-- The FRG google calendar containing events such as conferences (with details and links) on topics close to Integrable Probability, in which FRG members organize or participate in. The main pages shows up to 10 upcoming events from this calendar.
-- The 
+- The FRG google calendar containing events such as conferences (with details and links) on topics close to Integrable Probability, in which FRG members organize or participate in. The main page shows up to 10 upcoming events from this calendar, and all events (together with a google calendar) are listed in the events tab
+- There is a blog-like functionality which powers the lists of publications, talks. Up to 7 new items are displayed on the main page. The blog posts are located in [this folder](https://github.com/integrable-probability/integrable-probability.github.io/tree/writing_readme/blog/_posts). One publication/talk = one file. The publications are pulled from the arXiv by last names of the participants in a semi-automated regime using the [script](https://github.com/lenis2000/arXiv_API). All other items such as publications and other blog entries can be added manually by making a new file. Any other content (pictures, PDFs, etc) can also be uploaded and displayed on the website using usual HTML
 
 ## Things which need constant maintenance
 - arXiv updates by FRG members using the [script](https://github.com/lenis2000/arXiv_API)
