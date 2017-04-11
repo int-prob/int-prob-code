@@ -2,19 +2,19 @@
 
 This is a GitHub pages repository for the [Integrable Probability FRG webpage](https://integrable-probability.github.io/). These ReadMe notes are intended to document how the webpage is organized, and facilitate its collaborative editing.
 
-A few things to note first:
+## Things to note first
 
-### Automatic webpage generation
+### 1. Webpage is generated automatically
 
 The source code is hosted here and is automatically compiled into a static HTML that is displayed as the webpage using [Jekyll](https://jekyllrb.com/). [Here](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) is GitHub-specific documentation. In particular, any change in the code is reflected on the webpage (within a couple of minutes)
 
-### Public code repository
+### 2. This is a public code repository
 
 - This repository, including every change, is public
 - There is a number of "collaborators" with direct access to modifying the website. Every change is recorded and can be easily reverted, so edits in general cannot break the website
 - Any other GitHub user can submit edits (a "pull request") which can be approved by collaborators and included in the code
 
-### How to make changes
+### 3. How to make changes
 
 - Changes to the code can be made directly in browser. This is especially convenient for smaller changes
 - For larger changes:
