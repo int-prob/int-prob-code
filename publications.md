@@ -3,7 +3,7 @@ title: "Publications - Integrable Probability FRG"
 layout: default
 ---
 
-<h2>All publications by FRG participants<h2>
+<h2>All publications by FRG participants since January 2017<h2>
 <h3>(tag&nbsp;<a href="{{site.url }}/blog/tags/NSF_FRG" title="View posts tagged with &quot;NSF_FRG&quot;"
 class="btn btn-default" role="button">NSF_FRG</a>&nbsp;=&nbsp;acknowledges the FRG grant support)</h3>
 
