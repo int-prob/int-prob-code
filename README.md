@@ -26,7 +26,7 @@ The source code is hosted here and is automatically compiled into a static HTML 
 
 ### 1. "Static" content
 
-There is a number of "static" pages such as this readme, the list of people, or the page with links to courses. The static pages should be updated by hand. Overall, Jekyll provides very nice tools to reuse HTML code (such as in the top navigation bar), see the snippets in the \_includes folder.
+There is a number of "static" pages such as this readme, the list of people, or the page with links to courses. The static pages should be updated by hand. Overall, Jekyll provides very nice tools to reuse HTML code (such as in the top navigation bar), see the snippets in the [\_includes folder](https://github.com/integrable-probability/integrable-probability.github.io/tree/master/_includes).
 
 ### 2. "Dynamic" content
 
