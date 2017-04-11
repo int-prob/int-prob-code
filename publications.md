@@ -11,8 +11,10 @@ layout: default
     [<i>{{ post.date | date: "%B %-d, %Y" }}</i>]
     &nbsp;&nbsp;
     {% for tag in post.tags %}
+    {% if tag != "publication" %}
     <a href="{{site.url }}/blog/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"
-    class="btn btn-default" role="button">{{ tag }}</a>{% if forloop.last != true %}{% endif %}{% endfor %}
+    class="btn btn-default" role="button">{{ tag }}</a>{% if forloop.last != true %}{% endif %}{% endif %}
+    {% endfor %}
     &nbsp;&nbsp;
     <b><a href="{{site.url }}{{ post.url }}">{{ post.title }}</a></b>
     <table>
