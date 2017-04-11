@@ -6,7 +6,7 @@ This is a GitHub pages repository for the [Integrable Probability FRG webpage](h
 
 ### 1. Webpage is generated automatically
 
-The source code is hosted here and is automatically compiled into a static HTML that is displayed as the webpage using [Jekyll](https://jekyllrb.com/). [Here](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) is GitHub-specific documentation. In particular, any change in the code is reflected on the webpage (within a couple of minutes)
+The source code is hosted here and is automatically compiled into a static HTML that is displayed as the webpage using [Jekyll](https://jekyllrb.com/). [Here](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) is GitHub-specific documentation. In particular, any change in the code is reflected on the webpage (within a couple of minutes). There is a soft limit of 10 builds/hour.
 
 ### 2. This is a public code repository
 
