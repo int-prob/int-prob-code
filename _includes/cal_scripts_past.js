@@ -107,7 +107,7 @@ function makeApiCall() {
                     startDayWeek, ' ',
                     startMonth, ' ',
                     startDay, ', ',
-                    startYear, '</a></b> - ', item.summary, ' in ', item.location, '<br><br>'
+                    startYear, '</a></b> - ', item.summary, ' in ', item.location, '<hr>'
                     ];
                 }
                 else{
@@ -120,7 +120,7 @@ function makeApiCall() {
                         startMonth, ' ',
                         startDay, ', ',
                         startYear, ' @ ',
-                        startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><br><br>'
+                        startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><hr>'
                         ];
                 }
                 li.innerHTML = str.join('');
