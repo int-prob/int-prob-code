@@ -3,8 +3,11 @@ title: "Publications - Integrable Probability FRG"
 layout: default
 ---
 
-<p align="right">(<b>tag</b>&nbsp;&nbsp;<a href="{{site.url }}/blog/tags/NSF_FRG" title="View posts tagged with &quot;NSF_FRG&quot;"
-class="btn btn-default" role="button">NSF_FRG</a>&nbsp;&nbsp;<b>=&nbsp;&nbsp;acknowledges the FRG grant support</b>)</p>
+<h2>All publications by FRG participants<h2>
+<h3>(tag&nbsp;<a href="{{site.url }}/blog/tags/NSF_FRG" title="View posts tagged with &quot;NSF_FRG&quot;"
+class="btn btn-default" role="button">NSF_FRG</a>&nbsp;=&nbsp;acknowledges the FRG grant support)</h3>
+
+<hr>
 
 <ol reversed>
   {% for post in site.posts %}
