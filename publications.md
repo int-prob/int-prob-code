@@ -23,8 +23,7 @@ class="btn btn-default" role="button">NSF_FRG</a>&nbsp;&nbsp;=&nbsp;&nbsp;acknow
     <table>
       <tr>
         <td style="padding-left:40px">
-          <p>{{ post.excerpt | markdownify }}
-          <a href="{{site.url }}{{ post.url }}" class="btn btn-default" role="button">Abstract</a></p>
+          <p>{{ post.excerpt | markdownify }}</p>
         </td>
       </tr>
     </table>
