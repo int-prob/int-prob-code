@@ -41,7 +41,7 @@ layout: default
 
 - [Zhipeng Liu][zhipeng] (Courant)
 - [Konstantin Matveev][kostya] (Brandeis)
-- [Alexander Moll][moll] (IHES)
+- [Alexander Moll][moll] (IHES / Bonn)
 
 
 
