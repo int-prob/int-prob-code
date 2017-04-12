@@ -22,5 +22,3 @@ layout: default
   {% endfor %}
   {% endfor %}
 </ol>
-
-test build
