@@ -39,9 +39,9 @@ layout: default
 
 # Recent junior members
 
-- [Zhipeng Liu][zhipeng]
-- [Konstantin Matveev][kostya]
-- [Alexander Moll][moll]
+- [Zhipeng Liu][zhipeng] (Courant)
+- [Konstantin Matveev][kostya] (Brandeis)
+- [Alexander Moll][moll] (IHES)
 
 
 
