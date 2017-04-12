@@ -16,7 +16,7 @@ layout: default
 - [Hao Shen][hao] (Columbia University), 2015-2018
 
 - [Axel Saenz][axel] (University of Virginia), 2016-2019
-- [Yi Sun][yi] (Columbia University), 2016-2019
+- [Yi Sun][yi] (Columbia University), 2016-2020
 - [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019
 
 - [Alisa Knizel][alisa] (Columbia University), 2017-2020
