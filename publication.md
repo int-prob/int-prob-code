@@ -18,7 +18,7 @@ class="btn btn-default" role="button">NSF_FRG</a>&nbsp;=&nbsp;acknowledges the F
     &nbsp;
     {% for tag in post.tags %}
     {% if tag != "publication" %}
-    <a href="{{site.url }}/blog/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"
+    <a href="{{site.url }}/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"
     class="btn btn-default" role="button">{{ tag }}</a>{% if forloop.last != true %}{% endif %}{% endif %}
     {% endfor %}
     &nbsp;
