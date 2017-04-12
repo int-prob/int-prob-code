@@ -40,7 +40,6 @@ layout: default
 # Recent junior members
 
 - [Konstantin Matveev][kostya]
-
 - [Alexander Moll][moll]
 
 
