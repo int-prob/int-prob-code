@@ -42,6 +42,7 @@ There are two sources from which some of the content is generated "dynamically":
 
 ## ToDos
 1. Add a pretty picture or two on the front page and/or somewhere else
+2. Add the NSF grant number and link to it as soon as there is an award
 2. Link to homepages of graduate students if they exist
 3. As FRG events (workshops, conferences, summer schools) are organized, create and maintain their dedicated webpages, possibly as subpages of this website
 4. Create a forum-like space to discuss Integrable Probability, and open it to anonymous comments during FRG events. This item needs technical thinking: how to best organize a moderated forum; can we marry it to [Mathoverflow](https://mathoverflow.net), how to best run LaTeX at the forum, etc.
