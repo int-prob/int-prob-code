@@ -2,6 +2,7 @@ url: "https://int-prob.github.io"
 
 name: Integrable Probability FRG
 description: Integrable Probability Focused Research Group
+teaser: {{site.url}}/img/paths.jpg
 
 markdown: kramdown
 highlighter: rouge
