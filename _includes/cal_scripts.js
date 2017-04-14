@@ -6,7 +6,7 @@ var userTimeZone = "New_York"; //example "Rome" "Los_Angeles" ecc...
 var maxRows = 10; //events to shown
 var calName = ""; //name of calendar (write what you want, doesn't matter)
 
-var scopes = 'https://www.googleapis.com/auth/calendar';
+var scopes = 'https://www.googleapis.com/auth/calendar.readonly';
 
 //--------------------- Add a 0 to numbers
 function padNum(num) {
@@ -77,13 +77,13 @@ function handleAuthResult(authResult) {
 //--------------------- API CALL itself
 function makeApiCall() {
     var today = new Date(); //today date
+    today.setDate(today.getDate() - 60); //today date minus 60 days
     gapi.client.load('calendar', 'v3', function () {
         var request = gapi.client.calendar.events.list({
             'calendarId' : userEmail,
             'timeZone' : userTimeZone,
             'singleEvents': true,
-            // 'timeMin': today.toISOString(),      //for now will roll manually, but switch to this to do automatic
-            'timeMin': '2017-04-10T00:00:00.720Z',  //gathers only events not happened yet
+            'timeMin': today.toISOString(),
             'maxResults': maxRows,
             'orderBy': 'startTime'});
     request.execute(function (resp) {

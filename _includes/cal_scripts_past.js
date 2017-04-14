@@ -6,7 +6,7 @@ var userTimeZone = "New_York"; //example "Rome" "Los_Angeles" ecc...
 var maxRows = 1000; //events to shown
 var calName = ""; //name of calendar (write what you want, doesn't matter)
 
-var scopes = 'https://www.googleapis.com/auth/calendar';
+var scopes = 'https://www.googleapis.com/auth/calendar.readonly';
 
 //--------------------- Add a 0 to numbers
 function padNum(num) {
