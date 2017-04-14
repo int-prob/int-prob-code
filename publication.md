@@ -9,6 +9,8 @@ class="btn btn-default" role="button">NSF_FRG</a>&nbsp;=&nbsp;acknowledges the F
 
 <hr>
 
+<img src="{{site.url}}/img/publ.jpg" width="30%" align="right">
+
 <ol reversed>
   {% for post in site.posts %}
   {% for tag in post.tags %}
