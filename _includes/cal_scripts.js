@@ -62,7 +62,7 @@ function handleClientLoad() {
 
 //--------------------- check Auth
 function checkAuth() {
-    gapi.auth.authorize({scope: scopes, immediate: true}, handleAuthResult);
+    gapi.auth.authorize({client_id: clientId, scope: scopes, immediate: true}, handleAuthResult);
 }
 //--------------------- end
 
