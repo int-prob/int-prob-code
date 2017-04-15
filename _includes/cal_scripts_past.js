@@ -19,7 +19,8 @@ function padNum(num) {
 
 //--------------------- From 24h to Am/Pm
 function AmPm(num) {
-    if (num <= 12) { return "am " + num; }
+    if (num < 12) { return "am " + num; }
+    if (num == 12) { return "pm " + num; }
     return "pm " + padNum(num - 12);
 }
 //--------------------- end
