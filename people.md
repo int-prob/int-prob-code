@@ -26,7 +26,7 @@ layout: default
 
 - Evgeni Dimitrov (MIT), 2013-
 
-- Cesar Cuenca (MIT), 2014-
+- [Cesar Cuenca][cesar] (MIT), 2014-
 
 - Amol Aggarwal (Harvard), 2015-
 - Andrew Ahn (MIT), 2015-
@@ -65,3 +65,4 @@ layout: default
 [moll]: http://www.ihes.fr/~moll/
 [kostya]: http://www.brandeis.edu/facultyguide/person.html?emplid=6dab03864a2fd23f5d5a08280ff66a845ebc8fa5
 [zhipeng]: http://cims.nyu.edu/~zhipeng/
+[cesar]: http://math.mit.edu/~cuenca/
