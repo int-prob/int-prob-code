@@ -1,4 +1,4 @@
-# Focused Research Group in Integrable Probability
+# Focused Research Group in Integrable Probability &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://travis-ci.org/int-prob/int-prob.github.io.svg?branch=master">
 
 This is a GitHub pages repository for the [Integrable Probability FRG webpage](https://int-prob.github.io/). These ReadMe notes are intended to document how the webpage is organized, and facilitate its collaborative editing.
 
