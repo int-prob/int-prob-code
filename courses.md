@@ -1,5 +1,6 @@
 ---
-title: "Courses - Integrable Probability FRG"
+title: "Seminars - Integrable Probability FRG"
+permalink: /seminars/
 layout: default
 ---
 
