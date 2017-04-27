@@ -16,7 +16,7 @@ layout: default
 - [Hao Shen][hao] (Columbia University), 2015-2018
 
 - [Axel Saenz][axel] (University of Virginia), 2016-2019
-- [Guilherme Silva] (University of Michigan), 2017-2020
+- [Guilherme Silva][silva] (University of Michigan), 2017-2020
 - [Yi Sun][yi] (Columbia University), 2016-2020
 - [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019
 
@@ -67,3 +67,4 @@ layout: default
 [kostya]: http://www.brandeis.edu/facultyguide/person.html?emplid=6dab03864a2fd23f5d5a08280ff66a845ebc8fa5
 [zhipeng]: http://cims.nyu.edu/~zhipeng/
 [cesar]: http://math.mit.edu/~cuenca/
+[silva]:https://sites.google.com/site/guilhermesilvamath/
