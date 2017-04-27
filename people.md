@@ -31,6 +31,7 @@ layout: default
 
 - Amol Aggarwal (Harvard), 2015-
 - Andrew Ahn (MIT), 2015-
+- Yuchen Liao (University of Michigan), 2015-
 - Xuan Wu (Columbia University), 2015-
 
 - Promit Ghosal (Columbia University), 2016-
