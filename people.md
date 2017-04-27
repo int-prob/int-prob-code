@@ -9,7 +9,7 @@ layout: default
 
 # Postdocs
 
-1. [Guillaume Barraquand][guil] (Columbia University), 2015-2018
+- [Guillaume Barraquand][guil] (Columbia University), 2015-2018
 - [Alexey Bufetov][abuf] (MIT), 2015-2018
 - [Jeffrey Kuan][jeff] (Columbia University), 2015-2018
 - [Mustazee Rahman][mustazee] (MIT), 2015-2018
@@ -25,7 +25,7 @@ layout: default
 
 # Graduate students
 
-1. Evgeni Dimitrov (MIT), 2013-
+- Evgeni Dimitrov (MIT), 2013-
 
 - [Cesar Cuenca][cesar] (MIT), 2014-
 
@@ -41,7 +41,7 @@ layout: default
 
 # Recent junior members
 
-1. [Zhipeng Liu][zhipeng] (Courant)
+- [Zhipeng Liu][zhipeng] (Courant)
 - [Konstantin Matveev][kostya] (Brandeis)
 - [Alexander Moll][moll] (IHES / Bonn)
 
