@@ -16,6 +16,7 @@ layout: default
 - [Hao Shen][hao] (Columbia University), 2015-2018
 
 - [Axel Saenz][axel] (University of Virginia), 2016-2019
+- [Guilherme Silva] (University of Michigan), 2017-2020
 - [Yi Sun][yi] (Columbia University), 2016-2020
 - [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019
 
