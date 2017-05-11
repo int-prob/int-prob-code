@@ -102,13 +102,18 @@ function makeApiCall() {
                 var startDay = date[2];
                 var startDateISO = new Date(startMonth + " " + startDay + ", " + startYear + " 00:00:00");
                 var startDayWeek = dayString(startDateISO.getDay());
+                var suppd = "none";
+                if( item.description.includes("supported by the NSF FRG grant") )
+                {
+                  suppd = "{{site.hlcolor}}";
+                }
                 if( allDay == true){ //change this to match your needs
                     var str = [
-                    '<b><a href="', item.htmlLink, '">',
+                    '<div style="background-color:', suppd, '"><b><a href="', item.htmlLink, '">',
                     startDayWeek, ' ',
                     startMonth, ' ',
                     startDay, ', ',
-                    startYear, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><br><br>'
+                    startYear, '</a></b> - ', item.summary, ' in <b>', item.location, '</b></div><br>'
                     ];
                 }
                 else{
@@ -116,12 +121,12 @@ function makeApiCall() {
                     var startHour = AmPm(time[0]);
                     var startMin = time[1];
                     var str = [ //change this to match your needs
-                        '<b><a href="', item.htmlLink, '">',
+                        '<div style="background-color:', suppd, '"><b><a href="', item.htmlLink, '">',
                         startDayWeek, ' ',
                         startMonth, ' ',
                         startDay, ', ',
                         startYear, ' @ ',
-                        startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b><br><br>'
+                        startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b></div><br>'
                         ];
                 }
                 li.innerHTML = str.join('');
