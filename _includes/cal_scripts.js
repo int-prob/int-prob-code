@@ -78,7 +78,7 @@ function handleAuthResult(authResult) {
 //--------------------- API CALL itself
 function makeApiCall() {
     var today = new Date(); //today date
-    today.setDate(today.getDate() - 40); //today date minus 40 days
+    today.setDate(today.getDate() - 20); //today date minus HOWEVER MANY days
     gapi.client.load('calendar', 'v3', function () {
         var request = gapi.client.calendar.events.list({
             'calendarId' : userEmail,
