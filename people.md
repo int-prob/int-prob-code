@@ -43,7 +43,7 @@ layout: default
 
 - [Zhipeng Liu][zhipeng] (Courant)
 - [Konstantin Matveev][kostya] (Brandeis)
-- [Alexander Moll][moll] (IHES / Bonn)
+- Alexander Moll (IHES / Bonn)
 
 
 
@@ -64,7 +64,7 @@ layout: default
 [hao]: http://math.columbia.edu/~hshen/
 [abuf]: https://sites.google.com/site/alexeybufetov/home
 [mustazee]: http://math.mit.edu/~mustazee/
-[moll]: http://www.ihes.fr/~moll/
+<!-- [moll]: http://www.ihes.fr/~moll/ -->
 [kostya]: http://www.brandeis.edu/facultyguide/person.html?emplid=6dab03864a2fd23f5d5a08280ff66a845ebc8fa5
 [zhipeng]: http://cims.nyu.edu/~zhipeng/
 [cesar]: http://math.mit.edu/~cuenca/
