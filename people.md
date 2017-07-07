@@ -17,7 +17,7 @@ layout: default
 
 - [Axel Saenz][axel] (University of Virginia), 2016-2019
 - [Guilherme Silva][silva] (University of Michigan), 2016-2019
-- [Yi Sun][yi] (Columbia University), 2016-2020
+- [Yi Sun][yi] (Columbia University), 2016-2019
 - [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019
 
 - [Alisa Knizel][alisa] (Columbia University), 2017-2020
