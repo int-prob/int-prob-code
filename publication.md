@@ -5,7 +5,7 @@ layout: default
 
 <h2>All publications by FRG participants since January 2017<h2>
 <h3>(tag&nbsp;<a href="{{site.url }}/blog/tags/NSF_FRG" title="View posts tagged with &quot;NSF_FRG&quot;"
-class="btn btn-default" role="button">NSF_FRG</a>&nbsp;=&nbsp;acknowledges the FRG grant support)</h3>
+class="btn btn-default" role="button">NSF_FRG</a>&nbsp;=&nbsp;<span style="background-color:{{site.hlcolor}}">acknowledges the FRG grant support</span>)</h3>
 
 <hr>
 
@@ -20,15 +20,15 @@ class="btn btn-default" role="button">NSF_FRG</a>&nbsp;=&nbsp;acknowledges the F
     &nbsp;
     {% for tag in post.tags %}
     {% if tag != "publication" %}
-    <a href="{{site.url }}/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"
+    <a href="{{site.url }}/blog/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"
     class="btn btn-default" role="button">{{ tag }}</a>{% if forloop.last != true %}{% endif %}{% endif %}
     {% endfor %}
     &nbsp;
     <b><a href="{{site.url }}{{ post.url }}">{{ post.title }}</a></b>
     <table>
       <tr>
-        <td style="padding-left:40px">
-          <p>{{ post.content | markdownify }}</p>
+        <td style="padding-left:20px">
+          <p><div {%if post.tags contains 'NSF_FRG' %}style="background-color:{{site.hlcolor}}"{%endif%}>{{ post.content | markdownify }}</div></p>
         </td>
       </tr>
     </table>

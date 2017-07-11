@@ -3,7 +3,8 @@ title: "Home - Integrable Probability FRG"
 layout: default
 ---
 
-<h1>Integrable Probability Focused Research Group (NSF Grant 2017-20)</h1>
+<h1 class="hidden-sm hidden-xs">Integrable Probability Focused Research Group (NSF Grant 2017-20)</h1>
+<h2 class="hidden-lg hidden-md hidden-xl">Integrable Probability Focused Research Group (NSF Grant 2017-20)</h2>
 
 
 
@@ -17,7 +18,7 @@ layout: default
 
     <ul>
       {% for post in site.posts limit:7 %}
-      <li>
+      <li {%if post.tags contains 'NSF_FRG' %}style="background-color:{{site.hlcolor}}"{%endif%}>
         [<small>{{ post.date | date: "%B %-d, %Y" }}</small>] <b><a href="{{site.url }}{{ post.url }}">{{ post.title }}</a></b>
         {{ post.excerpt | markdownify }}
       </li>
