@@ -1,8 +1,5 @@
 ---
 layout: default
 permalink: /error.html
+title: Error page
 ---
-
-Home &bull; Integrable Probability FRG
-
-Error page
