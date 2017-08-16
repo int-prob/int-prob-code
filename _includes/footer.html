@@ -1,0 +1,26 @@
+<footer>
+          <div class="container">
+            <hr>
+            <div class="row">
+              <div class="col-md-6" style="font-size:16px">
+                Supported by the NSF grants
+                        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664531">1664531</a>,
+                        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664617">1664617</a>,
+                        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664619">1664619</a>,
+                        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664650">1664650</a><br>
+                <img src="{{site.url}}/img/nsf1.gif" style="width:15%" alt="NSF logo">
+              </div>
+              <div class="col-md-6" style="font-size:16px">
+                <div style="float: right">
+                  Maintained by L.Petrov
+                  (<a href="mailto:petrov@virginia.edu">email</a>)
+                  and other <a href="{{site.url}}/people/">members of the FRG</a>
+                </div>
+                <div style="float: right">
+                  Powered by <a {% if paginator.page %}href="https://github.com/int-prob/int-prob.github.io/blob/master/blog/index.html"
+                  {% else %}href="https://github.com/int-prob/int-prob.github.io/blob/master/{{page.path}}"{% endif %} target="_blank">GitHub pages</a>
+              </div>
+              </div>
+            </div>
+          </div>
+</footer>
