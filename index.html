@@ -1,0 +1,35 @@
+---
+title: "Home - Integrable Probability FRG"
+---
+
+<h1 class="hidden-sm hidden-xs">Integrable Probability Focused Research Group (NSF Grant 2017-20)</h1>
+<h2 class="hidden-lg hidden-md hidden-xl">Integrable Probability Focused Research Group (NSF Grant 2017-20)</h2>
+
+
+
+<div class="row">
+  <div class="col-md-5">
+    <h3>Principal Investigators</h3>
+
+
+    <h3><a href="{{site.url }}/blog">News</a></h3>
+
+    <ul>
+      {% for post in site.posts limit:7 %}
+      <li {%if post.tags contains 'NSF_FRG' %}style="background-color:{{site.hlcolor}}"{%endif%}>
+        [<small>{{ post.date | date: "%B %-d, %Y" }}</small>] <b><a href="{{site.url }}{{ post.url }}">{{ post.title }}</a></b>
+        {{ post.excerpt | markdownify }}
+      </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+  <div class="col-md-7">
+    <img src="{{site.url}}/img/paths.jpg" style="width:100%" alt="Nonintersecting paths">
+
+
+    <h3>Upcoming Events (<a href="{{site.url}}/events/index.html">all</a>)</h3>
+
+  </div>
+
+</div>
