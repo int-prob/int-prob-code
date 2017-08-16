@@ -1,25 +1,24 @@
 <footer>
-          <div class="container">
-            <hr>
-            <div class="row">
-              <div class="col-md-6" style="font-size:16px">
-                Supported by the NSF grants
-                        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664531">1664531</a>,
-                        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664617">1664617</a>,
-                        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664619">1664619</a>,
-                        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664650">1664650</a><br>
-                <img src="{{site.url}}/img/nsf1.gif" style="width:15%" alt="NSF logo">
-              </div>
-              <div class="col-md-6" style="font-size:16px">
-                <div style="float: right">
-                  Maintained by <a href="mailto:petrov@virginia.edu"><i class="fa fa-envelope" aria-hidden="true"></i> L.Petrov</a>
-                  and other <a href="{{site.url}}/people/">members of the FRG</a>
-                </div>
-                <div style="float: right">
-                  Powered by <a {% if paginator.page %}href="https://github.com/int-prob/int-prob-code/blob/master/posts/index.html"
-                  {% else %}href="https://github.com/int-prob/int-prob-code/blob/master/{{page.path}}"{% endif %} target="_blank">GitHub pages</a>
-              </div>
-              </div>
-            </div>
-          </div>
+  <div class="container">
+    <hr>
+    <div class="row">
+      <div class="col-md-6" style="font-size:16px">
+        Supported by the NSF grants
+        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664531">1664531</a>,
+        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664617">1664617</a>,
+        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664619">1664619</a>,
+        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1664650">1664650</a>.<br>
+        <img class="hidden-sm-down" src="{{site.url}}/img/nsf1.gif" style="width:15%" alt="NSF logo">
+
+        <br class="hidden-md-up">
+      </div>
+      <div class="col-md-1" style="font-size:16px">
+      </div>
+      <div class="col-md-5" style="font-size:16px">
+          Maintained by <a href="mailto:petrov@virginia.edu"><i class="fa fa-envelope" aria-hidden="true"></i> L.Petrov</a> and other <a href="{{site.url}}/people/">members of the FRG</a>.<br />
+          Powered by <a {% if paginator.page %}href="https://github.com/int-prob/int-prob-code/blob/master/posts/index.html" {% else %}href="https://github.com/int-prob/int-prob-code/blob/master/{{page.path}}" {% endif %} target="_blank">GitHub</a> and
+          <a href="https://travis-ci.org/int-prob/int-prob-code/builds" target="_blank">Travis CI</a>.
+      </div>
+    </div>
+  </div>
 </footer>
