@@ -119,7 +119,7 @@ function makeApiCall() {
                 }
                 if( allDay == true){ //change this to match your needs
                   var str = [
-                  '<div style="background-color:', suppd, '"><b><a href="', item.htmlLink, '">',
+                  '<div style="background-color:', suppd, ' !important"><b><a href="', item.htmlLink, '">',
                   startDayWeek, ' ',
                   startMonth, ' ',
                   startDay, ', ',

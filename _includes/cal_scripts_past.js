@@ -131,7 +131,7 @@ function makeApiCall() {
                     var startHour = AmPm(time[0]);
                     var startMin = time[1];
                     var str = [ //change this to match your needs
-                        '<div style="background-color:', suppd, '"><b><a href="', item.htmlLink, '">',
+                        '<div style="background-color:', suppd, ' !important"><b><a href="', item.htmlLink, '">',
                         startDayWeek, ' ',
                         startMonth, ' ',
                         startDay, ', ',
