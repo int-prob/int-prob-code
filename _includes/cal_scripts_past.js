@@ -73,6 +73,16 @@ function handleAuthResult(authResult) {
         makeApiCall();
     }
 }
+function getDetails(abst, htlink)
+  {
+    if (abst)
+    {
+      var retStr = ['<details><summary>Details</summary>' , abst.replace(/(?:\r\n|\r|\n)/g, '<br />'), '<br><a href="' ,  htlink, '">Google Calendar link</a><br>', '</details>'];
+      // appendPre(retStr);
+      return retStr.join('');
+    }
+    return '';
+  }
 //--------------------- end
 
 //--------------------- API CALL itself
@@ -113,7 +123,7 @@ function makeApiCall() {
                     startDayWeek, ' ',
                     startMonth, ' ',
                     startDay, ', ',
-                    startYear, '</a></b> - ', item.summary, ' in <b>', item.location, '</b></div><br>'
+                    startYear, '</a></b> - ', item.summary, ' in <b>', item.location, '</b>', getDetails(item.description, item.htmlLink), '</div><br>'
                     ];
                 }
                 else{
@@ -126,7 +136,7 @@ function makeApiCall() {
                         startMonth, ' ',
                         startDay, ', ',
                         startYear, ' @ ',
-                        startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b></div><br>'
+                        startHour, ':', startMin, '</a></b> - ', item.summary, ' in <b>', item.location, '</b>', getDetails(item.description, item.htmlLink), '</div><br>'
                         ];
                 }
                 li.innerHTML = str.join('');
@@ -140,7 +150,7 @@ function makeApiCall() {
 //--------------------- end
 </script>
 
-<script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
+<script src='https://apis.google.com/js/client.js?onload=handleClientLoad' async></script>
     <div id='content'>
     <h4 id='calendar' style="color:grey">LOADING . . . .</h4>
     <ol reversed id='events'></ol>
