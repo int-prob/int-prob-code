@@ -1,4 +1,67 @@
 ---
+layout: default
 nav_id: .
 nav_weight: 200
 ---
+
+<div class="row">
+  <div class="col-md-6">
+    <h1>All news</h1>
+  </div>
+  <div class="col-md-6">
+    <!-- These are prev/next buttons -->
+    {% if paginator.total_pages > 1 %}
+    <div class="h1 float-md-right">
+      {% if paginator.previous_page %}
+        <a href="{{site.url }}{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-secondary" role="button">&laquo; Prev</a>
+      {% else %}
+        <span><a href="#" class="btn btn-secondary" role="button">&laquo; Prev</a></span>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <em><a href="#" class="btn btn-primary" role="button">{{ page }}</a></em>
+        {% elsif page == 1 %}
+          <a href="{{site.url }}{{ '/posts/index.html' | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-secondary" role="button">{{ page }}</a>
+        {% else %}
+          <a href="{{site.url }}/{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="btn btn-secondary" role="button">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="{{site.url }}{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-secondary" role="button">Next &raquo;</a>
+      {% else %}
+        <span><a href="#" class="btn btn-secondary" role="button">Next &raquo;</a></span>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+<br>
+
+<!-- This loops through the paginated posts -->
+<table class="my-tr-zebra">
+  <tbody>
+  {% for post in paginator.posts %}
+  <tr>
+    <td>
+      <div class="row">
+        <div class="col-md-9" style="font-size:22px">
+          <b>{{ post.date | date: "%B %-d, %Y" }} - <a href="{{site.url }}{{ post.url }}">{{ post.title }}</a></b>
+        </div>
+              <div class="col-md-3" align="right">
+              <div class="btn-group">
+              {% for tag in post.tags %} <a href="{{site.url }}/tag/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"
+              class="btn btn-secondary" role="button">{{ tag }}</a>  {% if forloop.last != true %} {% endif %} {% endfor %}
+              </div>
+              </div>
+              </div>
+
+              <p>{{ post.excerpt | markdownify }}<a href="{{site.url }}{{ post.url }}" class="btn btn-secondary" role="button">Read more...</a></p>
+    </td>
+    </tr>
+  {% endfor %}
+
+</tbody>
+</table>
