@@ -150,7 +150,7 @@ function makeApiCall() {
 //--------------------- end
 </script>
 
-<script src='https://apis.google.com/js/client.js?onload=handleClientLoad' async></script>
+<script src='https://apis.google.com/js/client.js?onload=handleClientLoad' defer></script>
     <div id='content'>
     <h4 id='calendar' style="color:grey">LOADING . . . .</h4>
     <ul id='events'></ul>
