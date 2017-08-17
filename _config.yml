@@ -11,6 +11,8 @@ excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 paginate: 10
 paginate_path: "posts/page:num"
 permalink: pretty
-gems: [jekyll-paginate]
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
 
 hlcolor: "#FFE099"

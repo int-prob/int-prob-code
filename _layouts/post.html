@@ -9,8 +9,8 @@ layout: default
 </div>
 <div class="col-md-8" align="right">
 <div class="btn-group">
-{% for tag in page.tags %} <a href="{{site.url }}/blog/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"
-class="btn btn-default" role="button">{{ tag }}</a>  {% if forloop.last != true %} {% endif %} {% endfor %}
+{% for tag in page.tags %} <a href="{{site.url }}/tag/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"
+class="btn btn-secondary" role="button">{{ tag }}</a>  {% if forloop.last != true %} {% endif %} {% endfor %}
 </div>
 </div>
 </div>
