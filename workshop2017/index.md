@@ -14,4 +14,4 @@ The goal is to set the stage for many new problems, collaborations and research 
 The meeting is intended for just the research group members and close collaborators, and is not open for general attendance.
 
 
-<img src="{{site.url}}/img/central_park.jpg" style="max-width:100%">
+<img src="{{site.url}}/img/central_park.jpg" style="max-width:100%" alt="Snowy Central Park">
