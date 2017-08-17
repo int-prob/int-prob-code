@@ -77,7 +77,7 @@ function getDetails(abst, htlink)
   {
     if (abst)
     {
-      var retStr = ['<details><summary>Details</summary>' , abst.replace(/(?:\r\n|\r|\n)/g, '<br />'), '<br><a href="' ,  htlink, '">Google Calendar link</a><br>', '</details>'];
+      var retStr = ['<details style="background-color: #F1F1EF;"><summary>Details</summary>' , abst.replace(/(?:\r\n|\r|\n)/g, '<br />'), '<br><a href="' ,  htlink, '">Google Calendar link</a><br>', '</details>'];
       // appendPre(retStr);
       return retStr.join('');
     }
@@ -150,7 +150,7 @@ function makeApiCall() {
 //--------------------- end
 </script>
 
-<script src='https://apis.google.com/js/client.js?onload=handleClientLoad' defer></script>
+<script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
     <div id='content'>
     <h4 id='calendar' style="color:grey">LOADING . . . .</h4>
     <ol reversed id='events'></ol>
