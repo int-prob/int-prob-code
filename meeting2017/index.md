@@ -19,14 +19,14 @@ The meeting is intended for just the research group members and close collaborat
 
 <h5>Some photos from the meeting</h5>
 
-<img src="{{site.url}}/img/meeting2017/oct2017_1.jpg" style="max-width:50%" alt="FRG Meeting, October 2017">
+<img src="{{site.url}}/img/meeting2017/oct2017_1.jpg" style="max-width:100%" alt="FRG Meeting, October 2017">
 
-<img src="{{site.url}}/img/meeting2017/oct2017_2.jpg" style="max-width:50%" alt="FRG Meeting, October 2017">
+<img src="{{site.url}}/img/meeting2017/oct2017_2.jpg" style="max-width:100%" alt="FRG Meeting, October 2017">
 
-<img src="{{site.url}}/img/meeting2017/oct2017_3.jpg" style="max-width:50%" alt="FRG Meeting, October 2017">
+<img src="{{site.url}}/img/meeting2017/oct2017_3.jpg" style="max-width:100%" alt="FRG Meeting, October 2017">
 
-<img src="{{site.url}}/img/meeting2017/oct2017_4.jpg" style="max-width:50%" alt="FRG Meeting, October 2017">
+<img src="{{site.url}}/img/meeting2017/oct2017_4.jpg" style="max-width:100%" alt="FRG Meeting, October 2017">
 
-<img src="{{site.url}}/img/meeting2017/oct2017_5.jpg" style="max-width:50%" alt="FRG Meeting, October 2017">
+<img src="{{site.url}}/img/meeting2017/oct2017_5.jpg" style="max-width:100%" alt="FRG Meeting, October 2017">
 
-<img src="{{site.url}}/img/meeting2017/oct2017_6.jpg" style="max-width:50%" alt="FRG Meeting, October 2017">
+<img src="{{site.url}}/img/meeting2017/oct2017_6.jpg" style="max-width:100%" alt="FRG Meeting, October 2017">
