@@ -63,7 +63,7 @@ nav_id: Members
 [yi]: http://yisun.io/
 [licheng]: https://lc-tsai.github.io/
 [alisa]: http://www.math.columbia.edu/people/alphabetical-faculty-listing/name/alisa-knizel/
-[hao]: http://math.columbia.edu/~hshen/
+[hao]: http://www.math.columbia.edu/~xinsun/
 [abuf]: https://sites.google.com/site/alexeybufetov/home
 [mustazee]: http://math.mit.edu/~mustazee/
 <!-- [moll]: http://www.ihes.fr/~moll/ -->
