@@ -62,7 +62,7 @@ nav_id: Members
 [xin]: http://math.mit.edu/~xinsun89/
 [yi]: http://yisun.io/
 [licheng]: https://lc-tsai.github.io/
-[alisa]: https://math.mit.edu/~alisik/
+[alisa]: http://www.math.columbia.edu/people/alphabetical-faculty-listing/name/alisa-knizel/
 [hao]: http://math.columbia.edu/~hshen/
 [abuf]: https://sites.google.com/site/alexeybufetov/home
 [mustazee]: http://math.mit.edu/~mustazee/
