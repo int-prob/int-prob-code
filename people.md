@@ -59,11 +59,11 @@ nav_id: Members
 [axel]: http://faculty.virginia.edu/saenz/
 [guil]: http://math.columbia.edu/~barraquand/
 [jeff]: http://www.math.columbia.edu/~kuan/
-[xin]: http://math.mit.edu/~xinsun89/
+[xin]: http://www.math.columbia.edu/~xinsun/
 [yi]: http://yisun.io/
 [licheng]: https://lc-tsai.github.io/
 [alisa]: http://www.math.columbia.edu/people/alphabetical-faculty-listing/name/alisa-knizel/
-[hao]: http://www.math.columbia.edu/~xinsun/
+[hao]: http://www.math.columbia.edu/~hshen/
 [abuf]: https://sites.google.com/site/alexeybufetov/home
 [mustazee]: http://math.mit.edu/~mustazee/
 <!-- [moll]: http://www.ihes.fr/~moll/ -->
