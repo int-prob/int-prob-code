@@ -10,4 +10,16 @@ permalink: /conference2018/
 
 ### MIT, Cambridge, MA
 
-(other information will be added soon)
+## Preliminary list of speakers
+
+ 
+- Pierre Le Doussal
+- Kurt Johansson
+- Richard Kenyon
+- Atsuo Kuniba
+- Satya Majumdar
+- Sylvain Prolhac
+- Jeremy Quastel
+- Nicolai Reshetikhin
+- Fabio Toninelli
+- Michael Wheeler
