@@ -14,7 +14,7 @@ permalink: /conference2018/
 
 ## Preliminary list of speakers
 
-+1. Amol Aggarwal (Harvard)
+1. Amol Aggarwal (Harvard)
 1. Andrew Ahn (MIT)
 1. Jinho Baik (University of Michigan)
 1. Guillaume Barraquand (Columbia University)
