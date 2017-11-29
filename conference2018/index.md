@@ -12,7 +12,7 @@ permalink: /conference2018/
 
 ---
 
-## Preliminary list of speakers
+## Preliminary list of participants
 
 1. Amol Aggarwal (Harvard)
 1. Andrew Ahn (MIT)
