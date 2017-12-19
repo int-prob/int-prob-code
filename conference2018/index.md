@@ -12,6 +12,12 @@ permalink: /conference2018/
 
 ---
 
+## Registration form
+
+If you are going to participate in the conference and are not listed below, please fill out the short [google form](https://docs.google.com/forms/d/e/1FAIpQLSd1VkdcfST04yqtHNogt8T3s84q58-Y937EFaGDajveq9M67w/viewform)
+
+---
+
 ## Preliminary list of participants
 
 1. Amol Aggarwal (Harvard)
