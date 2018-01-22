@@ -30,6 +30,7 @@ If you are going to participate in the conference and are not listed below, plea
 1. Cesar Cuenca (MIT)
 1. Evgeni Dimitrov (MIT)
 1. Pierre Le Doussal (LPT, École Normale Supérieure)
+1. Patrik Ferrari (Bonn)
 1. Promit Ghosal (Columbia University)
 1. Vadim Gorin (MIT)
 1. Kurt Johansson (KTH)
