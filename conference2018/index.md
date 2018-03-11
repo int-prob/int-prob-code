@@ -54,6 +54,7 @@ If you are going to participate in the conference and are not listed below, plea
 1. Jeremy Quastel (University of Toronto)
 1. Mustazee Rahman (MIT)
 1. Nicolai Reshetikhin (Berkeley)
+1. Marianna Russkikh (Geneva)
 1. Mark Rychnovsky (Columbia)
 1. Axel Saenz (University of Virginia)
 1. Hao Shen (Columbia University)
