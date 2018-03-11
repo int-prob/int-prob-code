@@ -40,6 +40,8 @@ nav_id: Members
 
 - Shalin Parekh (Columbia University), 2017-
 
+<!-- - Yier Lin (Columbia University), 2017- -->
+<!-- - Mark Rychnovsky (Columbia University), 2017- -->
 
 # Recent junior members
 
