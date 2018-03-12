@@ -25,6 +25,9 @@ nav_id: Members
 - [Alisa Knizel][alisa] (Columbia University), 2017-2020
 - [Xin Sun][xin] (Columbia University), 2017-2020
 
+- Konstantin Matetski (Columbia University) 2018-2021
+- Evgeni Dimitrov (Columbia University) 2018-2021
+
 # Graduate students
 
 - Evgeni Dimitrov (MIT), 2013-
@@ -37,11 +40,11 @@ nav_id: Members
 - Xuan Wu (Columbia University), 2015-
 
 - Promit Ghosal (Columbia University), 2016-
+- Yier Lin (Columbia University), 2016-
+- Mark Rychnovsky (Columbia University), 2016-
 
 - Shalin Parekh (Columbia University), 2017-
-
-<!-- - Yier Lin (Columbia University), 2017- -->
-<!-- - Mark Rychnovsky (Columbia University), 2017- -->
+- Maithreya Sitaraman (Columbia University) 2017-
 
 # Recent junior members
 
