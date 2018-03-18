@@ -50,7 +50,6 @@ If you are going to participate in the conference and are not listed below, plea
 1. Mihai Nica (University of Toronto)
 1. Shalin Parekh (Columbia University)
 1. Leonid Petrov (University of Virginia)
-<!-- 1. Drazen Petrovic	(IUPUI, Indianapolis) -->
 1. Sylvain Prolhac (LPT Toulouse)
 1. Jeremy Quastel (University of Toronto)
 1. Mustazee Rahman (MIT)
@@ -66,3 +65,5 @@ If you are going to participate in the conference and are not listed below, plea
 1. Li-Cheng Tsai (Columbia University)
 1. Xuan Wu (Columbia University)
 1. Michael Wheeler (Melbourne)
+
+<!-- 1. Drazen Petrovic	(IUPUI, Indianapolis) -->
