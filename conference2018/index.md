@@ -46,6 +46,7 @@ If you are going to participate in the conference and are not listed below, plea
 1. Satya Majumdar (LPTMS Université de Paris-Sud)
 1. Konstantin Matetski (University of Toronto)
 1. Konstantin Matveev (Brandeis)
+1. Sevak Mkrtchyan (Rochester)
 1. Mihai Nica (University of Toronto)
 1. Shalin Parekh (Columbia University)
 1. Leonid Petrov (University of Virginia)
