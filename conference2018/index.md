@@ -38,6 +38,7 @@ If you are going to participate in the conference and are not listed below, plea
 1. Kurt Johansson (KTH)
 1. Richard Kenyon (Brown)
 1. Alisa Knizel (Columbia University)
+1. Tomas Kojar (University of Toronto)
 1. Jeffrey Kuan (Columbia University)
 1. Atsuo Kuniba (University of Tokyo)
 1. Yuchen Liao (University of Michigan)
@@ -63,6 +64,7 @@ If you are going to participate in the conference and are not listed below, plea
 1. Yi Sun (Columbia University)
 1. Fabio Toninelli (CNRS and Universite Lyon 1, Institut Camille Jordan)
 1. Li-Cheng Tsai (Columbia University)
+1. Dong Wang (National University of Singapore)
 1. Xuan Wu (Columbia University)
 1. Michael Wheeler (Melbourne)
 
