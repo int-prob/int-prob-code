@@ -41,6 +41,7 @@ If you are going to participate in the conference and are not listed below, plea
 1. Tomas Kojar (University of Toronto)
 1. Jeffrey Kuan (Columbia University)
 1. Atsuo Kuniba (University of Tokyo)
+1. Eunghyun Lee (Nazarbayev University)
 1. Yuchen Liao (University of Michigan)
 1. Yier Lin (Columbia University)
 1. Zhipeng Liu (University of Kansas)
