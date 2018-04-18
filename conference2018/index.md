@@ -68,5 +68,6 @@ If you are going to participate in the conference and are not listed below, plea
 1. Dong Wang (National University of Singapore)
 1. Xuan Wu (Columbia University)
 1. Michael Wheeler (Melbourne)
+1. Xufan Zhang (Brown)
 
 <!-- 1. Drazen Petrovic	(IUPUI, Indianapolis) -->
