@@ -6,9 +6,9 @@ nav_id: Conference 2018
 permalink: /conference2018/
 ---
 
-# May 14-18, 2018
+# Integrable Probability Boston 2018 (IntProb Boston)
 
-### MIT, Cambridge, MA
+### May 14-18, 2018, MIT, Cambridge, MA
 
 ---
 
