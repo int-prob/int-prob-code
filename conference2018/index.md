@@ -10,6 +10,8 @@ permalink: /conference2018/
 
 ### May 14-18, 2018, MIT, Cambridge, MA
 
+### Location: 2-449
+
 ---
 
 ## Registration form
