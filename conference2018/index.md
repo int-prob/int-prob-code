@@ -12,6 +12,8 @@ permalink: /conference2018/
 
 ### Location: 2-449
 
+### [Schedule]({{site.url}}/conference2018/schedule/)
+
 ---
 
 ## Registration form

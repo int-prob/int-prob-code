@@ -14,5 +14,6 @@ permalink: pretty
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-redirect-from
 
 hlcolor: "#FFE099"
