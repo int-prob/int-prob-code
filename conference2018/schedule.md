@@ -13,6 +13,8 @@ permalink: /conference2018/schedule/
 
 ### Location: 2-449
 
+### [Main conference page]({{site.url}}/conference2018/)
+
 ---
 
 <h1 class="mb-5">Conference schedule</h1>
