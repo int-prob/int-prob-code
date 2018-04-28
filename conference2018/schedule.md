@@ -24,13 +24,13 @@ permalink: /conference2018/schedule/
 <h4 id="monday-may-14">Monday, May 14</h4>
 
 <ol>
-  <li>10.00 - 11.00 &bull; <strong>Quastel</strong> 
+  <li>10.00 - 11.00 &bull; <strong>Jeremy Quastel</strong> 
   <details style="background-color:#b9a9a9">
   <summary>TASEP and the KPZ fixed point</summary>
   <div style="background-color:#d9c9c9; padding:10px">TBA</div>
   </details>
   </li>
-  <li>11.30 - 12.30 &bull; <strong>Ferrari</strong> 
+  <li>11.30 - 12.30 &bull; <strong>Patrik Ferrari</strong> 
   <details style="background-color:#b9a9a9">
   <summary>On the time-time correlations close to the characteristic line</summary>
     <div style="background-color:#d9c9c9; padding:10px">We consider the time correlations for KPZ growth models in 1+1
@@ -43,7 +43,7 @@ Occelli.</div>
   </details>
   <div class="mb-2 mt-2" style="font-weight:bold">Lunch</div></li>
   
-  <li>2.30 - 3.30  &bull;  <strong>Kuniba</strong>
+  <li>2.30 - 3.30  &bull;  <strong>Atsuo Kuniba</strong>
   <details style="background-color:#b9a9a9">
   <summary>Aspects of stationary states in multispecies exclusion and zero range
 processes</summary>
@@ -60,7 +60,7 @@ representations of U_q(\hat{sl}_L) and admit parallel description. (Joint
 work with M. Okado and S. Maruyama)</div>
   </details>
   </li>
-  <li>4.00 - 5.00  &bull;  <strong>Barraquand</strong>
+  <li>4.00 - 5.00  &bull;  <strong>Guillaume Barraquand</strong>
   <details style="background-color:#b9a9a9">
   <summary>Macdonald processes and KPZ equation in a half space</summary>
   <div style="background-color:#d9c9c9; padding:10px">
@@ -84,7 +84,7 @@ with Alexei Borodin, Ivan Corwin and Michael Wheeler.
 <h4 id="tuesday-may-15">Tuesday, May 15</h4>
 
 <ol>
-  <li>10.00 - 11.00  &bull; <strong>Kuan</strong>
+  <li>10.00 - 11.00  &bull; <strong>Jeffrey Kuan</strong>
   <details style="background-color:#bccea8">
   <summary>Algebraic constructions of Markov duality functions</summary>
   <div style="background-color:#DCEDC8; padding:10px">Markov duality in spin chains and exclusion processes has found a
@@ -97,7 +97,7 @@ models, and their multi-species analogues.
 </div>
   </details>
   </li>
-  <li>11.30 - 12.30 &bull; <strong>Toninelli</strong> 
+  <li>11.30 - 12.30 &bull; <strong>Fabio Toninelli</strong> 
   <details style="background-color:#bccea8">
   <summary>A (2+1)-dimensional Anisotropic KPZ growth model with a
 rigid phase (joint work with S. Chhita, <a href="https://arxiv.org/abs/1802.05493">arXiv:1802.05493</a>)</summary>
@@ -116,13 +116,13 @@ with two-periodic edge weights.
   </details>
 </li>
 <div class="mb-2 mt-2" style="font-weight:bold">Lunch</div>
-  <li>2.30 - 3.30 &bull;  <strong>Wheeler</strong>
+  <li>2.30 - 3.30 &bull;  <strong>Michael Wheeler</strong>
   <details style="background-color:#bccea8">
   <summary>TBA</summary>
   <div style="background-color:#DCEDC8; padding:10px">TBA</div>
   </details>
   </li>
-  <li>4.00 - 5.00 &bull;  <strong>Gorin</strong>
+  <li>4.00 - 5.00 &bull;  <strong>Vadim Gorin</strong>
   <details style="background-color:#bccea8">
   <summary>  Telegraph equation from the six-vertex model</summary>
   <div style="background-color:#DCEDC8; padding:10px">
@@ -140,13 +140,13 @@ and its stochastic inhomogeneous version governs the fluctuations.
 <h4 id="wednesday-may-16">Wednesday, May 16</h4>
 
 <ol>
-  <li>9.00 - 10.00   &bull;  <strong>Bufetov</strong>
+  <li>9.00 - 10.00   &bull;  <strong>Alexey Bufetov</strong>
   <details style="background-color:#b9a9a9">
   <summary>TBA</summary>
   <div style="background-color:#d9c9c9; padding:10px">TBA</div>
   </details>
   </li>
-  <li>10.15 - 11.15  &bull; <strong>Johansson</strong>
+  <li>10.15 - 11.15  &bull; <strong>Kurt Johansson</strong>
   <details style="background-color:#b9a9a9">
   <summary>Two-time distribution in last-passage percolation</summary>
   <div style="background-color:#d9c9c9; padding:10px">I will discuss a new approach to computing the two-time distribution in last-passage
@@ -158,7 +158,7 @@ some aspects of the computations involved.
 </div>
   </details>
   </li>
-  <li>11.45 - 12.45  &bull; <strong>Kenyon</strong>
+  <li>11.45 - 12.45  &bull; <strong>Richard Kenyon</strong>
   <details style="background-color:#b9a9a9">
   <summary>Dimers and circles</summary>
   <div style="background-color:#d9c9c9; padding:10px">A circle pattern is an embedding of a planar graph in which the faces have circumscribed circles.
@@ -174,7 +174,7 @@ This is joint with Wei Yeung Lam (Brown).</div>
 <h4 id="thursday-may-17">Thursday, May 17</h4>
 
 <ol>
-  <li>10.00 - 11.00 &bull; <strong>Prolhac</strong>
+  <li>10.00 - 11.00 &bull; <strong>Sylvain Prolhac</strong>
   <details style="background-color:#bccea8">
   <summary>Brownian bridges for late time KPZ fluctuations in finite volume</summary>
   <div style="background-color:#DCEDC8; padding:10px">
@@ -191,7 +191,7 @@ leads to explicit expressions involving half-integer polylogarithms
 for specific initial conditions.
   </div>
   </details></li>
-  <li>11.30 - 12.30 &bull; <strong>Majumdar</strong>
+  <li>11.30 - 12.30 &bull; <strong>Satya Majumdar</strong>
   <details style="background-color:#bccea8">
   <summary>Truncated linear statistics associated with the top eigenvalues of random
 matrices</summary>
@@ -220,7 +220,7 @@ universal.
   </details>
 </li>
 <div class="mb-2 mt-2" style="font-weight:bold">Lunch</div>
-  <li>2.30 - 3.30 &bull;  <strong>Rahman</strong>
+  <li>2.30 - 3.30 &bull;  <strong>Mustazee Rahman</strong>
   <details style="background-color:#bccea8">
   <summary>On shocks in the TASEP</summary>
   <div style="background-color:#DCEDC8; padding:10px">
@@ -235,7 +235,7 @@ expressed in terms of GOE Tracy-Widom laws.
 </div>
   </details>
   </li>
-  <li>4.00 - 5.00 &bull; <strong>Tsai</strong>
+  <li>4.00 - 5.00 &bull; <strong>Li-Cheng Tsai</strong>
   <details style="background-color:#bccea8">
   <summary>KPZ equation limit for the six vertex model</summary>
   <div style="background-color:#DCEDC8; padding:10px">The Six Vertex (6V) model, initially introduced as a
@@ -263,7 +263,7 @@ Joint work with Ivan Corwin, Promit Ghosal, and Hao Shen</div>
 <h4 id="friday-may-18">Friday, May 18</h4>
 
 <ol>
-  <li>9.00 - 10.00 &bull; <strong>Petrov</strong>
+  <li>9.00 - 10.00 &bull; <strong>Leonid Petrov</strong>
   <details style="background-color:#b9a9a9">
   <summary>Nonequilibrium particle systems in inhomogeneous space</summary>
   <div style="background-color:#d9c9c9; padding:10px">
@@ -281,7 +281,7 @@ bonds and infinite traffic jams caused by slowdowns.
   </details>
   </li>
   <li>10.05 - 11.05  &bull; 
-  <strong>Liu</strong>
+  <strong>Zhipeng Liu</strong>
   <details style="background-color:#b9a9a9">
   <summary>Multi-point distribution of periodic TASEP with general initial
 condition</summary>
@@ -297,7 +297,7 @@ so-called relaxation time scale. This is joint with Jinho Baik.
   </details>
   </li>
   <li>11.35 - 12.35 &bull; 
-  <strong>Shen</strong>
+  <strong>Hao Shen</strong>
   <details style="background-color:#b9a9a9">
   <summary>Open ASEP and KPZ equation</summary>
   <div style="background-color:#d9c9c9; padding:10px">
@@ -305,7 +305,7 @@ so-called relaxation time scale. This is joint with Jinho Baik.
   </div>
   </details>
   </li>
-  <li>12.40 - 1.40 &bull; <strong>Le Doussal</strong>
+  <li>12.40 - 1.40 &bull; <strong>Pierre Le Doussal</strong>
   <details style="background-color:#b9a9a9">
   <summary>Large deviations for the KPZ equation</summary>
   <div style="background-color:#d9c9c9; padding:10px">
