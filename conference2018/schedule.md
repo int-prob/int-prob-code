@@ -24,6 +24,8 @@ permalink: /conference2018/schedule/
 <h4 id="monday-may-14">Monday, May 14</h4>
 
 <ol>
+<li>09.55 - 10.00 &bull; <strong>Opening remarks</strong> 
+  </li>
   <li>10.00 - 11.00 &bull; <strong>Jeremy Quastel</strong> 
   <details style="background-color:#b9a9a9">
   <summary>TASEP and the KPZ fixed point</summary>
