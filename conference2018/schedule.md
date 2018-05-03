@@ -120,8 +120,8 @@ with two-periodic edge weights.
 <div class="mb-2 mt-2" style="font-weight:bold">Lunch</div>
   <li>2.30 - 3.30 &bull;  <strong>Michael Wheeler</strong>
   <details style="background-color:#bccea8">
-  <summary>TBA</summary>
-  <div style="background-color:#DCEDC8; padding:10px">TBA</div>
+  <summary> Coloured stochastic vertex models and multivariate orthogonal functions</summary>
+  <div style="background-color:#DCEDC8; padding:10px">We introduce a new family of multivariate rational functions and explain how they arise in the context of higher-rank stochastic vertex models. A number of properties of the functions, such as Cauchy and orthogonality relations, will be outlined. If time permits, applications to multi-species particle systems will also be discussed. This is a joint work with Alexei Borodin.</div>
   </details>
   </li>
   <li>4.00 - 5.00 &bull;  <strong>Vadim Gorin</strong>
