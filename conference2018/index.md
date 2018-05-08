@@ -53,6 +53,7 @@ permalink: /conference2018/
 1. Sylvain Prolhac (LPT Toulouse)
 1. Jeremy Quastel (University of Toronto)
 1. Mustazee Rahman (MIT)
+1. Guillaume Remy	(ENS Paris)
 1. Nicolai Reshetikhin (Berkeley)
 1. Marianna Russkikh (Geneva)
 1. Mark Rychnovsky (Columbia University)
