@@ -296,7 +296,7 @@ bonds and infinite traffic jams caused by slowdowns.
   </div>
   </details>
   </li>
-  <li>10.05 - 11.05  &bull; 
+  <li>10.15 - 11.15  &bull; 
   <strong>Hao Shen</strong>
   <details style="background-color:#b9a9a9">
   <summary>Open ASEP and KPZ equation</summary>
@@ -305,7 +305,7 @@ bonds and infinite traffic jams caused by slowdowns.
   </div>
   </details>
   </li>
-  <li>11.35 - 12.35 &bull; 
+  <li>11.45 - 12.45 &bull; 
   <strong>Pierre Le Doussal</strong>
   <details style="background-color:#b9a9a9">
   <summary>Large deviations for the KPZ equation</summary>
