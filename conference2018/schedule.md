@@ -122,10 +122,10 @@ with two-periodic edge weights.
 </li>
 <div class="mb-2 mt-2" style="font-weight:bold">Lunch</div>
   <li>2.30 - 3.30 &bull; <strong>Zhipeng Liu</strong>
-  <details style="background-color:#b9a9a9">
+  <details style="background-color:#bccea8">
   <summary>Multi-point distribution of periodic TASEP with general initial
 condition</summary>
-  <div style="background-color:#d9c9c9; padding:10px">
+  <div style="background-color:#DCEDC8; padding:10px">
   In this talk, we will discuss our recent progress
 on the multi-time and multi-location distribution of periodic
 TASEP. For a general initial condition, we evaluate this
