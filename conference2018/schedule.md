@@ -121,10 +121,19 @@ with two-periodic edge weights.
   </details>
 </li>
 <div class="mb-2 mt-2" style="font-weight:bold">Lunch</div>
-  <li>2.30 - 3.30 &bull;  <strong>Michael Wheeler</strong>
-  <details style="background-color:#bccea8">
-  <summary> Coloured stochastic vertex models and multivariate orthogonal functions</summary>
-  <div style="background-color:#DCEDC8; padding:10px">We introduce a new family of multivariate rational functions and explain how they arise in the context of higher-rank stochastic vertex models. A number of properties of the functions, such as Cauchy and orthogonality relations, will be outlined. If time permits, applications to multi-species particle systems will also be discussed. This is a joint work with Alexei Borodin.</div>
+  <li>2.30 - 3.30 &bull; <strong>Zhipeng Liu</strong>
+  <details style="background-color:#b9a9a9">
+  <summary>Multi-point distribution of periodic TASEP with general initial
+condition</summary>
+  <div style="background-color:#d9c9c9; padding:10px">
+  In this talk, we will discuss our recent progress
+on the multi-time and multi-location distribution of periodic
+TASEP. For a general initial condition, we evaluate this
+distribution explicitly in terms of a multiple integral involving a
+Fredholm determinant. With some assumptions on the initial
+condition, we are able to compute the large time limit in the
+so-called relaxation time scale. This is joint with Jinho Baik.
+  </div>
   </details>
   </li>
   <li>4.00 - 5.00 &bull;  <strong>Vadim Gorin</strong>
@@ -286,22 +295,6 @@ bonds and infinite traffic jams caused by slowdowns.
   </details>
   </li>
   <li>10.05 - 11.05  &bull; 
-  <strong>Zhipeng Liu</strong>
-  <details style="background-color:#b9a9a9">
-  <summary>Multi-point distribution of periodic TASEP with general initial
-condition</summary>
-  <div style="background-color:#d9c9c9; padding:10px">
-  In this talk, we will discuss our recent progress
-on the multi-time and multi-location distribution of periodic
-TASEP. For a general initial condition, we evaluate this
-distribution explicitly in terms of a multiple integral involving a
-Fredholm determinant. With some assumptions on the initial
-condition, we are able to compute the large time limit in the
-so-called relaxation time scale. This is joint with Jinho Baik.
-  </div>
-  </details>
-  </li>
-  <li>11.35 - 12.35 &bull; 
   <strong>Hao Shen</strong>
   <details style="background-color:#b9a9a9">
   <summary>Open ASEP and KPZ equation</summary>
@@ -310,7 +303,8 @@ so-called relaxation time scale. This is joint with Jinho Baik.
   </div>
   </details>
   </li>
-  <li>12.40 - 1.40 &bull; <strong>Pierre Le Doussal</strong>
+  <li>11.35 - 12.35 &bull; 
+  <strong>Pierre Le Doussal</strong>
   <details style="background-color:#b9a9a9">
   <summary>Large deviations for the KPZ equation</summary>
   <div style="background-color:#d9c9c9; padding:10px">
