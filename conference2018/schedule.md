@@ -156,8 +156,10 @@ and its stochastic inhomogeneous version governs the fluctuations.
 <ol>
   <li>9.00 - 10.00   &bull;  <strong>Alexey Bufetov</strong>
   <details style="background-color:#b9a9a9">
-  <summary>TBA</summary>
-  <div style="background-color:#d9c9c9; padding:10px">TBA</div>
+  <summary>A bijectivization of combinatorial identities behind integrable models</summary>
+  <div style="background-color:#d9c9c9; padding:10px">Abstract: An integrability of many stochastic models is related to the existence of non-trivial combinatorial identities behind them. Two sources of such connections are Cauchy identities in models coming from Macdonald processes, and the Yang-Baxter equation in vertex models of statistical mechanics. I will discuss an idea of bijectivization (or coupling) of these identities.
+
+Based on joint works with K. Matveev and L. Petrov.</div>
   </details>
   </li>
   <li>10.15 - 11.15  &bull; <strong>Kurt Johansson</strong>
