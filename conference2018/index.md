@@ -2,8 +2,8 @@
 layout: default
 title: Conference 2018
 nav_order: 100
-nav_id: Conference 2018
-permalink: /conference2018/
+nav_parent: Conference 2018
+permalink: /conference2018/participants/
 ---
 
 # Integrable Probability Boston 2018 (IntProb Boston)
@@ -12,7 +12,7 @@ permalink: /conference2018/
 
 ### Location: 2-449
 
-### [Schedule]({{site.url}}/conference2018/schedule/)
+### [Schedule]({{site.url}}/conference2018/)
 
 ---
 

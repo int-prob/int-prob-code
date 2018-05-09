@@ -2,18 +2,21 @@
 layout: default
 title: Conference 2018
 nav_order: 100
-nav_parent: Conference 2018
+nav_id: Conference 2018
 redirect_from: /conference2018/c194cb0e62a894b81b536189c6b1a48f_schedule/
-permalink: /conference2018/schedule/
+redirect_from: /conference2018/schedule/
+permalink: /conference2018/
 ---
 
 # Integrable Probability Boston 2018 (IntProb Boston)
 
-### May 14-18, 2018, MIT, Cambridge, MA
+## May 14-18, 2018, MIT, Cambridge, MA
 
-### Location: 2-449
+<h2 class="mb-4">Location: 2-449</h2>
 
-### [Main conference page]({{site.url}}/conference2018/)
+- ### [Participants]({{site.url}}/conference2018/participants/)
+
+- ### [Conference/FRG Forum](http://forum.int-prob.org/)  &nbsp; (login/password available at the conference) 
 
 ---
 
