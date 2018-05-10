@@ -223,7 +223,7 @@ $f(\lambda)=\sqrt{\lambda}$. Using a Coulomb gas method, we derive
 the distribution of $\tilde{L}$ in the limit when $K\to \infty$, $N\to
 \infty$ but with the fraction $0< \kappa= K/N<1$ fixed. We show that the
 constraint that $\tilde{L}= \sum_{n=1}^K f(\lambda_n)$ is fixed,
-leads to an {\em infinite} order phase transition in the underlying Coulomb
+leads to an *infinite* order phase transition in the underlying Coulomb
 gas. This transition corresponds to a change in the optimal charge density
 in the Coulomb gas, from a density supported on two disjoint intervals (for
 large $\tilde{L}$) to a density on a single interval (for small
