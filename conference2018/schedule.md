@@ -204,7 +204,7 @@ terms of conditional probabilities of non-intersecting Brownian
 bridges with exponentially distributed distances between the
 endpoints. Comparison with earlier exact Bethe ansatz asympotics
 leads to explicit expressions involving half-integer polylogarithms
-for specific initial conditions.
+for specific initial conditions. Joint work with Kirone Mallick.
   </div>
   </details></li>
   <li>11.30 - 12.30 &bull; <strong>Satya Majumdar</strong>
