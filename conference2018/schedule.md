@@ -16,7 +16,7 @@ permalink: /conference2018/
 
 - ### [Participants]({{site.url}}/conference2018/participants/)
 
-- ### [Conference/FRG Forum](http://forum.int-prob.org/)  &nbsp; (login/password available at the conference) 
+- ### [Conference Forum](http://forum.int-prob.org/)  &nbsp; (login/password available at the conference) 
 
 ---
 
