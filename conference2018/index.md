@@ -33,6 +33,7 @@ permalink: /conference2018/participants/
 1. Terrence George (Brown)
 1. Promit Ghosal (Columbia University)
 1. Vadim Gorin (MIT)
+1. Ewain Gwynne (MIT)
 1. Kurt Johansson (KTH)
 1. Richard Kenyon (Brown)
 1. Alisa Knizel (Columbia University)
