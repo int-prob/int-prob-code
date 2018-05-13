@@ -30,8 +30,6 @@ nav_id: Members
 
 # Graduate students
 
-- Evgeni Dimitrov (MIT), 2013-
-
 - [Cesar Cuenca][cesar] (MIT), 2014-
 
 - Amol Aggarwal (Harvard), 2015-
@@ -52,7 +50,9 @@ nav_id: Members
 - [Konstantin Matveev][kostya] (Brandeis)
 - [Alexander Moll][moll] (IHES / Bonn)
 
+# Recent graduate students
 
+- Evgeni Dimitrov (MIT), 2013-2018
 
 
 [jb]: http://www.math.lsa.umich.edu/~baik/Welcome.html
