@@ -23,7 +23,7 @@ permalink: /conference2018/
 <h1 class="mb-5">Conference schedule</h1>
 
 <div style="background-color:#d9c9c9;padding:10px" class="mb-3">
-<details><summary><h4 id="monday-may-14">Monday, May 14</h4></summary>
+<details><summary class="h4">Monday, May 14</summary>
 
 <ol>
 <li>09.55 - 10.00 &bull; <strong>Opening remarks</strong> 
