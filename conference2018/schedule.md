@@ -138,7 +138,7 @@ so-called relaxation time scale. This is joint with Jinho Baik.
   </li>
   <li>4.00 - 5.00 &bull;  <strong>Vadim Gorin</strong>
   <details style="background-color:#bccea8">
-  <summary>  Telegraph equation from the six-vertex model</summary>
+  <summary>Telegraph equation from the six-vertex model</summary>
   <div style="background-color:#DCEDC8; padding:10px">
 I will explain how a second order hyperbolic PDE, known as the telegraph
 equation, arises in the asymptotic of the height function of the six-vertex
