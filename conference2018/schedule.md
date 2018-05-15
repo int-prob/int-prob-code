@@ -22,9 +22,8 @@ permalink: /conference2018/
 
 <h1 class="mb-5">Conference schedule</h1>
 
-
 <div style="background-color:#d9c9c9;padding:10px" class="mb-3">
-<h4 id="monday-may-14">Monday, May 14</h4>
+<details><summary><h4 id="monday-may-14">Monday, May 14</h4></summary>
 
 <ol>
 <li>09.55 - 10.00 &bull; <strong>Opening remarks</strong> 
@@ -83,6 +82,7 @@ with Alexei Borodin, Ivan Corwin and Michael Wheeler.
   </details>
   </li>
 </ol>
+</details>
 </div>
 
 <div style="background-color:#DCEDC8;padding:10px"  class="mb-3">
