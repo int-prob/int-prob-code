@@ -86,7 +86,7 @@ with Alexei Borodin, Ivan Corwin and Michael Wheeler.
 </div>
 
 <div style="background-color:#DCEDC8;padding:10px"  class="mb-3">
-<h4 id="tuesday-may-15">Tuesday, May 15</h4>
+<details><summary class="h4">Tuesday, May 15</summary>
 
 <ol>
   <li>10.00 - 11.00  &bull; <strong>Jeffrey Kuan</strong>
@@ -148,6 +148,7 @@ and its stochastic inhomogeneous version governs the fluctuations.
   </details>
   </li>
 </ol>
+</details>
 </div>
 
 <div style="background-color:#d9c9c9;padding:10px"  class="mb-3">
