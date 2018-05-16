@@ -297,7 +297,7 @@ bonds and infinite traffic jams caused by slowdowns.
   </div>
   </details>
   </li>
-  <li>10.15 - 11.15  &bull; 
+  <li>10.10 - 11.10  &bull; 
   <strong>Hao Shen</strong>
   <details style="background-color:#b9a9a9">
   <summary>Open ASEP and KPZ equation</summary>
@@ -322,6 +322,15 @@ bonds and infinite traffic jams caused by slowdowns.
   collaboration with Alexandre Krajenbrink, as well as 
   (i) A. Hartmann, S. Majumdar, G. Schehr, A. Rosso, 
   and (ii) I. Corwin, P. Ghosal, L-C Tsai. 
+  </div>
+  </details>
+  </li>
+  <li>12.55 - 1.55 &bull; 
+  <strong>Alexei Borodin</strong>
+  <details style="background-color:#b9a9a9">
+  <summary>Colored stochastic vertex models and their spectral theory</summary>
+  <div style="background-color:#d9c9c9; padding:10px">
+  TBA
   </div>
   </details>
   </li>
