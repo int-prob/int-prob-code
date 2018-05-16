@@ -152,7 +152,7 @@ and its stochastic inhomogeneous version governs the fluctuations.
 </div>
 
 <div style="background-color:#d9c9c9;padding:10px"  class="mb-3">
-<h4 id="wednesday-may-16">Wednesday, May 16</h4>
+<details><summary class="h4">Wednesday, May 16</summary>
 
 <ol>
   <li>9.00 - 10.00   &bull;  <strong>Alexey Bufetov</strong>
@@ -185,7 +185,9 @@ This is joint with Wei Yeung Lam (Brown).</div>
   </details>
   </li>
 </ol>
+</details>
 </div>
+
 
 <div style="background-color:#DCEDC8;padding:10px"  class="mb-3">
 <h4 id="thursday-may-17">Thursday, May 17</h4>
