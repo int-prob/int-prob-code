@@ -21,10 +21,10 @@ permalink: /conference2018/participants/
 1. Amol Aggarwal (Harvard)
 1. Andrew Ahn (MIT)
 1. Ian Alevy (Brown)
-1. Jinho Baik (University of Michigan)
 1. Guillaume Barraquand (Columbia University)
 1. Alexei Borodin (MIT)
 1. Alexey Bufetov (MIT)
+1. Sherry Chu (MIT Physics)
 1. Ivan Corwin (Columbia University)
 1. Cesar Cuenca (MIT)
 1. Evgeni Dimitrov (MIT)
@@ -54,8 +54,9 @@ permalink: /conference2018/participants/
 1. Sylvain Prolhac (LPT Toulouse)
 1. Jeremy Quastel (University of Toronto)
 1. Mustazee Rahman (MIT)
-1. Guillaume Remy	(ENS Paris)
+1. Guillaume Remy (ENS Paris)
 1. Nicolai Reshetikhin (Berkeley)
+1. Tom Roby	(UConn/MIT)
 1. Marianna Russkikh (Geneva)
 1. Mark Rychnovsky (Columbia University)
 1. Axel Saenz (University of Virginia)
@@ -63,12 +64,14 @@ permalink: /conference2018/participants/
 1. Guilherme Silva (University of Michigan)
 1. Xin Sun (Columbia University)
 1. Yi Sun (Columbia University)
+1. Martin Tassy (Dartmouth)
 1. Fabio Toninelli (CNRS and Universite Lyon 1, Institut Camille Jordan)
 1. Li-Cheng Tsai (Columbia University)
 1. Dong Wang (National University of Singapore)
 1. Xuan Wu (Columbia University)
 1. Xufan Zhang (Brown)
 
+<!-- 1. Jinho Baik (University of Michigan) -->
 <!-- 1. Michael Wheeler (Melbourne) -->
 <!-- 1. Drazen Petrovic	(IUPUI, Indianapolis) -->
 
