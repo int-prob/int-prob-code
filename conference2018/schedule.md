@@ -20,7 +20,7 @@ permalink: /conference2018/
 
 ---
 
-<h1 class="mb-5">Conference schedule</h1>
+<h1 class="mb-4 mt-2">Schedule</h1>
 
 <div style="background-color:#d9c9c9;padding:10px" class="mb-3">
 <details><summary class="h4">Monday, May 14</summary>
@@ -339,3 +339,11 @@ bonds and infinite traffic jams caused by slowdowns.
   </li>
 </ol>
 </div>
+
+
+---
+
+<h1 class="mb-4 mt-2">Pictures</h1>
+
+<a href="{{site.url}}/img/conference2018/IntProb2018.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/IntProb2018-tn.png" style="max-width:45%; max-height:300px;" alt="Photo of participants"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/img/conference2018/IntProb2018a.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/IntProb2018a-tn.png" style="max-width:45%;max-height:300px;" alt="Photo of participants"></a>
