@@ -308,7 +308,7 @@ bonds and infinite traffic jams caused by slowdowns.
   We consider the asymmetric simple exclusion process on the half line and on a bounded interval with sources and sinks, which is called Open ASEP. In the full line, Bertini and Giacomin (1997) proved convergence under weakly asymmetric scaling of the height function to the solution of the KPZ equation on the line. We show that under weakly asymmetric scaling of the sources and sinks as well, the half line height function converges to the KPZ equation on the positive real line with Neumann boundary condition at zero; and the bounded interval height function converges to the KPZ equation on the unit interval with Neumann boundary conditions on both sides. This result demonstrates how the KPZ equation arises at the triple critical point (maximal current / high density / low density) of Open ASEP.  Our result is proved by applying microscopic Hopf-Cole transform. Joint work with Ivan Corwin.
   </div>
   </details>
-  <div class="mb-2 mt-2" style="font-weight:bold">Coffee break with more food</div>
+  <div class="mb-2 mt-2" style="font-weight:bold">Coffee break with food</div>
   </li>
   <li>11.50 - 12.50 &bull; 
   <strong>Pierre Le Doussal</strong>
