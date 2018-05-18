@@ -346,5 +346,29 @@ bonds and infinite traffic jams caused by slowdowns.
 
 <h1 class="mb-4 mt-2">Pictures</h1>
 
-<a href="{{site.url}}/img/conference2018/IntProb2018.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/IntProb2018-tn.png" style="max-width:45%; max-height:300px;" alt="Photo of participants"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="{{site.url}}/img/conference2018/IntProb2018a.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/IntProb2018a-tn.png" style="max-width:45%;max-height:300px;" alt="Photo of participants"></a>
+<div class="row mb-4">
+<div class="col-6">
+<a href="{{site.url}}/img/conference2018/IntProb2018.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/IntProb2018-tn.png" style="max-width:100%; max-height:300px;" alt="Photo of participants"></a>
+</div>
+<div class="col-6">
+<a href="{{site.url}}/img/conference2018/IntProb2018a.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/IntProb2018a-tn.png" style="max-width:100%;max-height:300px;" alt="Photo of participants"></a>
+</div>
+</div>
+
+<div class="row mb-4">
+<div class="col-6">
+<a href="{{site.url}}/img/conference2018/class2.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/class2-tn.png" style="max-width:100%; max-height:300px;" alt="Photo of participants"></a>
+</div>
+<div class="col-6">
+<a href="{{site.url}}/img/conference2018/class2-d.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/class2-d-tn.png" style="max-width:100%;max-height:300px;" alt="Photo of participants"></a>
+</div>
+</div>
+
+<div class="row mb-4">
+<div class="col-6">
+<a href="{{site.url}}/img/conference2018/class2-b.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/class2-b-tn.png" style="max-width:100%; max-height:300px;" alt="Photo of participants"></a>
+</div>
+<div class="col-6">
+<a href="{{site.url}}/img/conference2018/class7.jpg" target="_blank"><img src="{{site.url}}/img/conference2018/class7-tn.png" style="max-width:100%;max-height:300px;" alt="Photo of participants"></a>
+</div>
+</div>
