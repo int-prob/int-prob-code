@@ -23,7 +23,7 @@ permalink: /conference2018/
 <h1 class="mb-4 mt-2">Schedule</h1>
 
 <div style="background-color:#d9c9c9;padding:10px" class="mb-3">
-<details><summary class="h4">Monday, May 14</summary>
+<h4>Monday, May 14</h4>
 
 <ol>
 <li>09.55 - 10.00 &bull; <strong>Opening remarks</strong> 
@@ -82,11 +82,10 @@ with Alexei Borodin, Ivan Corwin and Michael Wheeler.
   </details>
   </li>
 </ol>
-</details>
 </div>
 
 <div style="background-color:#DCEDC8;padding:10px"  class="mb-3">
-<details><summary class="h4">Tuesday, May 15</summary>
+<h4>Tuesday, May 15</h4>
 
 <ol>
   <li>10.00 - 11.00  &bull; <strong>Jeffrey Kuan</strong>
@@ -148,11 +147,10 @@ and its stochastic inhomogeneous version governs the fluctuations.
   </details>
   </li>
 </ol>
-</details>
 </div>
 
 <div style="background-color:#d9c9c9;padding:10px"  class="mb-3">
-<details><summary class="h4">Wednesday, May 16</summary>
+<h4>Wednesday, May 16</h4>
 
 <ol>
   <li>9.00 - 10.00   &bull;  <strong>Alexey Bufetov</strong>
@@ -185,12 +183,11 @@ This is joint with Wei Yeung Lam (Brown).</div>
   </details>
   </li>
 </ol>
-</details>
 </div>
 
 
 <div style="background-color:#DCEDC8;padding:10px"  class="mb-3">
-<details><summary class="h4">Thursday, May 17</summary>
+<h4>Thursday, May 17</h4>
 
 <ol>
   <li>10.00 - 11.00 &bull; <strong>Sylvain Prolhac</strong>
@@ -276,7 +273,6 @@ Joint work with Ivan Corwin, Promit Ghosal, and Hao Shen</div>
   </details>
   </li>
 </ol>
-</details>
 </div>
 
 <div style="background-color:#d9c9c9;padding:10px"  class="mb-3">
