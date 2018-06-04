@@ -61,23 +61,27 @@ function handleClientLoad() {
     console.log("handle");
     gapi.client.setApiKey(apiKey);
     checkAuth();
+    console.log("handle end");
 }
 //--------------------- end
 
 //--------------------- check Auth
 function checkAuth() {
-    console.log("check?");
+    console.log("check auth");
     gapi.auth.authorize({client_id: clientId, scope: scopes, immediate: true}, handleAuthResult);
+    console.log("check auth end");
 }
 //--------------------- end
 
 //--------------------- handle result and make CALL
 function handleAuthResult(authResult) {
-    console.log("auth-result?");
+    console.log("auth-result");
     if (authResult) {
         console.log("auth-result ok");
         makeApiCall();
+        console.log("auth-result ok ok");
     }
+    console.log("auth-result end");
 }
 
 function getDetails(abst, htlink)
@@ -87,8 +91,10 @@ function getDetails(abst, htlink)
     {
       var retStr = ['<details style="background-color: #F1F1EF;"><summary>Details</summary>' , abst.replace(/(?:\r\n|\r|\n)/g, '<br />'), '<br><a href="' ,  htlink, '">Google Calendar link</a><br>', '</details>'];
       // appendPre(retStr);
+      console.log("getDetails end abst");
       return retStr.join('');
     }
+    console.log("getDetails end");
     return '';
   }
 //--------------------- end
