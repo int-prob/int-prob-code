@@ -142,6 +142,7 @@ function makeApiCall() {
                 li.setAttribute('class', classes.join(' '));
                 document.getElementById('events').appendChild(li);
             }
+            document.getElementById('calendar').innerHTML = "";
         });
     });
 }
