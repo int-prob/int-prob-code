@@ -1,4 +1,7 @@
+<script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
+
 <script>
+console.log("script start");
 var clientId = '924411057957-sc2sk1rd27p32ip0kkv2lcn87v23mtfn.apps.googleusercontent.com'; //choose web app client Id, redirect URI and Javascript origin set to http://localhost
 var apiKey = 'AIzaSyBPoIIEB_Xn6UOv1RKNnWkf9LrDzpsrNzM'; //choose public apiKey, any IP allowed (leave blank the allowed IP boxes in Google Dev Console)
 var userEmail = "mls9vssib1s3gvtqkbs76s1s5s@group.calendar.google.com"; //your calendar Id
@@ -7,6 +10,8 @@ var maxRows = 7; //events to shown
 var calName = ""; //name of calendar (write what you want, doesn't matter)
 
 var scopes = 'https://www.googleapis.com/auth/calendar.readonly';
+
+console.log("script start 1");
 
 //--------------------- Add a 0 to numbers
 function padNum(num) {
@@ -86,9 +91,12 @@ function getDetails(abst, htlink)
   }
 //--------------------- end
 
+console.log("script start 2");
+
 //--------------------- API CALL itself
 function makeApiCall() {
     var today = new Date(); //today date
+    console.log("script api call 1");
     today.setDate(today.getDate() - 15); //today date minus HOWEVER MANY days
     gapi.client.load('calendar', 'v3', function () {
         var request = gapi.client.calendar.events.list({
@@ -98,8 +106,10 @@ function makeApiCall() {
             'timeMin': today.toISOString(),
             'maxResults': maxRows,
             'orderBy': 'startTime'});
+            console.log("script loaded");
     request.execute(function (resp) {
             for (var i = 0; i < resp.items.length; i++) {
+                console.log("script iterate");
                 var li = document.createElement('li');
                 var item = resp.items[i];
                 var classes = [];
@@ -150,7 +160,8 @@ function makeApiCall() {
 //--------------------- end
 </script>
 
-<script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
+
+
     <div id='content'>
     <h4 id='calendar' style="color:grey">LOADING . . . .</h4>
     <ul id='events'></ul>
