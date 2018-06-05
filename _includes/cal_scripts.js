@@ -132,8 +132,6 @@ function start() {
   gapi.load('client', start);
 </script>
 
-<script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
-
     <div id='content'>
     <h4 id='calendar' style="color:grey">LOADING . . . .</h4>
     <ul id='events'></ul>
