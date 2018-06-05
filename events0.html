@@ -5,13 +5,10 @@ title: Events0
 <script src="https://apis.google.com/js/api.js"></script>
 <script>
 
-var clientId = '924411057957-sc2sk1rd27p32ip0kkv2lcn87v23mtfn.apps.googleusercontent.com'; //choose web app client Id, redirect URI and Javascript origin set to http://localhost
 var apiKey = 'AIzaSyBPoIIEB_Xn6UOv1RKNnWkf9LrDzpsrNzM'; //choose public apiKey, any IP allowed (leave blank the allowed IP boxes in Google Dev Console)
 var userEmail = "mls9vssib1s3gvtqkbs76s1s5s@group.calendar.google.com"; //your calendar Id
 var userTimeZone = "New_York"; //example "Rome" "Los_Angeles" ecc...
 var maxRows = 7; //events to shown
-
-var scopes = 'https://www.googleapis.com/auth/calendar.readonly';
 
 //--------------------- Add a 0 to numbers
 function padNum(num) {
@@ -145,9 +142,7 @@ function start() {
   gapi.load('client', start);
 </script>
 
-<script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
-
-    <div id='content'>
-    <h4 id='calendar' style="color:grey">LOADING . . . .</h4>
-    <ul id='events'></ul>
-    </div>
+<div id='content'>
+<h4 id='calendar' style="color:grey">LOADING . . . .</h4>
+<ul id='events'></ul>
+</div>
