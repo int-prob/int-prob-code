@@ -1,11 +1,9 @@
+<script src="https://apis.google.com/js/api.js"></script>
 <script>
-var clientId = '924411057957-sc2sk1rd27p32ip0kkv2lcn87v23mtfn.apps.googleusercontent.com'; //choose web app client Id, redirect URI and Javascript origin set to http://localhost
 var apiKey = 'AIzaSyBPoIIEB_Xn6UOv1RKNnWkf9LrDzpsrNzM'; //choose public apiKey, any IP allowed (leave blank the allowed IP boxes in Google Dev Console)
 var userEmail = "mls9vssib1s3gvtqkbs76s1s5s@group.calendar.google.com"; //your calendar Id
 var userTimeZone = "New_York"; //example "Rome" "Los_Angeles" ecc...
 var maxRows = 7; //events to shown
-
-var scopes = 'https://www.googleapis.com/auth/calendar.readonly';
 
 //--------------------- Add a 0 to numbers
 function padNum(num) {
@@ -53,26 +51,6 @@ function dayString(num){
 }
 //--------------------- end
 
-//--------------------- client CALL
-function handleClientLoad() {
-    gapi.client.setApiKey(apiKey);
-    checkAuth();
-}
-//--------------------- end
-
-//--------------------- check Auth
-function checkAuth() {
-    gapi.auth.authorize({client_id: clientId, scope: scopes, immediate: true}, handleAuthResult);
-}
-//--------------------- end
-
-//--------------------- handle result and make CALL
-function handleAuthResult(authResult) {
-    if (authResult) {
-        makeApiCall();
-    }
-}
-
 function getDetails(abst, htlink)
   {
     if (abst)
@@ -85,8 +63,11 @@ function getDetails(abst, htlink)
   }
 //--------------------- end
 
-//--------------------- API CALL itself
-function makeApiCall() {
+function start() {
+  gapi.client.init({
+    'apiKey': apiKey,
+    'discoveryDocs': ['https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest'],
+  }).then(function() {
     var today = new Date(); //today date
     today.setDate(today.getDate() - 15); //today date minus HOWEVER MANY days
     gapi.client.load('calendar', 'v3', function () {
@@ -145,8 +126,10 @@ function makeApiCall() {
             document.getElementById('calendar').innerHTML = "";
         });
     });
-}
-//--------------------- end
+});
+};
+
+  gapi.load('client', start);
 </script>
 
 <script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
