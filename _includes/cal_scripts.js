@@ -55,7 +55,7 @@ function getDetails(abst, htlink)
   {
     if (abst)
     {
-      var retStr = ['<details style="background-color: #F1F1EF;"><summary>Details</summary>' , abst.replace(/(?:\r\n|\r|\n)/g, '<br />'), '<br><a href="' ,  htlink, '">Google Calendar link</a><br>', '</details>'];
+      var retStr = ['<details open style="background-color: #F1F1EF;"><summary></summary>' , abst.replace(/(?:\r\n|\r|\n)/g, '<br />'), '<br><a href="' ,  htlink, '">Google Calendar link</a><br>', '</details>'];
       // appendPre(retStr);
       return retStr.join('');
     }
