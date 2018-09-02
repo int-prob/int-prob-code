@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Conference 2018
-nav_order: 100
-nav_id: Conference 2018
+# nav_order: 100
+# nav_id: Conference 2018
 redirect_from: /conference2018/c194cb0e62a894b81b536189c6b1a48f_schedule/
 redirect_from: /conference2018/schedule/
 permalink: /conference2018/
