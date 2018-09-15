@@ -50,7 +50,7 @@ nav_id: Members
 - [Alisa Knizel][alisa] (MIT), 2012-2017 &bull; Currently Postdoc at Columbia University
 
 - [Konstantin Matveev][kostya] (Harvard), 2011-2016 &bull; Currently Postdoc at Brandeis University
-- [Alexander Moll][moll] (MIT), 2011-2016. 
+- [Alexander Moll][moll] (MIT), 2011-2016. Currently Postdoc at Northeastern University
 
 - [Zhipeng Liu][zhipeng] (University of Michigan), 2009-2014 &bull; Currently Assistant Professor at University of Kansas
 
