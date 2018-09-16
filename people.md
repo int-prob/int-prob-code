@@ -26,7 +26,7 @@ nav_id: Members
 - [Alexey Bufetov][abuf] (MIT), 2015-2018 &bull; Currently Bonn Junior Fellow at Hausdorff Center for Mathematics
 - [Jeffrey Kuan][jeff] (Columbia University), 2015-2018 &bull; Currently Assistant Professor at Texas A&M
 - [Mustazee Rahman][mustazee] (MIT), 2015-2018 &bull; Currently Postdoc at Royal Institute of Technology, Stockholm
-- [Hao Shen][hao] (Columbia University), 2015-2018. Currently Assistant Professor at University of Wisconsin, Madison
+- [Hao Shen][hao] (Columbia University), 2015-2018 &bull; Currently Assistant Professor at University of Wisconsin-Madison
 
 
 # Graduate students
