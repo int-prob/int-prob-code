@@ -31,6 +31,9 @@ nav_id: Members
 
 # Graduate students
 
+- Sergei Korotkikh (MIT), 2018- 
+- Roger Van Peski (MIT), 2018-
+
 - Shalin Parekh (Columbia University), 2017-
 - Maithreya Sitaraman (Columbia University) 2017-
 
