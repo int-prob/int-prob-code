@@ -31,13 +31,13 @@ Unfortunately, no public
 transportation or shuttles exist 
 between RIC or IAD and Charlottesville (from DCA, Washington Metro + Amtrak is a lengthy but public option). 
 Here are some options:
-- One can rent a car from IAD, RIC, or DCA, and also use the car to drive around Charlottesville. 
+- One can rent a car from IAD, RIC, or DCA. During the conference, having a car is convenient but not essential - the University and the town are walkable.
 - Another option is to take a taxi/Uber/Lyft. To/from IAD it is about $150 one way, which is comparable to a one-way car rental.
-- Depending on your flight time, you can use the Amtrak Manassas station which is within a 20-30 minute taxi ride (about $35) from IAD.
-- A taxi service can be reserved in advance ([example](http://thecollegecab.com/Home_Page.html)).
+- A taxi service to the airport can be reserved in advance ([example](http://thecollegecab.com/Home_Page.html)).
+- Depending on your flight time, you can use the Amtrak Manassas station which is within a 20-30 minute taxi ride (about $35) from IAD. Trains run about once a day. It may be a convenient option when going from Charlottesville to IAD as one can wait in the airport.
 
-
-If you need any further help arranging travel details, email [Leo Petrov](mailto:lenia.petrov@gmail.com).
+If you need any further help arranging travel details (for example, pooling a rental car from IAD), please email&nbsp; 
+<a href="mailto:lenia.petrov@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> Leo Petrov</a>.
 
 ---
 
