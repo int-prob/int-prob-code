@@ -32,7 +32,7 @@ Organizer: <a href="mailto:lenia.petrov@gmail.com"><i class="fa fa-envelope" ari
 ##### Week 2
 
 - <a href="https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100380272&lang=en">Tomohiro Sasamoto</a> (Tokyo Institute of Technology, Tokyo, Japan)
-- <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (niversity of Melbourne, Melbourne, Australia)
+- <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia)
 
 ---
 
