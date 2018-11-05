@@ -20,7 +20,7 @@ permalink: /vipss2019/registration/
 
 If you plan to attend the summer school, please **register using the form below**.
 
-We have NSF support to cover accommodation at a University of Virginia residence hall, 
+We have some NSF support to cover accommodation at a University of Virginia residence hall, 
 and to partially contribute towards travel expenses (the travel support amount depends on the number of interested participants).
 Preference will be given to graduate students, postdocs, early career researchers, and members of underrepresented groups. 
 

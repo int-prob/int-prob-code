@@ -18,6 +18,8 @@ permalink: /vipss2019/
 
 The aim of the school is to educate the participants in recent trends around Integrable Probability - a rapidly developing field at the interface of probability / mathematical physics / statistical physics on the one hand, and representation theory / integrable systems on the other. 
 
+Organizer: <a href="mailto:lenia.petrov@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> Leo Petrov</a>.
+
 --- 
 
 <h2 class="mb-4">Mini-courses</h2>
