@@ -21,6 +21,8 @@ The aim of the school is to educate the participants in recent trends around Int
 Organizers: <a href="mailto:lenia.petrov@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> Leo Petrov</a>,
 <a href="mailto:ais6a@virginia.edu"><i class="fa fa-envelope" aria-hidden="true"></i> Axel Saenz</a>
 
+Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html">Jinho Baik</a>, <a href="http://math.mit.edu/directory/profile.php?pid=1222/">Alexei Borodin</a>, <a href="http://www.math.columbia.edu/~corwin/">Ivan Corwin</a>, <a href="https://www.mccme.ru/~vadicgor/">Vadim Gorin</a>, <a href="https://lpetrov.cc">Leo Petrov</a>
+
 --- 
 
 <h2 class="mb-4">Mini-courses</h2>
