@@ -29,13 +29,13 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 
 ##### Week 1
 
-- <a href="http://www.pdmi.ras.ru/~dchelkak/index_en.html">Dmitry Chelkak</a> (École Normale Supérieure, Paris, France)
-- <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> (University of Queensland, Brisbane, Australia)
+- <a href="http://www.pdmi.ras.ru/~dchelkak/index_en.html">Dmitry Chelkak</a> (École Normale Supérieure, Paris, France) &mdash; <b>TBA</b>
+- <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> (University of Queensland, Brisbane, Australia) &mdash; <b>TBA</b>
 
 ##### Week 2
 
-- <a href="https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100380272&lang=en">Tomohiro Sasamoto</a> (Tokyo Institute of Technology, Tokyo, Japan)
-- <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia)
+- <a href="https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100380272&lang=en">Tomohiro Sasamoto</a> (Tokyo Institute of Technology, Tokyo, Japan) &mdash; <b>TBA</b>
+- <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) &mdash; <b>TBA</b>
 
 ---
 
