@@ -29,13 +29,33 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 
 ##### Week 1
 
-- <a href="http://www.pdmi.ras.ru/~dchelkak/index_en.html">Dmitry Chelkak</a> (École Normale Supérieure, Paris, France) &mdash; <b>TBA</b>
-- <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> (University of Queensland, Brisbane, Australia) &mdash; <b>TBA</b>
+<ul>
+<li> <a href="http://www.pdmi.ras.ru/~dchelkak/index_en.html">Dmitry Chelkak</a> (École Normale Supérieure, Paris, France)
+<details style="background-color:#b9a9a9">
+<summary>Planar Ising model: from combinatorics to CFT and s-embeddings</summary>
+<div style="background-color:#d9c9c9; padding:10px">In theoretical physics, the critical planar Ising model serves as a toy example, in which many precursors of Conformal Field Theory objects and structures exist and can be studied directly in discrete, before passing to the small mesh size limit. Mathematically, a number of results on convergence and conformal invariance of such limits were established during the last decade, both for correlation functions and for interfaces (domain walls) arising in the model. In this mini-course we plan to discuss
+
+<ul>
+<li> discrete fermions and the Kadanoff-Ceva spin-disorder formalism - crucial tools that allow one to analyse the planar Ising model;</li>
+<li> streamlined version of the classical computation of the magnetization via orthogonal polynomials; </li>
+<li> results on convergence of critical correlation functions (energy densities, spins, ...) in bounded domains to CFT limits;</li>
+<li> recent ideas on appropriate embeddings of weighted planar graphs that play the same role for the planar Ising model as Tutte’s barycentric embeddings do for random walks, allowing one to use discrete complex analysis techniques beyond "regular" lattices.</li>
+</ul>
+</div>
+</details>
+</li>
+
+
+
+<li> <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> (University of Queensland, Brisbane, Australia) &mdash; <b>TBA</b></li>
+</ul>
 
 ##### Week 2
 
-- <a href="https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100380272&lang=en">Tomohiro Sasamoto</a> (Tokyo Institute of Technology, Tokyo, Japan) &mdash; <b>TBA</b>
-- <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) &mdash; <b>TBA</b>
+<ul>
+<li> <a href="https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100380272&lang=en">Tomohiro Sasamoto</a> (Tokyo Institute of Technology, Tokyo, Japan) &mdash; <b>TBA</b></li>
+<li> <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) &mdash; <b>TBA</b></li>
+</ul>
 
 ---
 
