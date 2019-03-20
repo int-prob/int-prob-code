@@ -56,7 +56,7 @@ C = Chelkak; W = Warnaar
 
 - 9:00 - 10:30 Lecture (C3)
 - 10:30 - 11:00 Break
-- 11:00 - 12:00 TA session (T3)
+- 11:00 - 12:00 TA session (C3)
 - Free time / collaboration
 
 ##### Thursday, May 30
