@@ -57,6 +57,8 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 <li> <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) &mdash; <b>TBA</b></li>
 </ul>
 
+#### &bull; <a href="{{site.url}}/vipss2019/schedule/">Full schedule</a>
+
 ---
 
 <h4 class="mt-3">Registration, financial support, and accommodation deadlines</h4>
