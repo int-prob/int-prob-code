@@ -15,3 +15,10 @@ sudo: false # route your build to the container-based infrastructure for a faste
 
 after_success: s3_website push
 dist: trusty
+
+notifications:
+  email:
+    recipients:
+      - lenia.petrov@gmail.com
+    on_success: always
+    on_failure: always
