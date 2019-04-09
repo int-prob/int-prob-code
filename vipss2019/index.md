@@ -47,7 +47,7 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 
 
 
-<li> <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> (University of Queensland, Brisbane, Australia) &mdash; <b>TBA</b></li>
+<li> <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> (University of Queensland, Brisbane, Australia) &mdash; <b>Schur functions and Schur processes</b></li>
 </ul>
 
 ##### Week 2
@@ -77,7 +77,7 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 
 
 </li>
-<li> <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) &mdash; <b>TBA</b></li>
+<li> <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) &mdash; <b>Quantum integrability and symmetric polynomials</b></li>
 </ul>
 
 #### &bull; <a href="{{site.url}}/vipss2019/schedule/">Full schedule</a>
