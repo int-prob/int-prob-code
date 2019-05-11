@@ -49,7 +49,7 @@ permalink: /vipss2019/participants/
 1.  Yun	Li (University of Wisconsin-Madison)
 1.  Qian	Li	(Peking Univerisity)
 1.  Yuchen	Liao	(University of Michigan)
-1.  YIER	LIN	(Columbia University)
+1.  Yier	Lin	(Columbia University)
 1.  Zhipeng	Liu	(University of Kansas)
 1.  Konstantin	Matetski	(Columbia University)
 1.  Matteo	Mucciconi	(Tokyo Institute of Technology)
