@@ -25,7 +25,7 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 
 ---
 
-<h1 class="mb-5">Schedule</h1>
+<h1 class="mb-3">Schedule</h1>
 
 All events are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107.
 
