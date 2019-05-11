@@ -26,6 +26,7 @@ permalink: /vipss2019/participants/
 1.  Elia	Bisi	(University College Dublin)
 1.  Dmitry	Chelkak	(ENC)
 1.  Elizabeth	Collins-Wildman	(University of Michigan)
+1.  Ivan Corwin (Columbia University)
 1.  Cesar	Cuenca	(MIT)
 1.  Sayan	Das	(Columbia University)
 1.  Evgeni	Dimitrov	(Columbia University)
