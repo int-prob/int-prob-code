@@ -96,6 +96,10 @@ Abstract TBA
 
 #### &bull; <a href="{{site.url}}/vipss2019/schedule/">Full schedule</a>
 
+#### &bull; <a href="{{site.url}}/vipss2019/participants/">Participants</a>
+
+#### &bull; <a href="{{site.url}}/vipss2019/travel_local/">Travel and local details</a>
+
 ---
 
 <h4 class="mt-3">Registration, financial support, and accommodation deadlines</h4>
@@ -105,8 +109,6 @@ Abstract TBA
 - General registration: **April 20, 2019**
 
 #### &bull; <a href="{{site.url}}/vipss2019/registration/">Registration form and related information</a>
-
-#### &bull; <a href="{{site.url}}/vipss2019/travel_local/">Travel and local details</a>
 
 <br>
 <br>

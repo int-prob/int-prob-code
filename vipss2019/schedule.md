@@ -25,7 +25,7 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 
 ---
 
-<h1 class="mb-5">Schedule (preliminary version)</h1>
+<h1 class="mb-5">Schedule</h1>
 
 
 ## Week 1, May 27-31, 2019 (Monday - Friday)
