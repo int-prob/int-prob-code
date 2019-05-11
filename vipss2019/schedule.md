@@ -27,6 +27,8 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 
 <h1 class="mb-5">Schedule</h1>
 
+All events are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107.
+
 
 ## Week 1, May 27-31, 2019 (Monday - Friday)
 

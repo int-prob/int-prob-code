@@ -36,15 +36,159 @@ which can get you from the university to the downtown.
 
 <h3 class="mb-3">Residence halls</h3>
 
+Participants staying at residence halls will be housed at 
+[Lambeth Field Apartments](https://housing.virginia.edu/area/1171).
+Further details about the stay will be emailed separately.
 
+<h3 class="mb-3">Groceries, lunch, dinner</h3>
 
-<h3 class="mb-3">Groceries</h3>
+The summer school does not provide breakfast, lunch, or dinner. 
+We provide coffee breaks with light snacks. They are served by the lecture hall (Clark 107).
 
+In walking distance from Lambeth Field Apartments, there is Barracks Road Shopping center
+which has a big grocery store ("Harris Teeter") and numerous restaurants and fast food. 
+There is also "The Corner" area (intersection of Jefferson Park Ave, West Main, and University Ave)
+which has many lunch options and also some convenience stores (smaller shops where one can get milk, snacks, etc).
 
+Below are the many lunch and dinner options in town:
 
-<h3 class="mb-3">Restaurants: lunch and dinner</h3>
+<ul>
+            <li>
+                Oakhurst Inn Cafe
+                (1616 Jefferson Park Ave, close to the workshop).
+                A good breakfast/lunch place; good coffee; closes at 2 pm
+            </li>
+            <li>
+                The Corner - a place with many lunch locations, including
+                <ul>
+                    <li>
+                        Coffee options: Corner Joe
+                        (1325 West Main St Shop C);
+                        Grit Coffee
+                        (19 Elliewood Ave);
+                        Starbucks 
+                        (1601 University Avenue)
+                    </li>
+                        <li>
+                                Bodo’s Bagels
+                                (1609 University Ave).
+                                As suggested by the name, an excellent bagel place
+                                </li>
+                                
+                                <li>
+                                Take It Away Sand- wich Shop
+                                (115 Elliewood Ave).
+                                A highly recommended sandwich place
+                                </li>
+                                
+                                <li>
+                                Two Guys Tacos
+                                (101 14th St NW)
+                                </li>
+                                
+                                <li>
+                                Boylan Heights
+                                (102 14th St NW).
+                                Burgers
+                                </li>
+                                
+                                <li>
+                                Revolutionary Soup
+                                (104 14th Street NW).
+                                A soup & sandwich shop, specializing in local and vegetarian food
+                                </li>
+                                
+                                <li>
+                                Christian’s Pizza
+                                (100 14th Street NW).
+                                One of the best pizzas in town! And open very late
+                                </li>
+                                
+                                <li>
+                                Michael’s Bistro
+                                (1427 University Ave).
+                                Slightly fancier, gastropub fare
+                                </li>
+                                
+                                <li>
+                                Pigeon Hole
+                                (11 Elliewood Ave).
+                                Homestyle and breakfast food
+                                </li>                                
+                </ul>
+                <a href="http://charlottesville.scoutology.com/18-restaurants-to-check-out-on-the-uva-corner/">A list of more places at the Corner</a>
+            </li>
+            <li>
+                Dinner locations in Charlottesville include 
+                <ul>
+                    <li>
+                        Downtown Mall, pedestrian part of Main St. 
+                        There are dozens of restaurants there.
+                    </li>
+                    <li>
+                        Belmont: The Local
+                        (824 Hinton Avenue) and several places around; 
+                        Lampo 
+                        (205 Monticello Rd)
+                    </li>
+                    <li>
+                        West Main Street: 
+                        Public Fish and Oyster
+                        (513 W Main St);
+                        Orzo
+                        (416 West Main Street);
+                        and several places around.
+                    </li>
+                    <li>
+                        Fry’s Spring Station
+                        (2115 Jefferson Park Ave). Fire-roasted pizza.
+                        Lunch/dinner option
+                        in walking distance from the workshop
+                    </li>
+                </ul>
+            </li>
+            <li>
+                In reasonable walking distance from the residence halls:
+                <ul>
+                    <li>
+                        Afghan Kabob (400 Emmet St N), one of the closest options
+                    </li>
+                    <li>
+                        Milan Indian Restaurant (1817 Emmet St N)
+                    </li>
+                    <li>
+                        Barracks Road area (<a href="https://d3m0khvr0ybm92.cloudfront.net/UVA_various_instructions/Barracks_walking.png">walking map</a>): 
+                        Tara Thai (1107 Emmet St N),
+                        Peter Chang (2162 Barracks Rd),
+                        and several other options
+                    </li>
+                    <li>
+                        Shops at Stonefield
+                        (<a href="https://d3m0khvr0ybm92.cloudfront.net/UVA_various_instructions/Stonefield_walking.png">walking map</a>):
+                        ROCKSALT (2075 Bond St) and several other options
+                    </li>
+                </ul>
+            </li>
+        </ul>
 
+<h3 class="mb-3">Things to do and see</h3>
 
+<ul>
+    <li>
+        <a href="https://home.monticello.org">Thomas Jefferson's Monticello</a>, 
+        a major historical attraction
+    </li>
+    <li>
+        There is a plenty of
+        <a href="https://www.visitcharlottesville.org/visitors/things-to-do/vineyards-and-breweries/">wineries and breweries</a> around Charlottesville,
+        including 
+        <a href="http://www.bluemountainbrewery.com">Blue Mountain Brewery</a> (30-minute drive)
+        which has a full restaurant.
+    </li>
+    <li>
+        <a href="http://www.c-ville.com/woods-15-favorite-charlottesville-area-hikes-easy-ease">Hiking options, in town and outside</a>
+    </li>
+</ul>
 
 ---
 
