@@ -124,5 +124,4 @@ S = Sasamoto; Z = Zinn-Justin
 
 ## Research talks (TBA), June 7-8, 2019 (Friday - Saturday)
 
-Talks by FRG participants and senior researchers. Program ends by 1pm on Saturday
-
+Program ends by 1pm on Saturday
