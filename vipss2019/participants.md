@@ -16,7 +16,33 @@ permalink: /vipss2019/participants/
 
 ---
 
-<h1 class="mb-5">Participants</h1>
+<h1 class="mb-3">Participants</h1>
+
+1.  Andrew	Ahn	(MIT)
+1.  Max	Bacharach	(University of Wisconsin-Madison)
+1.  Guillaume	Barraquand (ENS)
+1.  Michael	Basok	(Saint Petersburg State University)
+1.  Costanza	Benassi	(Northumbria University, Newcastle)
+1.  Elia	Bisi	(University College Dublin)
+1.  Dmitry	Chelkak	(ENC)
+1.  Elizabeth	Collins-Wildman	(University of Michigan)
+1.  Cesar	Cuenca	(MIT)
+1.  Sayan	Das	(Columbia University)
+1.  Evgeni	Dimitrov	(Columbia University)
+1.  Yifan	Gao	(Peking University)
+1.  Promit	Ghosal	(Columbia University)
+1.  Zhengyi	Gong	(University of Minnesota)
+1.  Jiongji	Guo	(Hong Kong University of Science and Technology)
+1.  Jimmy	He	(Stanford University)
+1.  Nicholas	Herrera	(Columbia University)
+1.  Arun	Kannan	(University of Virginia)
+1.  David	Keating	(UC Berkeley)
+1.  Yujin	Kim	(Columbia University)
+1.  Pax	Kivimae	(Northwestern University)
+1.  Sergei	Korotkikh	(MIT)
+1.  Jules	Lamers	(University of Melbourne)
+1.  Hai	Le	(Pennsylvania State University)
+1.  Eunghyun	Lee	(Nazarbayev University, Kazakhstan)
 
 
 
