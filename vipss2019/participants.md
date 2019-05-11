@@ -43,7 +43,22 @@ permalink: /vipss2019/participants/
 1.  Jules	Lamers	(University of Melbourne)
 1.  Hai	Le	(Pennsylvania State University)
 1.  Eunghyun	Lee	(Nazarbayev University, Kazakhstan)
-
+1.  Jin	Lee	(University of Virginia)
+1.  Matthew	Lerner-Brecher	(Columbia University)
+1.  Yun	Li (University of Wisconsin-Madison)
+1.  Qian	Li	(Peking Univerisity)
+1.  Yuchen	Liao	(University of Michigan)
+1.  YIER	LIN	(Columbia University)
+1.  Zhipeng	Liu	(University of Kansas)
+1.  Konstantin	Matetski	(Columbia University)
+1.  Matteo	Mucciconi	(Tokyo Institute of Technology)
+1.  Minh	Nguyen	(University of Texas at Austin)
+1.  Matthew	Nicoletti	(UC Berkeley)
+1.  Shalin	Parekh	(Columbia University)
+1.  Jungsoo	Park (University of Illinois at Urbana-Champaign)
+1.  John	Peca-Medlin	(UC Irvine)
+1.  Leo	Petrov	(University of Virginia)
+1.  Rajan	Puri	(UNC Charlotte)
 
 
 
