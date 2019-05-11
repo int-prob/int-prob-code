@@ -24,7 +24,7 @@ permalink: /vipss2019/participants/
 1.  Michael	Basok	(Saint Petersburg State University)
 1.  Costanza	Benassi	(Northumbria University, Newcastle)
 1.  Elia	Bisi	(University College Dublin)
-1.  Dmitry	Chelkak	(ENC)
+1.  Dmitry	Chelkak	(ENS)
 1.  Elizabeth	Collins-Wildman	(University of Michigan)
 1.  Ivan Corwin (Columbia University)
 1.  Cesar	Cuenca	(MIT)
@@ -77,7 +77,7 @@ permalink: /vipss2019/participants/
 1.  Xuan	Wu	(Columbia University)
 1.  Ye	Yuan	(University of Wisconsin-Madison)
 1.  Ruixuan	Zhang	(Indiana University - Purdue University Indianapolis)
-1.  weitao	zhu	(Columbia University)
+1.  Weitao	Zhu	(Columbia University)
 1.  Paul	Zinn-Justin	(University of Melbourne)
 
 
