@@ -19,7 +19,6 @@ permalink: /vipss2019/participants/
 <h1 class="mb-3">Participants</h1>
 
 1.  Andrew	Ahn	(MIT)
-1.  Max	Bacharach	(University of Wisconsin-Madison)
 1.  Guillaume	Barraquand (ENS)
 1.  Michael	Basok	(Saint Petersburg State University)
 1.  Costanza	Benassi	(Northumbria University, Newcastle)
