@@ -73,6 +73,7 @@ permalink: /vipss2019/participants/
 1.  Roger	Van Peski	(MIT)
 1.  Lily	Wang	(Cornell)
 1.  Ole	Warnaar	 (University of Queensland)
+1.  Lu	Wei	(University of Michigan - Dearborn)
 1.  Xuan	Wu	(Columbia University)
 1.  Ye	Yuan	(University of Wisconsin-Madison)
 1.  Ruixuan	Zhang	(Indiana University - Purdue University Indianapolis)
