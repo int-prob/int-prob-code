@@ -76,7 +76,7 @@ C = Chelkak; W = Warnaar
 
 - 9:00 - 10:30 Lecture (W4)
 - 10:30 - 11:00 Break
-- 11:00 - 12:00 Research talk (TBA)
+- 11:00 - 12:00 Research talk: Guillaume Barraquand (TBA)
 - Free time / collaboration
 
 
