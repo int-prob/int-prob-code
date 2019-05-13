@@ -67,7 +67,7 @@ C = Chelkak; W = Warnaar
 - 10:30 - 11:00 Break
 - 11:00 - 12:00 TA session (W3)
 - 12:00 - 2:00 Lunch time
-- 2:00 - 3:00 Research talk (TBA)
+- 2:00 - 3:00 Research talk: Marianna Russkikh (University of Geneva) - TBA
 - 3:00 - 3:30 Break
 - 3:30 - 5:00 Lecture (C4) 
 - 6:30 - 9:00 Organized dinner (about $40/person)
@@ -76,7 +76,7 @@ C = Chelkak; W = Warnaar
 
 - 9:00 - 10:30 Lecture (W4)
 - 10:30 - 11:00 Break
-- 11:00 - 12:00 Research talk: Guillaume Barraquand (TBA)
+- 11:00 - 12:00 Research talk: Guillaume Barraquand (ENS) - TBA
 - Free time / collaboration
 
 
