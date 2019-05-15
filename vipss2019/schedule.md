@@ -30,7 +30,7 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 All events are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107.
 
 
-## Week 1, May 27-31, 2019 (Monday - Friday)
+# Week 1
 
 C = Chelkak; W = Warnaar
 
@@ -80,7 +80,7 @@ C = Chelkak; W = Warnaar
 - Free time / collaboration
 
 
-## Week 2, June 3-6, 2019 (Monday - Thursday)
+# Week 2
 
 S = Sasamoto; Z = Zinn-Justin
 
@@ -122,7 +122,7 @@ S = Sasamoto; Z = Zinn-Justin
 - 4:00 - 5:00 TA session (S3)
 - 6:30 - 9:00 Organized dinner (about $40/person)
 
-<h2 class="mb-3">Research talks (TBA), June 7-8, 2019 (Friday - Saturday)</h2>
+<h1 class="mb-3">Research talks</h1>
 
 ##### Friday, June 7
 
