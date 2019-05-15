@@ -122,6 +122,28 @@ S = Sasamoto; Z = Zinn-Justin
 - 4:00 - 5:00 TA session (S3)
 - 6:30 - 9:00 Organized dinner (about $40/person)
 
-## Research talks (TBA), June 7-8, 2019 (Friday - Saturday)
+<h2 class="mb-3">Research talks (TBA), June 7-8, 2019 (Friday - Saturday)</h2>
 
-Program ends by 1pm on Saturday
+##### Friday, June 7
+
+- 9:00 - 9:45
+- 9:45 - 10:15
+- 10:15 - 10:45 Break
+- 10:45 - 11:30
+- 11:30 - 12:00
+- 12:00 - 2:00 Lunch time
+- 2:00 - 2:45
+- 2:45 - 3:15
+- 3:15 - 3:45 Break
+- 3:45 - 4:30
+- 4:30 - 5:00
+
+##### Saturday, June 8
+
+- 9:00 - 9:45
+- 9:45 - 10:30
+- 10:30 - 11:00
+- 11:00 - 11:30 Break
+- 11:30 - 12:00
+- 12:00 - 12:30
+- 12:30 - 1:00

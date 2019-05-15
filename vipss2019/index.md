@@ -25,6 +25,10 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 
 --- 
 
+#### <a href="{{site.url}}/vipss2019/schedule/">Full schedule</a> (talks are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107)
+
+---
+
 <h2 class="mb-4">Mini-courses</h2>
 
 ##### Week 1
@@ -93,8 +97,6 @@ Abstract TBA
 </details>
 </li>
 </ul>
-
-#### &bull; <a href="{{site.url}}/vipss2019/schedule/">Full schedule</a> (talks are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107)
 
 #### &bull; <a href="{{site.url}}/vipss2019/participants/">Participants</a>
 
