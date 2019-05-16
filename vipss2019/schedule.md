@@ -70,7 +70,7 @@ C = Chelkak; W = Warnaar
 - 2:00 - 3:00 Research talk: Marianna Russkikh (University of Geneva) - TBA
 - 3:00 - 3:30 Break
 - 3:30 - 5:00 Lecture (C4) 
-- 6:30 - 9:00 Organized dinner (about $40/person)
+<!-- - 6:30 - 9:00 Organized dinner (about $40/person) -->
 
 ##### Friday, May 31
 
@@ -120,7 +120,7 @@ S = Sasamoto; Z = Zinn-Justin
 - 2:00 - 3:30 Lecture (S4)
 - 3:30 - 4:00 Break
 - 4:00 - 5:00 TA session (S3)
-- 6:30 - 9:00 Organized dinner (about $40/person)
+<!-- - 6:30 - 9:00 Organized dinner (about $40/person) -->
 
 <h1 class="mb-3">Research talks</h1>
 
