@@ -36,6 +36,7 @@ C = Chelkak; W = Warnaar
 
 ##### Monday, May 27
 
+- 08:55 - 09:00 Opening remarks
 - 9:00 - 10:30 Lecture (C1)
 - 10:30 - 11:00 Break
 - 11:00 - 12:00 TA session (C1)
