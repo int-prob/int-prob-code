@@ -8,27 +8,11 @@ permalink: /vipss2019/schedule/
 
 <img class="mb-4" src="{{site.url}}/img/color-vertex.jpg" style="max-width:100%" alt="Colored vertex model">
 
-# <a href="{{site.url}}/vipss2019/">Virginia Integrable Probability Summer School 2019</a>
+<h1 class="mb-3"><a href="{{site.url}}/vipss2019/">Virginia Integrable Probability Summer School 2019</a></h1>
 
-### Monday, May 27 to Saturday, June 8, 2019
-
-### University of Virginia, Charlottesville, VA
-
+### All events are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107
 
 ---
-
-Organizers: <a href="mailto:lenia.petrov@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> Leo Petrov</a>,
-<a href="mailto:ais6a@virginia.edu"><i class="fa fa-envelope" aria-hidden="true"></i> Axel Saenz</a>
-
-Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html">Jinho Baik</a>, <a href="http://math.mit.edu/directory/profile.php?pid=1222/">Alexei Borodin</a>, <a href="http://www.math.columbia.edu/~corwin/">Ivan Corwin</a>, <a href="https://www.mccme.ru/~vadicgor/">Vadim Gorin</a>, <a href="https://lpetrov.cc">Leo Petrov</a>
-
-
----
-
-<h1 class="mb-3">Schedule</h1>
-
-All events are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107.
-
 
 # Week 1
 
@@ -75,11 +59,24 @@ C = Chelkak; W = Warnaar
 
 ##### Friday, May 31
 
-- 9:00 - 10:30 Lecture (W4)
-- 10:30 - 11:00 Break
-- 11:00 - 12:00 Research talk: Guillaume Barraquand (ENS) - TBA
-- Free time / collaboration
+<ul>
+<li>9:00 - 10:30 Lecture (W4)</li>
+<li>10:30 - 11:00 Break</li>
+<li><details>
+<summary>11:00 - 12:00 Research talk: Guillaume Barraquand (ENS) - Diffusions in random environment</summary>
+<div style="padding:10px">
+We will consider the effect of adding a space-time white noise drift to a
+collection of independent Brownian motions. Using an integrable
+discretization of the model, we will see that the extreme value behavior
+for these diffusions is governed by the Kardar-Parisi-Zhang universality
+class which arises in random growth models and random matrix theory. This
+talk is based on joint works with Ivan Corwin and Mark Rychnovsky.
+</div>
+</details></li>
+<li>Free time / collaboration</li>
+</ul>
 
+---
 
 # Week 2
 
@@ -123,6 +120,8 @@ S = Sasamoto; Z = Zinn-Justin
 - 4:00 - 5:00 TA session (S3)
 <!-- - 6:30 - 9:00 Organized dinner (about $40/person) -->
 
+---
+
 <h1 class="mb-3">Research talks</h1>
 
 ##### Friday, June 7
@@ -148,3 +147,13 @@ S = Sasamoto; Z = Zinn-Justin
 - 11:30 - 12:00
 - 12:00 - 12:30
 - 12:30 - 1:00
+
+
+---
+
+Organizers: <a href="mailto:lenia.petrov@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> Leo Petrov</a>,
+<a href="mailto:ais6a@virginia.edu"><i class="fa fa-envelope" aria-hidden="true"></i> Axel Saenz</a>
+
+Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html">Jinho Baik</a>, <a href="http://math.mit.edu/directory/profile.php?pid=1222/">Alexei Borodin</a>, <a href="http://www.math.columbia.edu/~corwin/">Ivan Corwin</a>, <a href="https://www.mccme.ru/~vadicgor/">Vadim Gorin</a>, <a href="https://lpetrov.cc">Leo Petrov</a>
+
+
