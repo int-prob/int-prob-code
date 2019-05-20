@@ -73,6 +73,7 @@ class which arises in random growth models and random matrix theory. This
 talk is based on joint works with Ivan Corwin and Mark Rychnovsky.
 </div>
 </details></li>
+<li>2:00 - 3:00 Research talk: Cesar Cuenca (MIT) - TBA</li>
 <li>Free time / collaboration</li>
 </ul>
 
