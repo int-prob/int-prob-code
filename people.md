@@ -11,6 +11,8 @@ nav_id: Members
 
 # Postdocs
 
+### Current
+
 - Benjamin Landon (MIT) 2018-2021
 - Konstantin Matetski (Columbia University) 2018-2021
 - Evgeni Dimitrov (Columbia University) 2018-2021
@@ -23,6 +25,8 @@ nav_id: Members
 - [Yi Sun][yi] (Columbia University), 2016-2019
 - [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019
 
+### Recent
+
 - [Guillaume Barraquand][guil] (Columbia University), 2015-2018 &bull; Currently CNRS researcher at École normale supérieure in the LPTENS (Laboratoire de physique théorique)
 - [Alexey Bufetov][abuf] (MIT), 2015-2018 &bull; Currently Bonn Junior Fellow at Hausdorff Center for Mathematics
 - [Jeffrey Kuan][jeff] (Columbia University), 2015-2018 &bull; Currently Assistant Professor at Texas A&M
@@ -31,6 +35,8 @@ nav_id: Members
 
 
 # Graduate students
+
+### Current
 
 - Sergei Korotkikh (MIT), 2018- 
 - Roger Van Peski (MIT), 2018-
@@ -48,6 +54,8 @@ nav_id: Members
 - Xuan Wu (Columbia University), 2015-
 
 - [Cesar Cuenca][cesar] (MIT), 2014-
+
+### Recent
 
 - Evgeni Dimitrov (MIT), 2013-2018 &bull; Currently Postdoc at Columbia University
 
