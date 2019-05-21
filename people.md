@@ -40,9 +40,11 @@ nav_id: Members
 
 - Sergei Korotkikh (MIT), 2018- 
 - Roger Van Peski (MIT), 2018-
+- Sayan Das (Columbia), 2018-
+- Weitao Zhu (Columbia), 2018-
 
 - Shalin Parekh (Columbia University), 2017-
-- Maithreya Sitaraman (Columbia University) 2017-
+<!-- - Maithreya Sitaraman (Columbia University) 2017- -->
 
 - Promit Ghosal (Columbia University), 2016-
 - Yier Lin (Columbia University), 2016-
