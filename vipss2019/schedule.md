@@ -171,7 +171,7 @@ walks conditioned to stay positive.
 <li><details><summary>2:00 - 2:35 Yier Lin (Columbia) - KPZ equation limit of the stochastic higher spin vertex model</summary><div style="padding:10px">
 We consider the stochastic higher spin six vertex model introduced by Corwin and Petrov with general integer spin parameter $I, J$. Starting from near stationary initial condition, we prove that the stochastic higher spin six vertex  model converges to the KPZ equation under weakly asymmetric scaling. This generalizes a result of Corwin et al.  from $I = J =1$ (stochastic six vertex model) to general $I, J$.
 </div></details></li>
-<li><details><summary>2:40 - 3:15 Ryosuke Sato (Kyushu University) - Asymptotic representation theory of quantum groups</summary><div style="padding:10px">
+<li><details><summary>2:40 - 3:15 Ryosuke Sato (Nagoya University) - Asymptotic representation theory of quantum groups</summary><div style="padding:10px">
 Asymptotic representation theory means studies of characters
 and unitary representations of inductive limit groups, for instance, the
 infinite-dimensional unitary group. A fundamental idea of asymptotic
@@ -236,8 +236,8 @@ Hall-Littlewood symmetric functions"</a>
 <br>
 *[CMP]   <a href="https://arxiv.org/abs/1811.06475">*I. Corwin, K. Matveev and L. Petrov, "The q-Hahn pushTASEP"</a>
 </div></details></li>
-<li><details><summary>9:40 - 10:15 Michael Basok (Saint Petersburg State University) - TBA</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>9:40 - 10:15 Michael Basok (Saint Petersburg State University) - Tau-functions a la Dubedat and cylindrical events in the double-dimer model</summary><div style="padding:10px">
+Double-dimer model on a given graph is a random loop ensemble that is obtained by sampling two independent dimer configurations taken uniformly at random and removing double edges. Given a simplpy-conected domain and a sequence of "discrete" domains, drawn on a square grid, that approximate this domain (we assume that the step of the grid tends to zero) one can consider the corresponding sequence of random loop ensembles induced by the double dimer model in each discrete domain (seen as a subgraph of the square grid). It was predicted by R. Kenyon that this sequence of random loop ensembles converges to Conformal Loop Ensemble with parameter 4 (CLE(4)) sampled in the original domain. Recently his conjecture was deeply supported by a breakthrough work of J. Dubedat: in this work a large family of observables called topological correlators is introduced and it is shown that given sequence of a Temperley discretizations of a simply connected domain topological correlators converge to the corresponding observables for CLE(4). As a biproduct Dubedat showed that topological correlators for CLE(4) coinside with Jimbo-Miwa isomonodromic tau functions; this correspondens seems to be interesting in its own side. It turns out that these results of Dubedat acturally characterize the limit of double-dimer loop ensembles, i.e. the following corollary holds: if the sequence of measures induced by double-dimer ensembles in discrete domains is tight then it converges to CLE(4). We will discuss these results of J. Dubedat and the machinary developed to extract this corollary. Based on a joint work with Dmitry Chelkak (Paris).
 </div></details></li>
 <li>10:15 - 10:50 Break</li>
 <li><details><summary>10:50 - 11:25 Mark Rychnovsky (Columbia) - Large Deviations for sticky Brownian motion</summary><div style="padding:10px">
