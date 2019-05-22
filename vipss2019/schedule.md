@@ -48,14 +48,21 @@ C = Chelkak; W = Warnaar
 
 ##### Thursday, May 30
 
-- 9:00 - 10:30 Lecture (W3)
-- 10:30 - 11:00 Break
-- 11:00 - 12:00 TA session (W3)
-- 12:00 - 2:00 Lunch time
-- 2:00 - 3:00 Research talk: Marianna Russkikh (University of Geneva) - TBA
-- 3:00 - 3:30 Break
-- 3:30 - 5:00 Lecture (C4) 
-<!-- - 6:30 - 9:00 Organized dinner (about $40/person) -->
+<ul>
+<li>9:00 - 10:30 Lecture (W3)</li>
+<li>10:30 - 11:00 Break</li>
+<li>11:00 - 12:00 TA session (W3)</li>
+<li>12:00 - 2:00 Lunch time</li>
+<li><details>
+<summary>2:00 - 3:00 Research talk: Marianna Russkikh (University of Geneva) - TBA</summary>
+<div style="padding:10px">
+Abstract TBA
+</div>
+</details>
+</li>
+<li>3:00 - 3:30 Break</li>
+<li>3:30 - 5:00 Lecture (C4)</li>
+</ul>
 
 ##### Friday, May 31
 
@@ -69,12 +76,18 @@ We will consider the effect of adding a space-time white noise drift to a
 collection of independent Brownian motions. Using an integrable
 discretization of the model, we will see that the extreme value behavior
 for these diffusions is governed by the Kardar-Parisi-Zhang universality
-class which arises in random growth models and random matrix theory. This
+class which arises in random growth models and random matrix theory. <br>This
 talk is based on joint works with Ivan Corwin and Mark Rychnovsky.
 </div>
 </details></li>
 <li>12:00 - 2:00 Lunch time</li>
-<li>2:00 - 3:00 Research talk: Cesar Cuenca (MIT) - TBA</li>
+<li>
+<details><summary>2:00 - 3:00 Research talk: Cesar Cuenca (MIT) - TBA</summary> 
+<div style="padding:10px">
+Abstract TBA
+</div>
+</details>
+</li>
 <li>Free time / collaboration</li>
 </ul>
 
