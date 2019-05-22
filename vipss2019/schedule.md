@@ -141,28 +141,53 @@ S = Sasamoto; Z = Zinn-Justin
 
 ##### Friday, June 7
 
-- 9:00 - 9:45
-- 9:45 - 10:15
-- 10:15 - 10:45 Break
-- 10:45 - 11:30
-- 11:30 - 12:00
-- 12:00 - 2:00 Lunch time
-- 2:00 - 2:45
-- 2:45 - 3:15
-- 3:15 - 3:45 Break
-- 3:45 - 4:30
-- 4:30 - 5:00
+<ul>
+<li><details><summary>9:00 - 9:35</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li><details><summary>9:40 - 10:15</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li>10:15 - 10:50 Break</li>
+<li><details><summary>10:50 - 11:25</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li><details><summary>11:30 - 12:05</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li>12:05 - 2:00 Lunch time</li>
+<li><details><summary>2:00 - 2:35</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li><details><summary>2:40 - 3:15</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li>3:15 - 3:50 Break</li>
+<li><details><summary>3:50 - 4:25</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li><details><summary>4:30 - 5:05</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+</ul>
 
 ##### Saturday, June 8
 
-- 9:00 - 9:45
-- 9:45 - 10:30
-- 10:30 - 11:00
-- 11:00 - 11:30 Break
-- 11:30 - 12:00
-- 12:00 - 12:30
-- 12:30 - 1:00
-
+<ul>
+<li><details><summary>9:00 - 9:35</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li><details><summary>9:40 - 10:15</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li>10:15 - 10:50 Break</li>
+<li><details><summary>10:50 - 11:25</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+<li><details><summary>11:30 - 12:05</summary><div style="padding:10px">
+Abstract TBA
+</div></details></li>
+</ul>
 
 ---
 
