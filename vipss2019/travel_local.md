@@ -66,7 +66,7 @@ The summer school does not provide breakfast, lunch, or dinner.
 We provide coffee breaks with light snacks. They are served by the lecture hall (Clark 107).
 
 In walking distance from Lambeth Field Apartments, there is Barracks Road Shopping center
-which has a big grocery store ("Harris Teeter") and numerous restaurants and fast food. 
+which has a big grocery store ("Harris Teeter") and numerous restaurants and fast food. There is also "Food of all Nations" store in another direction, but also very close.
 There is also "The Corner" area (intersection of Jefferson Park Ave, West Main, and University Ave)
 which has many lunch options and also some convenience stores (smaller shops where one can get milk, snacks, etc).
 
