@@ -37,16 +37,28 @@ If you come by car and stay at a residence hall, you don't need a car to get to 
 [Parking rates (see "TEMPORARY PERMITS")](https://parking.virginia.edu/system/files/VisitorRates.pdf);
 [office hours](https://parking.virginia.edu/contact) (closed on weekends and most likely on May 27)
 
-<h3 class="mb-3">Public transportation</h3>
+<h3 class="mb-3">Transportation</h3>
 
-Charlottesville has a reasonable [public bus system](http://www.charlottesville.org/departments-and-services/city-services/charlottesville-area-transit-cat). There is a free bus (we call it "Free Trolley")
+- Charlottesville has a reasonable [public bus system](http://www.charlottesville.org/departments-and-services/city-services/charlottesville-area-transit-cat). There is a free bus (we call it "Free Trolley")
 which can get you from the university to the downtown. 
+
+- University of Virginia has its own bus system "UTS" for on-Grounds transportation. These are usually blue-orange buses, and they are free to ride. The system operates during the summer school time. See [here](https://parking.virginia.edu/university-transit-service) for routes.
+
+	There are several apps (for example, CAT) which display bus stops and
+bus times, both for Charlottesville city and University of Virginia
+buses.
+
+- Lime and Bird app-based electric scooters operate in Charlottesville, too.
 
 <h3 class="mb-3">Residence halls</h3>
 
 Participants staying at residence halls will be housed at 
 [Lambeth Field Apartments](https://housing.virginia.edu/area/1171).
 Further details about the stay will be emailed separately.
+
+<h3 class="mb-3">Gym</h3>
+
+University of Virginia has several [sports/recreational facilities](https://recsports.virginia.edu) which the participants staying at residence halls have access to (for a fee). Refer to the following contact information for further details: "Call 434-924-3791, or visit business services located at the AFC & NGRS Monday-Friday, 9am-5:30pm".
 
 <h3 class="mb-3">Groceries, lunch, dinner</h3>
 
