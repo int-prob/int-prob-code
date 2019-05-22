@@ -142,8 +142,8 @@ S = Sasamoto; Z = Zinn-Justin
 ##### Friday, June 7
 
 <ul>
-<li><details><summary>9:00 - 9:35 Andrew Ahn (MIT) - </summary><div style="padding:10px">
-
+<li><details><summary>9:00 - 9:35 Andrew Ahn (MIT) - TBA</summary><div style="padding:10px">
+Abstract TBA
 </div></details></li>
 <li><details><summary>9:40 - 10:15 Jules Lamers (University of Melbourne) - q-deformed Haldane-Shastry spin chain</summary><div style="padding:10px">
 Abstract TBA
