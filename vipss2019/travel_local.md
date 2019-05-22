@@ -30,12 +30,12 @@ On University of Virginia Grounds and in residence halls, there are two ways to 
 
 If you come by car and stay at a residence hall, you don't need a car to get to the lectures. The car can be useful to get to the downtown, or 
 
-1. Parking around the university is permit-based. However, some streets south of the university, but in walking distance, have unlimited free street parking (like Shamrock, Cherry, etc.). Please check the signs when you park
+1. Parking around the university is permit-based. However, some streets south of the university, but in walking distance, have unlimited free street parking (street names include Shamrock, Cherry, etc.). Please check the signs when you park
 2. Parking is usually free and unlimited on weekends (and Monday, May 27 which is the Memorial Day) in all university parking lots
 2. You can purchase a permit at University of Virginia parking and transportation office:
 [Visitor parking information](https://parking.virginia.edu/visitor-parking);
 [Parking rates (see "TEMPORARY PERMITS")](https://parking.virginia.edu/system/files/VisitorRates.pdf);
-[office hours](https://parking.virginia.edu/contact) (closed on weekends and most likely on May 27)
+[office hours](https://parking.virginia.edu/contact) (closed on weekends and most likely on May 27). For Lambeth, the permit area is called "S2".
 
 <h3 class="mb-3">Transportation</h3>
 
