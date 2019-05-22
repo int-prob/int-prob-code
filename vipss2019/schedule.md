@@ -142,32 +142,65 @@ S = Sasamoto; Z = Zinn-Justin
 ##### Friday, June 7
 
 <ul>
-<li><details><summary>9:00 - 9:35</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>9:00 - 9:35 Andrew Ahn (MIT) - </summary><div style="padding:10px">
+
 </div></details></li>
-<li><details><summary>9:40 - 10:15</summary><div style="padding:10px">
+<li><details><summary>9:40 - 10:15 Jules Lamers (University of Melbourne) - q-deformed Haldane-Shastry spin chain</summary><div style="padding:10px">
 Abstract TBA
 </div></details></li>
 <li>10:15 - 10:50 Break</li>
-<li><details><summary>10:50 - 11:25</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>10:50 - 11:25 Costanza Benassi (Northumbria University) - Thermodynamic Limit and Dispersive Regularisation in Matrix Models</summary><div style="padding:10px">
+We show that Hermitian Matrix Models support the occurrence of a new type of phase transition characterised by dispersive regularisation of the order parameter near the critical point. Using the identification of the partition function with a solution of a reduction of the Toda hierarchy, known as Volterra system, we argue that the singularity is resolved via the onset of a multi-dimensional dispersive shock of the order parameter in the space of coupling constants. This analysis explains the origin and mechanism leading to the emergence of chaotic behaviours observed in M6 matrix models and extends its validity to even nonlinearity of arbitrary order. Based on a joint work with A. Moro (arXiv:1903.11473).
 </div></details></li>
-<li><details><summary>11:30 - 12:05</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>11:30 - 12:05 Shalin Parekh (Columbia) - Brownian Meanders in Directed Polymers</summary><div style="padding:10px">
+Stochastic partial differential equations (SPDEs) such as the KPZ
+equation arise naturally as scaling limits of various probabilistic and
+physical models which are driven or directed by i.i.d. weights. However,
+obtaining precise information about the behavior of solutions to these
+SPDEs poses tremendous difficulties. So far, the most fruitful approach has
+been to look at exactly solvable models which converge to these SPDEs, and
+then extract information about the SPDE from the limiting models. One such
+exactly solvable model is the Log-Gamma directed polymer. In this talk, we
+will realize a multiplicative-noise stochastic heat equation on a half
+space as a limit of these Log-Gamma polymers, and we will prove a
+surprising identity in distribution for such equations using the exact
+solvability. Our analysis involves obtaining intricate estimates for random
+walks conditioned to stay positive.
 </div></details></li>
 <li>12:05 - 2:00 Lunch time</li>
-<li><details><summary>2:00 - 2:35</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>2:00 - 2:35 Yier Lin (Columbia) - KPZ equation limit of the stochastic higher spin vertex model</summary><div style="padding:10px">
+We consider the stochastic higher spin six vertex model introduced by Corwin and Petrov with general integer spin parameter $I, J$. Starting from near stationary initial condition, we prove that the stochastic higher spin six vertex  model converges to the KPZ equation under weakly asymmetric scaling. This generalizes a result of Corwin et al.  from $I = J =1$ (stochastic six vertex model) to general $I, J$.
 </div></details></li>
-<li><details><summary>2:40 - 3:15</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>2:40 - 3:15 Ryosuke Sato (Kyushu University) - Asymptotic representation theory of quantum groups</summary><div style="padding:10px">
+Asymptotic representation theory means studies of characters
+and unitary representations of inductive limit groups, for instance, the
+infinite-dimensional unitary group. A fundamental idea of asymptotic
+representation theory is to correspond characters to probability
+measures on a graph giving from branching rules of representations. In
+this talk, we discuss a natural quantization of this framework, that is,
+natural character theory of inductive systems of (compact) quantum
+groups. In particular, we give serious thought when a given inductive
+system consists of quantum unitary groups.
 </div></details></li>
 <li>3:15 - 3:50 Break</li>
-<li><details><summary>3:50 - 4:25</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>3:50 - 4:25 Elia Bisi (University College Dublin) - Transition between characters of classical groups, decomposition
+of Gelfand-Tsetlin patterns and last passage percolation</summary><div style="padding:10px">
+We introduce two families of symmetric polynomials that interpolate between
+irreducible characters of Sp(2n,C) and SO(2n+1,C) and between irreducible
+characters of SO(2n,C) and SO(2n+1,C).
+We then study the last passage percolation model with various symmetries
+via a number of identities that involve orthogonal/symplectic characters
+and our interpolating polynomials, thus going beyond the link with
+classical Schur polynomials originally found by Baik and Rains. We
+achieve this by applying the Robinson-Schensted-Knuth correspondence to
+triangular arrays and using a decomposition procedure for Gelfand-Tsetlin
+patterns.
+As an application, we provide an explanation of why the Tracy-Widom GOE and
+GSE distributions from random matrix theory admit formulations in terms of
+both Fredholm determinants and Fredholm Pfaffians.
 </div></details></li>
-<li><details><summary>4:30 - 5:05</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>4:30 - 5:05 Yi Sun (Columbia) - Gaussian fluctuations for products of random matrices</summary><div style="padding:10px">
+This talk concerns singular values of M-fold products of i.i.d. right-unitarily invariant N x N random matrix ensembles. As N tends to infinity, the height function of the Lyapunov exponents converges to a deterministic limit by work of Voiculescu and Nica-Speicher for M fixed and by work of Newman and Isopi-Newman for M tending to infinity with N.   In this talk, I will show for a variety of ensembles that fluctuations of these height functions about their mean converge to explicit Gaussian fields which are log-correlated for M fixed and have a white noise component for M tending to infinity with N.  These ensembles include rectangular Ginibre matrices, truncated Haar-random unitary matrices, and right-unitarily invariant matrices with fixed singular values.  I will sketch our technique, which derives a central limit theorem for global fluctuations via certain conditions on the multivariate Bessel generating function, a Laplace-transform-like object associated to the spectral measures of these matrix products. This is joint work with Vadim Gorin.
 </div></details></li>
 </ul>
 
