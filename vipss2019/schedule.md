@@ -174,18 +174,48 @@ Abstract TBA
 ##### Saturday, June 8
 
 <ul>
-<li><details><summary>9:00 - 9:35</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>9:00 - 9:35 Matteo Mucciconi - Yang-Baxter Random Fields and Stochastic Vertex Models</summary><div style="padding:10px">
+Starting from the notion of bijectivization of the Yang-Baxter
+equation [BP] we construct random fields of Young diagrams whose measure is
+described by spin Hall-Littlewood functions (sHL) and spin q-Whittaker
+functions (sqW).
+These are two families of special symmetric functions recently introduced
+in [B], [BW] that generalize Hall-Littlewood and q-Whittaker functions. The
+bijectivization formalism uncovers a Schur processes like structure for a
+number of stochastic integrable vertex models that are obtained as
+marginals of the fields of Young diagram. Among these we have the six
+vertex model, the higher spin vertex model or a rather complicated
+push-type system that generalizes the q-Hahn pushTASEP [CMP].
+We also discover q-difference operators acting diagonally on the sHL and
+sqW functions and we use them to write formulas for observables of the
+vertex models.
+<br>
+The talk is based on collaboration with A. Bufetov and L. Petrov.
+<br><br>
+References:
+<br>
+*[B]   <a href="https://arxiv.org/abs/1410.0976">*A. Borodin, "On a family of symmetric rational functions"</a>
+<br>
+*[BP]   <a href="https://arxiv.org/abs/1712.04584">*A. Bufetov and L. Petrov, "Yang-Baxter field for spin
+Hall-Littlewood symmetric functions"</a>
+<br>
+*[BW]   <a href="https://arxiv.org/abs/1701.06292">*A. Borodin and M. Wheeler, "Spin q-Whittaker polynomials"</a>
+<br>
+*[CMP]   <a href="https://arxiv.org/abs/1811.06475">*I. Corwin, K. Matveev and L. Petrov, "The q-Hahn pushTASEP"</a>
 </div></details></li>
-<li><details><summary>9:40 - 10:15</summary><div style="padding:10px">
+<li><details><summary>9:40 - 10:15 Michael Basok - TBA</summary><div style="padding:10px">
 Abstract TBA
 </div></details></li>
 <li>10:15 - 10:50 Break</li>
 <li><details><summary>10:50 - 11:25</summary><div style="padding:10px">
 Abstract TBA
 </div></details></li>
-<li><details><summary>11:30 - 12:05</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>11:30 - 12:05 Guilherme Silva - Properties of the Limiting Distribution for the Periodic TASEP</summary><div style="padding:10px">
+It is now a classical result that the one-point fluctuations of the height function in the TASEP (with step initial data) converge, in a suitable scaling, to the Tracy-Widom distribution $F_2$. In addition to the remarkable universality feature of $F_2$, appearing in dozens of different models that are seemingly unrelated, this distribution also enjoys several nice different characterizations, for instance it can be given in terms of a somewhat simple Fredholm determinant, or in terms of a solution to the Painlev\'e II equation, or yet expressed via a Riemann-Hilbert problem.
+<br><br>
+Recently, Baik and Liu found an expression for the limiting distribution for the periodic TASEP. Their formula, somewhat complicated, gives this limiting distribution in terms of a Fredholm determinant. In this talk, after reviewing the just mentioned facts, we plan to explain how to obtain other expressions for Baik-Zhipeng's distribution in terms of a Riemann-Hilbert problem, or yet in terms of a nonlocal PDE, along very much the same spirit of the aforementioned properties of the Tracy-Widom distribution.
+<br><br>
+This is based on work in progress with Jinho Baik (University of Michigan) and Zhipeng Liu (University of Kansas)
 </div></details></li>
 </ul>
 
