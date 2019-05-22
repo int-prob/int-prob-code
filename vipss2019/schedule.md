@@ -142,8 +142,8 @@ S = Sasamoto; Z = Zinn-Justin
 ##### Friday, June 7
 
 <ul>
-<li><details><summary>9:00 - 9:35 Andrew Ahn (MIT) - TBA</summary><div style="padding:10px">
-Abstract TBA
+<li><details><summary>9:00 - 9:35 Andrew Ahn (MIT) - Macdonald Plane Partitions and Product Processes</summary><div style="padding:10px">
+The Macdonald plane partitions are a two-parameter family of deformation of the q^vol measure on random plane partitions. It was shown that, under a suitable limit, the Macdonald plane partitions degenerate to products of beta Jacobi ensembles, where the notion of product for arbitrary beta is an extension of free multiplication for unitarily invariant random matrices. We discuss a difference operators method which can be used to access global asymptotics of the Macdonald plane partitions. Under a suitable limit transition, we discuss how this method can be applied to access global asymptotics of products of beta Jacobi ensembles.
 </div></details></li>
 <li><details><summary>9:40 - 10:15 Jules Lamers (University of Melbourne) - q-deformed Haldane-Shastry spin chain</summary><div style="padding:10px">
 Abstract TBA
