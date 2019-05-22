@@ -46,7 +46,8 @@ which can get you from the university to the downtown.
 
 	There are several apps (for example, CAT) which display bus stops and
 bus times, both for Charlottesville city and University of Virginia
-buses.
+buses. Google maps knows the city bus schedule, but is not
+integrated with the university buses.
 
 - Lime and Bird app-based electric scooters operate in Charlottesville, too.
 
