@@ -21,7 +21,6 @@ permalink: /vipss2019/travel_local/
 <h3 class="mb-3">Classroom and discussion space</h3>
 
 - Lectures and discussion sessions are in <a href="https://goo.gl/maps/KgajNcWymQ8aP9SX8">Clark Hall</a>, room 107 (this is a large lecture room with planets)
-
 - Additional space for discussions is available in the Math Department building (<a href="https://goo.gl/maps/DpLDp1go3uR5G5eR9">Kerchof Hall</a>). The building has several small lounges and seminar rooms:
 	- seminar room 128 ("basement floor")
 	- graduate lounge at the center of "basement floor"
@@ -32,7 +31,6 @@ permalink: /vipss2019/travel_local/
 	
 	The building is open during working hours (so, not on May 27 and June 8). Feel free to use the lounges and seminar rooms if they are not occupied. This is summer time, and there are not much other activity in the math building.
 - Lambeth residence area has a common building with two large lounges (details were sent in an informational email)
- 
 - There are many coffee shops in "the Corner" area, see below
 
 <h3 class="mb-3">Internet access</h3>
