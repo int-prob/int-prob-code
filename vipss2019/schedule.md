@@ -10,7 +10,9 @@ permalink: /vipss2019/schedule/
 
 <h1 class="mb-3"><a href="{{site.url}}/vipss2019/">Virginia Integrable Probability Summer School 2019</a></h1>
 
-### All events are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107
+### &bull; All events are in [Clark Hall](https://goo.gl/maps/KgajNcWymQ8aP9SX8), room 107
+
+### &bull; <a href="{{site.url}}/vipss2019/travel_local/">Travel and local details</a>
 
 ---
 
