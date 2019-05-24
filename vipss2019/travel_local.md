@@ -39,9 +39,7 @@ permalink: /vipss2019/travel_local/
 <h3 class="mb-3">Internet access</h3>
 
 On University of Virginia Grounds and in residence halls, there are two ways to get online:
-
 1. If you have access to the global "eduroam" network, then it should work at University of Virginia
-
 2. Guest wifi codes with instructions are available at the lecture hall and at check-in. Please email <a href="mailto:lenia.petrov@gmail.com">lenia.petrov@gmail.com</a> and I can send you a wifi code beforehand.
 
 <h3 class="mb-3">Parking</h3>
