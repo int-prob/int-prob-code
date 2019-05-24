@@ -74,7 +74,7 @@ Further details about the stay will be emailed separately.
 
 <h3 class="mb-3">Gym</h3>
 
-University of Virginia has several [sports/recreational facilities](https://recsports.virginia.edu) which the participants staying at residence halls have access to (the conference participants listed on this website can get the membership at $35/week). Refer to the following contact information for further actions:
+University of Virginia has several [sports/recreational facilities](https://recsports.virginia.edu) which the participants have access to (the conference participants listed on this website can get the membership at $35/week). Refer to the following contact information for further actions:
 - call the business office (M-F 9:00am to 5:30pm) at 434-924-3791  or 
 - go in-person to the offices (M-F 9:00am to 5:30pm) at 
 	- [Aquatic & Fitness Center](https://recsports.virginia.edu/afc) or
