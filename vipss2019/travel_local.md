@@ -22,7 +22,7 @@ permalink: /vipss2019/travel_local/
 
 - Lectures and discussion sessions are in <a href="https://goo.gl/maps/KgajNcWymQ8aP9SX8">Clark Hall</a>, room 107 (this is a large lecture room with planets)
 - We have reserved the smaller classroom Clark 102 for discussions in
-		the afternoons. It is available May 28-31 and June 3-7, but only
+		the afternoons. It is available May 28-31 and June 3-7, 
 		**from 1pm to 5pm** (and possibly later, too)
 - Additional space for discussions is available in the Math Department building (<a href="https://goo.gl/maps/DpLDp1go3uR5G5eR9">Kerchof Hall</a>). The building has several small lounges and seminar rooms:
 	- seminar room 128 ("basement floor")
