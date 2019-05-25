@@ -135,7 +135,7 @@ S = Sasamoto; Z = Zinn-Justin
 - 2:00 - 3:30 Lecture (S4)
 - 3:30 - 4:00 Break
 - 4:00 - 5:00 TA session (S3)
-- 6:30 - 9:00 Organized dinner at [Himalayan Fusion](https://goo.gl/maps/abuvp4DkkHK4YsQs7) (about $25/person) 
+- 6:30 - 9:00 Banquet at [Himalayan Fusion](https://goo.gl/maps/abuvp4DkkHK4YsQs7) (about $25/person) 
 
 ---
 
