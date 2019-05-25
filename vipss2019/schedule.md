@@ -88,9 +88,26 @@ permalink: /vipss2019/schedule/
 <li>11:00 - 12:00 TA session (W3)</li>
 <li>12:00 - 2:00 Lunch time</li>
 <li><details>
-<summary>2:00 - 3:00 Research talk: Marianna Russkikh (University of Geneva) - TBA</summary>
+<summary>2:00 - 3:00 Research talk: Marianna Russkikh (University of Geneva) - Dimers and embeddings</summary>
 <div style="padding:10px">
-Abstract TBA
+One of the main questions in the context of the universality and
+conformal invariance of a critical 2D lattice model is to find an
+embedding which geometrically encodes the weights of the model and
+that admits “nice” discretizations of Laplace and Cauchy-Riemann
+operators. We establish a correspondence between dimer models on a
+bipartite graph and circle patterns with the combinatorics of that
+graph. We describe how to construct a circle pattern of a dimer
+planar graph using its Kasteleyn weights. We also introduce the
+definition of discrete holomorphicity on such an embedding. We
+discuss the link between these functions and actual continuous
+holomorphic functions.
+<br>
+Based on:
+<ul>
+<li>“Dimers and Circles” joint with R. Kenyon, W. Lam, S.
+Ramassamy;</li>
+<li>“Holomorphic functions on t-embeddings of planar graphs” joint with D. Chelkak, B. Laslier.</li>
+</ul>
 </div>
 </details>
 </li>
