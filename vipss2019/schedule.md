@@ -44,35 +44,43 @@ permalink: /vipss2019/schedule/
 </ul>
 
 
-##### Monday, May 27
+<!-- <details style="background:#BBBBBB"><summary> -->
+<h5 id="monday-may-27">Monday, May 27</h5>
+<!-- </summary> -->
+<ul>
+  <li>08:55 - 09:00 Opening remarks</li>
+  <li>9:00 - 10:30 Lecture (C1)</li>
+  <li>10:30 - 11:00 Break</li>
+  <li>11:00 - 12:00 TA session (C1)</li>
+  <li>12:00 - 2:00 Lunch time</li>
+  <li>2:00 - 3:30 Lecture (W1)</li>
+  <li>3:30 - 4:00 Break</li>
+  <li>4:00 - 5:00 TA session (W1)</li>
+</ul>
+<!-- </details> -->
 
-- 08:55 - 09:00 Opening remarks
-- 9:00 - 10:30 Lecture (C1)
-- 10:30 - 11:00 Break
-- 11:00 - 12:00 TA session (C1)
-- 12:00 - 2:00 Lunch time
-- 2:00 - 3:30 Lecture (W1)
-- 3:30 - 4:00 Break
-- 4:00 - 5:00 TA session (W1)
+<h5 id="tuesday-may-28">Tuesday, May 28</h5>
 
-##### Tuesday, May 28
+<ul>
+  <li>9:00 - 10:30 Lecture (W2)</li>
+  <li>10:30 - 11:00 Break</li>
+  <li>11:00 - 12:00 TA session (W2)</li>
+  <li>12:00 - 2:00 Lunch time</li>
+  <li>2:00 - 3:30 Lecture (C2)</li>
+  <li>3:30 - 4:00 Break</li>
+  <li>4:00 - 5:00 TA session (C2)</li>
+</ul>
 
-- 9:00 - 10:30 Lecture (W2)
-- 10:30 - 11:00 Break
-- 11:00 - 12:00 TA session (W2)
-- 12:00 - 2:00 Lunch time
-- 2:00 - 3:30 Lecture (C2)
-- 3:30 - 4:00 Break
-- 4:00 - 5:00 TA session (C2)
+<h5 id="wednesday-may-29">Wednesday, May 29</h5>
 
-##### Wednesday, May 29
+<ul>
+  <li>9:00 - 10:30 Lecture (C3)</li>
+  <li>10:30 - 11:00 Break</li>
+  <li>11:00 - 12:00 TA session (C3)</li>
+  <li>Free time / collaboration</li>
+</ul>
 
-- 9:00 - 10:30 Lecture (C3)
-- 10:30 - 11:00 Break
-- 11:00 - 12:00 TA session (C3)
-- Free time / collaboration
-
-##### Thursday, May 30
+<h5 id="thursday-may-30">Thursday, May 30</h5>
 
 <ul>
 <li>9:00 - 10:30 Lecture (W3)</li>
@@ -90,7 +98,7 @@ Abstract TBA
 <li>3:30 - 5:00 Lecture (C4)</li>
 </ul>
 
-##### Friday, May 31
+<h5 id="friday-may-31">Friday, May 31</h5>
 
 <ul>
 <li>9:00 - 10:30 Lecture (W4)</li>
@@ -102,7 +110,7 @@ We will consider the effect of adding a space-time white noise drift to a
 collection of independent Brownian motions. Using an integrable
 discretization of the model, we will see that the extreme value behavior
 for these diffusions is governed by the Kardar-Parisi-Zhang universality
-class which arises in random growth models and random matrix theory. <br>This
+class which arises in random growth models and random matrix theory. <br />This
 talk is based on joint works with Ivan Corwin and Mark Rychnovsky.
 </div>
 </details></li>
