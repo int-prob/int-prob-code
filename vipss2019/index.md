@@ -56,9 +56,6 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 <li> <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> (University of Queensland, Brisbane, Australia)
 <details>
 <summary><strong>Schur functions and Schur processes</strong></summary>
-<div style="padding:10px">
-Abstract TBA
-</div>
 </details>
 </li>
 </ul>
@@ -93,9 +90,6 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 <li> <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) 
 <details>
 <summary><strong>Quantum integrability and symmetric polynomials</strong></summary>
-<div style="padding:10px">
-Abstract TBA
-</div>
 </details>
 </li>
 </ul>
