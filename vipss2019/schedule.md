@@ -133,9 +133,9 @@ talk is based on joint works with Ivan Corwin and Mark Rychnovsky.
 </details></li>
 <li>12:00 - 2:00 Lunch time</li>
 <li>
-<details><summary>2:00 - 3:00 Research talk: Cesar Cuenca (MIT) - TBA</summary> 
+<details><summary>2:00 - 3:00 Research talk: Cesar Cuenca (MIT) BC type Z-measures</summary> 
 <div style="padding:10px">
-Abstract TBA
+We introduce the BC type Z-measures as members of a 4-parameter family of point processes, with origins in the representation theory of the infinite-dimensional orthogonal and symplectic groups. The main result we present is that the BC type Z-measures are determinantal point processes with explicit correlation kernels, in terms of hypergeometric functions. In joint work with Grigori Olshanski, we have defined natural q-analogues of the BC type Z-measures. Our construction is based on the theory of q-hypergeometric orthogonal polynomials, though we hope that these measures can also be constructed from the representation theory of quantum groups. The last part of the talk is a brief overview of the quantization of the BC type Z-measures.
 </div>
 </details>
 </li>
