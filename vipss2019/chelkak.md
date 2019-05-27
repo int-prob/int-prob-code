@@ -32,4 +32,4 @@ In theoretical physics, the critical planar Ising model serves as a toy example,
 ### Files
 
 - [Definitions]({{site.url}}/vipss2019/chelkak/Def_VA2019_1.pdf)
-- [Problem Set 1]({{site.url}}/vipss2019/chelkak/IsingVirginia_TA1.pdf)
+- [Problem Set 1]({{site.url}}/vipss2019/chelkak/IsingVirginia_TA1.pdf) (deadline: 11pm, Tuesday May 28)
