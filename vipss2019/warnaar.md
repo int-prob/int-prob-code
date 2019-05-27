@@ -18,14 +18,20 @@ permalink: /vipss2019/warnaar/
 
 ---
 
-## Problem sets
+### Problem sets
 
 - Problem set 1: exercises **1-3** (file is below) &bull; **deadline: Tuesday May 28, 9am** &bull; Each group submits one solution, either email [Jules Lamers](mailto:jules.l@unimelb.edu.au) or bring a handwritten version to the lecture
 
 
 ---
 
-## Files
+### Files
 
 - [Exercises]({{site.url}}/vipss2019/warnaar/exercises_on_symmetric_functions.pdf)
 
+
+--- 
+
+### Lectures (Video)
+
+- [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Warnaar-1.mp4)

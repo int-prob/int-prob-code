@@ -37,6 +37,6 @@ In theoretical physics, the critical planar Ising model serves as a toy example,
 
 --- 
 
-### Lectures (video)
+### Lectures (Video)
 
 - [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Chelkak-1.mp4)
