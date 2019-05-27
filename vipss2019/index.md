@@ -55,7 +55,7 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 
 <li> <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> (University of Queensland, Brisbane, Australia)
 <details>
-<summary><strong>Schur functions and Schur processes</strong></summary>
+<summary><strong>Schur functions and Schur processes</strong> &bull; <a href="{{site.url}}/vipss2019/warnaar/">course page</a></summary>
 </details>
 </li>
 </ul>
