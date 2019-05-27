@@ -44,9 +44,9 @@ permalink: /vipss2019/schedule/
 </ul>
 
 
-<!-- <details style="background:#BBBBBB"><summary> -->
+<details style="background:#BBBBBB"><summary>
 <h5 id="monday-may-27">Monday, May 27</h5>
-<!-- </summary> -->
+</summary>
 <ul>
   <li>08:55 - 09:00 Opening remarks</li>
   <li>9:00 - 10:30 Lecture (C1)</li>
@@ -57,7 +57,7 @@ permalink: /vipss2019/schedule/
   <li>3:30 - 4:00 Break</li>
   <li>4:00 - 5:00 TA session (W1)</li>
 </ul>
-<!-- </details> -->
+</details>
 
 <h5 id="tuesday-may-28">Tuesday, May 28</h5>
 
