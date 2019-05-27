@@ -38,7 +38,7 @@ Scientific Committee: <a href="http://www.math.lsa.umich.edu/~baik/Welcome.html"
 <ul>
 <li> <a href="http://www.pdmi.ras.ru/~dchelkak/index_en.html">Dmitry Chelkak</a> (École Normale Supérieure, Paris, France)
 <details>
-<summary><strong>Planar Ising model: from combinatorics to CFT and s-embeddings</strong></summary>
+<summary><strong>Planar Ising model: from combinatorics to CFT and s-embeddings</strong> &bull; <a href="{{site.url}}/vipss2019/chelkak/">course page</a></summary>
 <div style="padding:10px">In theoretical physics, the critical planar Ising model serves as a toy example, in which many precursors of Conformal Field Theory objects and structures exist and can be studied directly in discrete, before passing to the small mesh size limit. Mathematically, a number of results on convergence and conformal invariance of such limits were established during the last decade, both for correlation functions and for interfaces (domain walls) arising in the model. In this mini-course we plan to discuss
 
 <ul>
