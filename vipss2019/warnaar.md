@@ -16,6 +16,11 @@ permalink: /vipss2019/warnaar/
 
 ## <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> - Schur functions and Schur processes
 
+---
+
+## Problem sets
+
+- Problem set 1: exercises **1-3** (file is below) &bull; **deadline: Tuesday May 28, 9am** &bull; Each group submits one solution, either email [Jules Lamers](mailto:jules.l@unimelb.edu.au) or bring a handwritten version to the lecture
 
 
 ---
