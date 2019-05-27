@@ -16,3 +16,11 @@ permalink: /vipss2019/warnaar/
 
 ## <a href="https://people.smp.uq.edu.au/OleWarnaar/">Ole Warnaar</a> - Schur functions and Schur processes
 
+
+
+---
+
+## Files
+
+- [Exercises]({{site.url}}/vipss2019/warnaar/exercises_on_symmetric_functions.pdf)
+
