@@ -30,8 +30,13 @@ permalink: /vipss2019/warnaar/
 
 - [Exercises]({{site.url}}/vipss2019/warnaar/exercises_on_symmetric_functions.pdf)
 
-
 --- 
+
+### Lecture notes
+
+- [Lectures 1-2]({{site.url}}/vipss2019/warnaar/lec1_2.pdf)
+
+---
 
 ### Lectures (Video)
 
