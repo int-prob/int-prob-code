@@ -60,8 +60,8 @@ permalink: /vipss2019/schedule/
 </details>
 
 <details style="background:#BBBBBB"><summary>
-<h5 id="monday-may-27">Monday, May 27</h5>
 <h5 id="tuesday-may-28">Tuesday, May 28</h5>
+</summary>
 <ul>
   <li>9:00 - 10:30 Lecture (W2)</li>
   <li>10:30 - 11:00 Break</li>
