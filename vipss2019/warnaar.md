@@ -29,6 +29,7 @@ permalink: /vipss2019/warnaar/
 ### Files
 
 - [Exercises]({{site.url}}/vipss2019/warnaar/exercises_on_symmetric_functions.pdf)
+- [Solutions to exercises 1-3]({{site.url}}/vipss2019/warnaar/Solutions_1-3.pdf)
 
 --- 
 
