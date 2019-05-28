@@ -35,3 +35,4 @@ permalink: /vipss2019/warnaar/
 ### Lectures (Video)
 
 - [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Warnaar-1.mp4)
+- [Lecture 2](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Warnaar-2.mp4)
