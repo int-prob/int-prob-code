@@ -44,7 +44,7 @@ permalink: /vipss2019/schedule/
 </ul>
 
 
-<details style="background:#BBBBBB"><summary>
+<details style="background:#EEEEEE"><summary>
 <h5 id="monday-may-27">Monday, May 27</h5>
 </summary>
 <ul>
@@ -59,7 +59,7 @@ permalink: /vipss2019/schedule/
 </ul>
 </details>
 
-<details style="background:#BBBBBB"><summary>
+<details style="background:#EEEEEE"><summary>
 <h5 id="tuesday-may-28">Tuesday, May 28</h5>
 </summary>
 <ul>
