@@ -323,8 +323,16 @@ Hall-Littlewood symmetric functions"</a>
 Double-dimer model on a given graph is a random loop ensemble that is obtained by sampling two independent dimer configurations taken uniformly at random and removing double edges. Given a simplpy-conected domain and a sequence of "discrete" domains, drawn on a square grid, that approximate this domain (we assume that the step of the grid tends to zero) one can consider the corresponding sequence of random loop ensembles induced by the double dimer model in each discrete domain (seen as a subgraph of the square grid). It was predicted by R. Kenyon that this sequence of random loop ensembles converges to Conformal Loop Ensemble with parameter 4 (CLE(4)) sampled in the original domain. Recently his conjecture was deeply supported by a breakthrough work of J. Dubedat: in this work a large family of observables called topological correlators is introduced and it is shown that given sequence of a Temperley discretizations of a simply connected domain topological correlators converge to the corresponding observables for CLE(4). As a biproduct Dubedat showed that topological correlators for CLE(4) coinside with Jimbo-Miwa isomonodromic tau functions; this correspondens seems to be interesting in its own side. It turns out that these results of Dubedat acturally characterize the limit of double-dimer loop ensembles, i.e. the following corollary holds: if the sequence of measures induced by double-dimer ensembles in discrete domains is tight then it converges to CLE(4). We will discuss these results of J. Dubedat and the machinary developed to extract this corollary. Based on a joint work with Dmitry Chelkak (Paris).
 </div></details></li>
 <li>10:15 - 10:50 Break</li>
-<li><details><summary>10:50 - 11:25 Mark Rychnovsky (Columbia) - Large Deviations for sticky Brownian motion</summary><div style="padding:10px">
-We consider n-point sticky Brownian motion: a family of n diffusions that evolve as independent Brownian motions when they do not intersect, and interact locally so that their coincidence times have positive Lebesgue measure with positive probability. We produce a large deviation principle with Tracy-Widom corrections, by viewing this well-studied model as the limit of an exactly solvable model in the KPZ universality class: the Beta random walk in random environment.
+<li><details><summary>10:50 - 11:25 Mark Rychnovsky (Columbia) - 
+Tracy-Widom Fluctuations for a river delta
+</summary>
+<div style="padding:10px">
+We consider an exactly solvable directed first passage
+percolation model for a river delta. We prove that asymptotically
+the width of the river delta of length L is order $L^⅔$ with
+Tracy-Widom fluctuations of order $L^{4/9}$. We can also
+reformulate this result as a Tracy-Widom limit theorem for an
+interacting particle system sitting above pushTASEP.
 </div></details></li>
 <li><details><summary>11:30 - 12:05 Guilherme Silva (Michigan) - Properties of the Limiting Distribution for the Periodic TASEP</summary><div style="padding:10px">
 It is now a classical result that the one-point fluctuations of the height function in the TASEP (with step initial data) converge, in a suitable scaling, to the Tracy-Widom distribution $F_2$. In addition to the remarkable universality feature of $F_2$, appearing in dozens of different models that are seemingly unrelated, this distribution also enjoys several nice different characterizations, for instance it can be given in terms of a somewhat simple Fredholm determinant, or in terms of a solution to the Painlev\'e II equation, or yet expressed via a Riemann-Hilbert problem.
