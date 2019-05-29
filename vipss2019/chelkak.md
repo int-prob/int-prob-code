@@ -34,6 +34,7 @@ In theoretical physics, the critical planar Ising model serves as a toy example,
 - [Definitions]({{site.url}}/vipss2019/chelkak/Def_VA2019_1.pdf)
 - [Problem Set 1]({{site.url}}/vipss2019/chelkak/IsingVirginia_TA1.pdf) &bull; **deadline: 11pm, Tuesday May 28**
 - [Problem Set 2]({{site.url}}/vipss2019/chelkak/IsingVirginia_TA2.pdf) &bull; **deadline: 11pm, Wednesday, May 29**
+- ["A small remark on Szego theorems"]({{site.url}}/vipss2019/chelkak/remark_on_OPUS.pdf)
 
 
 --- 
