@@ -73,14 +73,16 @@ permalink: /vipss2019/schedule/
 </ul>
 </details>
 
+<details style="background:#EEEEEE"><summary>
 <h5 id="wednesday-may-29">Wednesday, May 29</h5>
-
+</summary>
 <ul>
   <li>9:00 - 10:30 Lecture (C3)</li>
   <li>10:30 - 11:00 Break</li>
   <li>11:00 - 12:00 TA session (C3)</li>
   <li>Free time / collaboration</li>
 </ul>
+</details>
 
 <h5 id="thursday-may-30">Thursday, May 30</h5>
 
