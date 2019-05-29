@@ -121,7 +121,7 @@ Ramassamy;</li>
 
 <ul>
 <li>9:00 - 10:30 Lecture (W4)</li>
-<li>10:30 - 11:00 Break</li>
+<li>10:30 - 11:00 Break with snacks</li>
 <li><details>
 <summary>11:00 - 12:00 Research talk: Guillaume Barraquand (ENS) - Diffusions in random environment</summary>
 <div style="padding:10px">
@@ -133,9 +133,8 @@ class which arises in random growth models and random matrix theory. <br />This
 talk is based on joint works with Ivan Corwin and Mark Rychnovsky.
 </div>
 </details></li>
-<li>12:00 - 2:00 Lunch time</li>
 <li>
-<details><summary>2:00 - 3:00 Research talk: Cesar Cuenca (MIT) BC type Z-measures</summary> 
+<details><summary>12:15 - 1:15 Research talk: Cesar Cuenca (MIT) BC type Z-measures</summary> 
 <div style="padding:10px">
 We introduce the BC type Z-measures as members of a 4-parameter family of point processes, with origins in the representation theory of the infinite-dimensional orthogonal and symplectic groups. The main result we present is that the BC type Z-measures are determinantal point processes with explicit correlation kernels, in terms of hypergeometric functions. In joint work with Grigori Olshanski, we have defined natural q-analogues of the BC type Z-measures. Our construction is based on the theory of q-hypergeometric orthogonal polynomials, though we hope that these measures can also be constructed from the representation theory of quantum groups. The last part of the talk is a brief overview of the quantization of the BC type Z-measures.
 </div>
