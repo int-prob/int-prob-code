@@ -84,8 +84,9 @@ permalink: /vipss2019/schedule/
 </ul>
 </details>
 
+<details style="background:#EEEEEE"><summary>
 <h5 id="thursday-may-30">Thursday, May 30</h5>
-
+</summary>
 <ul>
 <li>9:00 - 10:30 Lecture (W3)</li>
 <li>10:30 - 11:00 Break</li>
@@ -118,6 +119,7 @@ Ramassamy;</li>
 <li>3:00 - 3:30 Break</li>
 <li>3:30 - 5:00 Lecture (C4)</li>
 </ul>
+</details>
 
 <h5 id="friday-may-31">Friday, May 31</h5>
 
