@@ -43,10 +43,11 @@ permalink: /vipss2019/schedule/
 </li>
 </ul>
 
-
-<details style="background:#EEEEEE"><summary>
-<h5 id="monday-may-27">Monday, May 27</h5>
+<details style="background:#EEEEEE">
+<summary>
+<h3>Week 1 schedule</h3>
 </summary>
+<h5 id="monday-may-27">Monday, May 27</h5>
 <ul>
   <li>08:55 - 09:00 Opening remarks</li>
   <li>9:00 - 10:30 Lecture (C1)</li>
@@ -57,11 +58,8 @@ permalink: /vipss2019/schedule/
   <li>3:30 - 4:00 Break</li>
   <li>4:00 - 5:00 TA session (W1)</li>
 </ul>
-</details>
 
-<details style="background:#EEEEEE"><summary>
 <h5 id="tuesday-may-28">Tuesday, May 28</h5>
-</summary>
 <ul>
   <li>9:00 - 10:30 Lecture (W2)</li>
   <li>10:30 - 11:00 Break</li>
@@ -71,22 +69,16 @@ permalink: /vipss2019/schedule/
   <li>3:30 - 4:00 Break</li>
   <li>4:00 - 5:00 TA session (C2)</li>
 </ul>
-</details>
 
-<details style="background:#EEEEEE"><summary>
 <h5 id="wednesday-may-29">Wednesday, May 29</h5>
-</summary>
 <ul>
   <li>9:00 - 10:30 Lecture (C3)</li>
   <li>10:30 - 11:00 Break</li>
   <li>11:00 - 12:00 TA session (C3)</li>
   <li>Free time / collaboration</li>
 </ul>
-</details>
 
-<details style="background:#EEEEEE"><summary>
 <h5 id="thursday-may-30">Thursday, May 30</h5>
-</summary>
 <ul>
 <li>9:00 - 10:30 Lecture (W3)</li>
 <li>10:30 - 11:00 Break</li>
@@ -119,7 +111,6 @@ Ramassamy;</li>
 <li>3:00 - 3:30 Break</li>
 <li>3:30 - 5:00 Lecture (C4)</li>
 </ul>
-</details>
 
 <h5 id="friday-may-31">Friday, May 31</h5>
 
@@ -146,6 +137,7 @@ We introduce the BC type Z-measures as members of a 4-parameter family of point 
 </li>
 <li>Free time / collaboration</li>
 </ul>
+</details>
 
 ---
 
