@@ -154,7 +154,7 @@ We introduce the BC type Z-measures as members of a 4-parameter family of point 
 <ul>
 <li> <b>S</b> : <a href="https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100380272&lang=en">Tomohiro Sasamoto</a> (Tokyo Institute of Technology, Tokyo, Japan) 
 <details>
-<summary><strong>Fluctuations of 1D exclusion processes: exact analysis and hydrodynamic approach</strong></summary>
+<summary><strong>Fluctuations of 1D exclusion processes: exact analysis and hydrodynamic approach</strong> &bull; <a href="{{site.url}}/vipss2019/sasamoto/">course page</a></summary>
 <div style="padding:10px">
 One dimensional exclusion processes are stochastic processes in which many particles perform random walks under exclusion constraint. They have been playing important role in the fields of stochastic interacting systems in probability theory and non-equilibrium statistical mechanics in physics. For the last two decades, fluctuations of the processes have been studied quite intensively, since the seminal work by Johansson[1-1] on totally asymmetric simple exclusion process (TASEP) showing that the current fluctuation of TASEP with step initial condition is described by the GUE Tracy-Widom distribution. There have been a vast accumulation of generalizations and related results, but there are still many intriguing questions and problems to be solved.
 <br><br>
@@ -178,7 +178,7 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 </li>
 <li> <b>Z</b> : <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) 
 <details>
-<summary><strong>Quantum integrability and symmetric polynomials</strong></summary>
+<summary><strong>Quantum integrability and symmetric polynomials</strong> &bull; <a href="{{site.url}}/vipss2019/zinnjustin/">course page</a></summary>
 </details>
 </li>
 </ul>
