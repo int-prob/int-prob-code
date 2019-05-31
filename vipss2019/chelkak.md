@@ -46,3 +46,4 @@ In theoretical physics, the critical planar Ising model serves as a toy example,
 - [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Chelkak-1.mp4) &bull; [youtube link](https://youtu.be/kRBREbwmFY4)
 - [Lecture 2](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Chelkak-2.mp4) &bull; [youtube link](https://youtu.be/xvjsHEtCXQM)
 - [Lecture 3](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Chelkak-3.mp4) &bull; [youtube link](https://youtu.be/2fR18JJIKEI)
+- [Lecture 4](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Chelkak-4.mp4) &bull; [youtube link](https://youtu.be/K9l2U2Svkv4)
