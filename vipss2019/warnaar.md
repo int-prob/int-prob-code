@@ -40,6 +40,7 @@ permalink: /vipss2019/warnaar/
 ### Lecture notes
 
 - [Lectures 1-2]({{site.url}}/vipss2019/warnaar/lec1_2.pdf)
+- [Lectures 3-4 and extra material on Schur processes]({{site.url}}/vipss2019/warnaar/lec3_4.pdf)
 
 ---
 
