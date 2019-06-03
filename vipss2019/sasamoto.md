@@ -31,3 +31,18 @@ techniques, J. Stat. Mech. (2007) P07007. [arXiv:0705.2942]</li>
 Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 <li>[4-2] T. Imamura, K. Mallick, T. Sasamoto, Distribution of a tagged particle position in the one-dimensional symmetric simple exclusion process with two-sided Bernoulli initial condition, arXiv:1810.06131.</li>
 </ul>
+
+--- 
+
+### Notes
+
+- [GUE and Tracy-Widom
+		distribution]({{site.url}}/vipss2019/sasamoto/GUE.pdf)
+
+--- 
+
+### Problem sets
+
+---
+
+### Lectures (Video)
