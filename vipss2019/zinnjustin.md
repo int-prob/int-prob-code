@@ -27,7 +27,7 @@ permalink: /vipss2019/zinnjustin/
 
 ### Problem sets
 
-- [Problem set 1]({{site.url}}/vipss2019/zinnjustin/ZJ1_tutorial.pdf) &bull; **deadline - Tuesday June 4, 9am**
+- [Problem set 1]({{site.url}}/vipss2019/zinnjustin/ZJ1_tutorial.pdf) &bull; **deadline - Tuesday June 4, 9am** (submit hand-written solutions to Jules Lamers) &bull; do at least problems 1.2, 1.3 and one of the other two
 
 ---
 
