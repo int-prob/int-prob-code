@@ -18,6 +18,19 @@ permalink: /vipss2019/zinnjustin/
 
 ---
 
-## Notes
+### Notes
 
 - [Jules Lamers "A pedagogical introduction to quantum integrability, with a view towards theoretical high-energy physics"](https://arxiv.org/abs/1501.06805)
+
+
+--- 
+
+### Problem sets
+
+- [Problem set 1]({{site.url}}/vipss2019/zinnjustin/ZJ1_tutorial.pdf) &bull; **deadline - Tuesday June 4, 9am**
+
+---
+
+### Lectures (Video)
+
+- [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-1.mp4) &bull; [youtube link]()
