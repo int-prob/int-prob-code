@@ -42,10 +42,10 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 
 ### Problem sets
 
-- [Problem set 1 - up to (ii)]({{site.url}}/vipss2019/sasamoto/S_problem_set_1) &bull; **deadline - Monday, June 3, 11pm**
+- [Problem set 1 - up to (ii)]({{site.url}}/vipss2019/sasamoto/S_problem_set_1.pdf) &bull; **deadline - Monday, June 3, 11pm**
 
 ---
 
 ### Lectures (Video)
 
-- 
+- [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Sasamoto-1.mp4) &bull; [youtube link](https://youtu.be/amZ0OqCW9ug)
