@@ -36,13 +36,16 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 
 ### Notes
 
-- [GUE and Tracy-Widom
-		distribution]({{site.url}}/vipss2019/sasamoto/GUE.pdf)
+- [GUE and Tracy-Widom distribution]({{site.url}}/vipss2019/sasamoto/GUE.pdf)
 
 --- 
 
 ### Problem sets
 
+- [Problem set 1 - up to (ii)]({{site.url}}/vipss2019/sasamoto/S_problem_set_1) &bull; **deadline - Monday, June 3, 11pm**
+
 ---
 
 ### Lectures (Video)
+
+- 
