@@ -33,4 +33,4 @@ permalink: /vipss2019/zinnjustin/
 
 ### Lectures (Video)
 
-- [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-1.mp4) &bull; [youtube link]()
+- [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-1.mp4) &bull; [youtube link](https://youtu.be/5pcYpujuvX8)
