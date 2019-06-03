@@ -15,3 +15,9 @@ permalink: /vipss2019/zinnjustin/
 ---
 
 ## <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> - Quantum integrability and symmetric polynomials
+
+---
+
+## Notes
+
+- [Jules Lamers "A pedagogical introduction to quantum integrability, with a view towards theoretical high-energy physics"](https://arxiv.org/abs/1501.06805)
