@@ -141,17 +141,17 @@ We introduce the BC type Z-measures as members of a 4-parameter family of point 
 
 ---
 
-# Week 2
+<h1 id="week-2">Week 2</h1>
 
 <ul>
-<li> <b>S</b> : <a href="https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100380272&lang=en">Tomohiro Sasamoto</a> (Tokyo Institute of Technology, Tokyo, Japan) 
+<li> <b>S</b> : <a href="https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&amp;key_t2r2Rid=CTT100380272&amp;lang=en">Tomohiro Sasamoto</a> (Tokyo Institute of Technology, Tokyo, Japan) 
 <details>
-<summary><strong>Fluctuations of 1D exclusion processes: exact analysis and hydrodynamic approach</strong> &bull; <a href="{{site.url}}/vipss2019/sasamoto/">course page</a></summary>
+<summary><strong>Fluctuations of 1D exclusion processes: exact analysis and hydrodynamic approach</strong> &bull; <a href="http://frg.int-prob.org/vipss2019/sasamoto/">course page</a></summary>
 <div style="padding:10px">
 One dimensional exclusion processes are stochastic processes in which many particles perform random walks under exclusion constraint. They have been playing important role in the fields of stochastic interacting systems in probability theory and non-equilibrium statistical mechanics in physics. For the last two decades, fluctuations of the processes have been studied quite intensively, since the seminal work by Johansson[1-1] on totally asymmetric simple exclusion process (TASEP) showing that the current fluctuation of TASEP with step initial condition is described by the GUE Tracy-Widom distribution. There have been a vast accumulation of generalizations and related results, but there are still many intriguing questions and problems to be solved.
-<br><br>
+<br /><br />
 In these lectures, we discuss a few new directions in the studies of fluctuations of exclusion processes. We also stress that such studies provide valuable insight to other methods based on hydrodynamic ideas which can be applied to a wider class of interacting particle systems. In the first lecture we review the basics of the subject. After introducing a few models such as the asymmetric simple exclusion process(ASEP) and the Kardar-Parisi-Zhang (KPZ) equation, we explain how one can study their fluctuations for the case of TASEP[1-2]. In the second lecture, we show that an approach introduced in [2] using Frobenius determinant can be applied to a large class of models in a unified manner. In the third lecture we explain our recent result on a two-species exclusion process and connection to the nonlinear fluctuating hydrodynamics[3]. In the last lecture we will consider an application of the techniques to study the large derivation in the symmetric exclusion process[4-1,2].
-<br><br>
+<br /><br />
 <strong>References</strong>
 <ul>
 <li>[1-1] K. Johansson, Shape fluctuations and random matrices, Commun. Math. Phys. (2009) 437-476. [arXiv:math/9903134]</li>
@@ -170,49 +170,59 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 </li>
 <li> <b>Z</b> : <a href="http://blogs.unimelb.edu.au/paul-zinn-justin/">Paul Zinn-Justin</a> (University of Melbourne, Melbourne, Australia) 
 <details>
-<summary><strong>Quantum integrability and symmetric polynomials</strong> &bull; <a href="{{site.url}}/vipss2019/zinnjustin/">course page</a></summary>
+<summary><strong>Quantum integrability and symmetric polynomials</strong> &bull; <a href="http://frg.int-prob.org/vipss2019/zinnjustin/">course page</a></summary>
 </details>
 </li>
 </ul>
 
+<details style="background:#EEEEEE">
+<summary>
+<h5 id="monday-june-3">Monday, June 3</h5>
+</summary>
+<ul>
+  <li>9:00 - 10:30 Lecture (S1)</li>
+  <li>10:30 - 11:00 Break</li>
+  <li>11:00 - 12:00 TA session (S1)</li>
+  <li>12:00 - 2:00 Lunch time</li>
+  <li>2:00 - 3:30 Lecture (Z1)</li>
+  <li>3:30 - 4:00 Break</li>
+  <li>4:00 - 5:00 TA session (Z1)</li>
+</ul>
+</details>
 
-##### Monday, June 3
+<h5 id="tuesday-june-4">Tuesday, June 4</h5>
 
-- 9:00 - 10:30 Lecture (S1)
-- 10:30 - 11:00 Break
-- 11:00 - 12:00 TA session (S1)
-- 12:00 - 2:00 Lunch time
-- 2:00 - 3:30 Lecture (Z1)
-- 3:30 - 4:00 Break
-- 4:00 - 5:00 TA session (Z1)
+<ul>
+  <li>9:00 - 10:30 Lecture (Z2)</li>
+  <li>10:30 - 11:00 Break</li>
+  <li>11:00 - 12:00 TA session (Z2)</li>
+  <li>12:00 - 2:00 Lunch time</li>
+  <li>2:00 - 3:30 Lecture (S2)</li>
+  <li>3:30 - 4:00 Break</li>
+  <li>4:00 - 5:00 TA session (S2)</li>
+</ul>
 
-##### Tuesday, June 4
+<h5 id="wednesday-june-5">Wednesday, June 5</h5>
 
-- 9:00 - 10:30 Lecture (Z2)
-- 10:30 - 11:00 Break
-- 11:00 - 12:00 TA session (Z2)
-- 12:00 - 2:00 Lunch time
-- 2:00 - 3:30 Lecture (S2)
-- 3:30 - 4:00 Break
-- 4:00 - 5:00 TA session (S2)
+<ul>
+  <li>9:00 - 10:30 Lecture (S3)</li>
+  <li>10:30 - 11:00 Break</li>
+  <li>11:00 - 12:30 Lecture (Z3)</li>
+  <li>Free time / collaboration</li>
+</ul>
 
-##### Wednesday, June 5
+<h5 id="thursday-june-6">Thursday, June 6</h5>
 
-- 9:00 - 10:30 Lecture (S3)
-- 10:30 - 11:00 Break
-- 11:00 - 12:30 Lecture (Z3)
-- Free time / collaboration
-
-##### Thursday, June 6
-
-- 9:00 - 10:30 Lecture (Z4)
-- 10:30 - 11:00 Break
-- 11:00 - 12:00 TA session (Z3)
-- 12:00 - 2:00 Lunch time
-- 2:00 - 3:30 Lecture (S4)
-- 3:30 - 4:00 Break
-- 4:00 - 5:00 TA session (S3)
-- 6:30 - 9:00 Banquet at [Himalayan Fusion](https://goo.gl/maps/abuvp4DkkHK4YsQs7) (about $25/person) 
+<ul>
+  <li>9:00 - 10:30 Lecture (Z4)</li>
+  <li>10:30 - 11:00 Break</li>
+  <li>11:00 - 12:00 TA session (Z3)</li>
+  <li>12:00 - 2:00 Lunch time</li>
+  <li>2:00 - 3:30 Lecture (S4)</li>
+  <li>3:30 - 4:00 Break</li>
+  <li>4:00 - 5:00 TA session (S3)</li>
+  <li>6:30 - 9:00 Banquet at <a href="https://goo.gl/maps/abuvp4DkkHK4YsQs7">Himalayan Fusion</a> (about $25/person)</li>
+</ul>
 
 ---
 
