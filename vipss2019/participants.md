@@ -18,6 +18,7 @@ permalink: /vipss2019/participants/
 
 <h1 class="mb-3">Participants</h1>
 
+1.  Abdelmalek Abdesselam (University of Virginia)
 1.  Andrew	Ahn	(MIT)
 1.  Guillaume	Barraquand (ENS)
 1.  Michael	Basok	(Saint Petersburg State University)
