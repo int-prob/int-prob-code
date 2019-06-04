@@ -51,4 +51,4 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 ### Lectures (Video)
 
 - [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Sasamoto-1.mp4) &bull; [youtube link](https://youtu.be/amZ0OqCW9ug)
-- [Lecture 2](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Sasamoto-2.mp4) &bull; [youtube link](https://youtu.be/)
+- [Lecture 2](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/Sasamoto-2.mp4) &bull; [youtube link](https://youtu.be/gJuStEk5NRQ)
