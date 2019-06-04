@@ -28,9 +28,11 @@ permalink: /vipss2019/zinnjustin/
 ### Problem sets
 
 - [Problem set 1]({{site.url}}/vipss2019/zinnjustin/ZJ1_tutorial.pdf) &bull; **deadline - Tuesday June 4, 9am** (submit hand-written solutions to Jules Lamers) &bull; do at least problems 1.2, 1.3 and one of the other two
+- [Problem set 1]({{site.url}}/vipss2019/zinnjustin/ZJ2_tutorial.pdf) &bull; **deadline - Wednesday June 5, 9am** (submit hand-written solutions to Jules Lamers) &bull; do at least 2.2, 2.3, 2.4
 
 ---
 
 ### Lectures (Video)
 
 - [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-1.mp4) &bull; [youtube link](https://youtu.be/5pcYpujuvX8)
+- [Lecture 2](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-2.mp4) &bull; [youtube link](https://youtu.be/wU3ic0VOKjI)
