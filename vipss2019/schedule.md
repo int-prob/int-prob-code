@@ -190,8 +190,10 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 </ul>
 </details>
 
+<details style="background:#EEEEEE">
+<summary>
 <h5 id="tuesday-june-4">Tuesday, June 4</h5>
-
+</summary>
 <ul>
   <li>9:00 - 10:30 Lecture (Z2)</li>
   <li>10:30 - 11:00 Break</li>
@@ -201,6 +203,7 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
   <li>3:30 - 4:00 Break</li>
   <li>4:00 - 5:00 TA session (S2)</li>
 </ul>
+</details>
 
 <h5 id="wednesday-june-5">Wednesday, June 5</h5>
 
