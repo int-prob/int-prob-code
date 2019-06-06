@@ -205,14 +205,17 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 </ul>
 </details>
 
+<details style="background:#EEEEEE">
+<summary>
 <h5 id="wednesday-june-5">Wednesday, June 5</h5>
-
+</summary>
 <ul>
   <li>9:00 - 10:30 Lecture (S3)</li>
   <li>10:30 - 11:00 Break</li>
   <li>11:00 - 12:30 Lecture (Z3)</li>
   <li>Free time / collaboration</li>
 </ul>
+</details>
 
 <h5 id="thursday-june-6">Thursday, June 6</h5>
 
