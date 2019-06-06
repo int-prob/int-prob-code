@@ -38,5 +38,5 @@ permalink: /vipss2019/zinnjustin/
 
 - [Lecture 1](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-1.mp4) &bull; [youtube link](https://youtu.be/5pcYpujuvX8)
 - [Lecture 2](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-2.mp4) &bull; [youtube link](https://youtu.be/wU3ic0VOKjI)
-- [Lecture 3](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-3.mp4) &bull; [youtube link]()
+- [Lecture 3](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-3.mp4) &bull; [youtube link](https://youtu.be/Y7NvegewJUg)
 - [Lecture 4](http://vipss19-lect.s3-website-us-east-1.amazonaws.com/ZinnJustin-4.mp4) &bull; [youtube link]()
