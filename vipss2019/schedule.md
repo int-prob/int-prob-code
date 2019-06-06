@@ -341,7 +341,7 @@ Tracy-Widom Fluctuations for a river delta
 <div style="padding:10px">
 We consider an exactly solvable directed first passage
 percolation model for a river delta. We prove that asymptotically
-the width of the river delta of length L is order $L^⅔$ with
+the width of the river delta of length L is order $L^{2/3}$ with
 Tracy-Widom fluctuations of order $L^{4/9}$. We can also
 reformulate this result as a Tracy-Widom limit theorem for an
 interacting particle system sitting above pushTASEP.
