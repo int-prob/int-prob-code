@@ -177,8 +177,9 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 
 <details style="background:#EEEEEE">
 <summary>
-<h5 id="monday-june-3">Monday, June 3</h5>
+<h3>Week 2 schedule</h3>
 </summary>
+<h5 id="monday-june-3">Monday, June 3</h5>
 <ul>
   <li>9:00 - 10:30 Lecture (S1)</li>
   <li>10:30 - 11:00 Break</li>
@@ -188,12 +189,8 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
   <li>3:30 - 4:00 Break</li>
   <li>4:00 - 5:00 TA session (Z1)</li>
 </ul>
-</details>
 
-<details style="background:#EEEEEE">
-<summary>
 <h5 id="tuesday-june-4">Tuesday, June 4</h5>
-</summary>
 <ul>
   <li>9:00 - 10:30 Lecture (Z2)</li>
   <li>10:30 - 11:00 Break</li>
@@ -203,19 +200,14 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
   <li>3:30 - 4:00 Break</li>
   <li>4:00 - 5:00 TA session (S2)</li>
 </ul>
-</details>
 
-<details style="background:#EEEEEE">
-<summary>
 <h5 id="wednesday-june-5">Wednesday, June 5</h5>
-</summary>
 <ul>
   <li>9:00 - 10:30 Lecture (S3)</li>
   <li>10:30 - 11:00 Break</li>
   <li>11:00 - 12:30 Lecture (Z3)</li>
   <li>Free time / collaboration</li>
 </ul>
-</details>
 
 <h5 id="thursday-june-6">Thursday, June 6</h5>
 
@@ -227,8 +219,9 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
   <li>2:00 - 3:30 Lecture (S4)</li>
   <li>3:30 - 4:00 Break</li>
   <li>4:00 - 5:00 TA session (S3)</li>
-  <li>6:30 - 9:00 Banquet at <a href="https://goo.gl/maps/abuvp4DkkHK4YsQs7">Himalayan Fusion</a> (about $25/person)</li>
+  <li>6:30 - 9:00 Banquet at <a href="https://goo.gl/maps/abuvp4DkkHK4YsQs7">Himalayan Fusion</a> (\$20/person)</li>
 </ul>
+</details>
 
 ---
 
