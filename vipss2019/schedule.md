@@ -219,7 +219,7 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
   <li>2:00 - 3:30 Lecture (S4)</li>
   <li>3:30 - 4:00 Break</li>
   <li>4:00 - 5:00 TA session (S3)</li>
-  <li>6:30 - 9:00 Banquet at <a href="https://goo.gl/maps/abuvp4DkkHK4YsQs7">Himalayan Fusion</a> (\$20/person)</li>
+  <li>6:30 - 9:00 Banquet at <a href="https://goo.gl/maps/abuvp4DkkHK4YsQs7">Himalayan Fusion</a> ($20/person)</li>
 </ul>
 </details>
 
