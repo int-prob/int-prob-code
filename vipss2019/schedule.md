@@ -43,10 +43,6 @@ permalink: /vipss2019/schedule/
 </li>
 </ul>
 
-<details style="background:#EEEEEE">
-<summary>
-<h3>Week 1 schedule</h3>
-</summary>
 <h5 id="monday-may-27">Monday, May 27</h5>
 <ul>
   <li>08:55 - 09:00 Opening remarks</li>
@@ -137,7 +133,6 @@ We introduce the BC type Z-measures as members of a 4-parameter family of point 
 </li>
 <li>Free time / collaboration</li>
 </ul>
-</details>
 
 ---
 
@@ -175,10 +170,6 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
 </li>
 </ul>
 
-<details style="background:#EEEEEE">
-<summary>
-<h3>Week 2 schedule</h3>
-</summary>
 <h5 id="monday-june-3">Monday, June 3</h5>
 <ul>
   <li>9:00 - 10:30 Lecture (S1)</li>
@@ -221,7 +212,6 @@ Phys. Rev. Lett. 118, 160601 (2017). [arXiv:1701.05991]</li>
   <li>4:00 - 5:00 TA session (S3)</li>
   <li>6:30 - 9:00 Banquet at <a href="https://goo.gl/maps/abuvp4DkkHK4YsQs7">Himalayan Fusion</a> ($20/person)</li>
 </ul>
-</details>
 
 ---
 
