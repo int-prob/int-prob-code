@@ -13,6 +13,8 @@ nav_id: Members
 
 ### Current
 
+- [Marianna Russkikh][marianna] (MIT) 2019-2021
+
 - Benjamin Landon (MIT) 2018-2021
 - Konstantin Matetski (Columbia University) 2018-2021
 - Evgeni Dimitrov (Columbia University) 2018-2021
@@ -20,17 +22,17 @@ nav_id: Members
 - [Alisa Knizel][alisa] (Columbia University), 2017-2020
 - [Xin Sun][xin] (Columbia University), 2017-2020
 
-- [Axel Saenz][axel] (University of Virginia), 2016-2019
-- [Guilherme Silva][silva] (University of Michigan), 2016-2019
-- [Yi Sun][yi] (Columbia University), 2016-2019
-- [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019
+- [Guilherme Silva][silva] (University of Michigan), 2016-2020
+- [Yi Sun][yi] (Columbia University), 2016-2020
 
 ### Recent
 
+- [Li-Cheng Tsai][licheng] (Columbia University), 2016-2019 &bull; Currently Assistant Professor at Rutgers University
+- [Axel Saenz][axel] (University of Virginia), 2016-2019 &bull; Currently Postdoc at Tulane University
 - [Guillaume Barraquand][guil] (Columbia University), 2015-2018 &bull; Currently CNRS researcher at École normale supérieure in the LPTENS (Laboratoire de physique théorique)
 - [Alexey Bufetov][abuf] (MIT), 2015-2018 &bull; Currently Bonn Junior Fellow at Hausdorff Center for Mathematics
 - [Jeffrey Kuan][jeff] (Columbia University), 2015-2018 &bull; Currently Assistant Professor at Texas A&M
-- [Mustazee Rahman][mustazee] (MIT), 2015-2018 &bull; Currently Postdoc at Royal Institute of Technology, Stockholm
+- [Mustazee Rahman][mustazee] (MIT), 2015-2018 &bull; Currently Assistant Professor at Durham University
 - [Hao Shen][hao] (Columbia University), 2015-2018 &bull; Currently Assistant Professor at University of Wisconsin-Madison
 
 
@@ -44,7 +46,7 @@ nav_id: Members
 - Weitao Zhu (Columbia), 2018-
 
 - Shalin Parekh (Columbia University), 2017-
-<!-- - Maithreya Sitaraman (Columbia University) 2017- -->
+- Maithreya Sitaraman (Columbia University) 2017-
 
 - Promit Ghosal (Columbia University), 2016-
 - Yier Lin (Columbia University), 2016-
@@ -55,17 +57,13 @@ nav_id: Members
 - Yuchen Liao (University of Michigan), 2015-
 - Xuan Wu (Columbia University), 2015-
 
-- [Cesar Cuenca][cesar] (MIT), 2014-
-
 ### Recent
 
+- [Cesar Cuenca][cesar] (MIT), 2014-2019 &bull; Currently Postdoc at Caltech
 - Evgeni Dimitrov (MIT), 2013-2018 &bull; Currently Postdoc at Columbia University
-
 - [Alisa Knizel][alisa] (MIT), 2012-2017 &bull; Currently Postdoc at Columbia University
-
-- [Konstantin Matveev][kostya] (Harvard), 2011-2016 &bull; Currently Postdoc at Brandeis University
+- [Konstantin Matveev][kostya] (Harvard), 2011-2016 &bull; Currently Assistant Professor at Rutgers University
 - [Alexander Moll][moll] (MIT), 2011-2016. Currently Postdoc at Northeastern University
-
 - [Zhipeng Liu][zhipeng] (University of Michigan), 2009-2014 &bull; Currently Assistant Professor at University of Kansas
 
 
@@ -90,3 +88,4 @@ nav_id: Members
 [zhipeng]: http://zhipeng.faculty.ku.edu/
 [cesar]: http://math.mit.edu/~cuenca/
 [silva]:https://sites.google.com/site/guilhermesilvamath/
+[marianna]: http://math.mit.edu/directory/profile.php?pid=2168
