@@ -6,7 +6,7 @@ nav_parent: Conference 2020
 permalink: /conference2020/participants/
 ---
 
-# Integrable Probability Columbia 2020 (IntProb Columbia)
+# Integrable Probability New York 2020 (IntProb New York)
 
 ### March 16-20, 2020, Columbia University, New York, NY
 
