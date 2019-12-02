@@ -16,27 +16,61 @@ permalink: /conference2020/
 
 ---
 
-## Preliminary list of participants
+## Speakers
 
 1. Amol Aggarwal (Harvard)
-1. Jinho Baik (UMich)
 1. Riddhi Basu (ICTS)
-1. Alexei Borodin (MIT)
-1. Ivan Corwin (Columbia)
+1. Alexey Bufetov (Bonn)
 1. Duncan Dauvergne (Princeton)
+1. Pierre Le Doussal (ENS Paris)
 1. Shirshendu Ganguly (Berkeley)
-1. Vadim Gorin (UWM)
 1. Alan Hammond (Berkeley)
 1. Alisa Knizel (Columbia)
 1. Elizabeth Meckes (Case Western)
-1. Leonid Petrov (UVA)
-1. Jeremy Quastel (Toronto)
-1. Makiko Sasada (Tokyo / visiting NYC)
-1. Tomohiro Sasamoto (Tokyo)
-1. Timo Seppalainen (Madison)
-1. Sylvia Serfaty (NYU)
+1. Firas Rassoul-Agha (University of Utah)
 1. Hao Shen (Madison)
+1. Tomohiro Sasamoto (Tokyo)
+1. Sylvia Serfaty (NYU)
+1. Makiko Sasada (Tokyo / visiting NYC)
+1. Timo Seppalainen (Madison)
 1. Li-Cheng Tsai (Rutgers)
 1. Benedek Valko (Madison)
 1. Balint Virag (Toronto)
 1. Nikolaos Zygouras (Warwick)
+
+## Preliminary list of participants
+
+1. Andrew Ahn (MIT)
+1. Jinho Baik (UMich)
+1. Guillaume Barraquand (ENS, Paris)
+1. Alexei Borodin (MIT)
+1. Ivan Corwin (Columbia)
+1. Cesar Cuenca (Caltech)
+1. Sayan Das (Columbia)
+1. Evgeni Dimitrov (Columbia)
+1. Julien Dubedat (Columbia)
+1. Promit Ghosal (Columbia)
+1. Vadim Gorin (UWM)
+1. Sergei Korotkikh (MIT)
+1. Jeffrey Kuan (U Texas)
+1. Benjamin Landon (MIT)
+1. Yier Lin (Columbia)
+1. Konstantin Matetski (Columbia)
+1. Konstantin Matveev (Rutgers)
+1. Mihai Nica (Toronto)
+1. Guillaume Remy (Columbia)
+1. Shalin Parekh (Columbia)
+1. Roger Van Peski (MIT)
+1. Leonid Petrov (UVA)
+1. Marianna Russkikh (MIT)
+1. Mark Rychnovsky (Columbia)
+1. Axel Saenz (Warwick)
+1. Guilherme Silva (UMich)
+1. Xin Sun (Columbia)
+1. Yi Sun (Columbia)
+1. Xuan Wu (Columbia)
+1. Weitao Zhu (Columbia)
+
+## Announcment
+
+The application is open for self-funded non-FRG junior participants. Interested applicants can send the following information to the email (frg2020columbia@gmail.com): name, affiliation, position, research interests, name of the supervisor who can provide a short recommendation (for grad students and postdocs).
