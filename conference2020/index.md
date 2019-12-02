@@ -23,6 +23,7 @@ permalink: /conference2020/
 1. Alexey Bufetov (Bonn)
 1. Duncan Dauvergne (Princeton)
 1. Pierre Le Doussal (ENS Paris)
+1. Maurice Duits (KTH)
 1. Shirshendu Ganguly (Berkeley)
 1. Alan Hammond (Berkeley)
 1. Alisa Knizel (Columbia)
