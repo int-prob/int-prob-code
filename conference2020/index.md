@@ -73,4 +73,4 @@ permalink: /conference2020/
 
 ## Announcment
 
-The application is open for self-funded non-FRG junior participants. Interested applicants can send the following information to the email ([mailto](mailto:frg2020columbia@gmail.com)): name, affiliation, position, research interests, name of the supervisor who can provide a short recommendation (for grad students and postdocs).
+The application is open for self-funded non-FRG junior participants. Interested applicants can send the following information to the [organizers](mailto:frg2020columbia@gmail.com): name, affiliation, position, research interests, name of the supervisor who can provide a short recommendation (for grad students and postdocs).
