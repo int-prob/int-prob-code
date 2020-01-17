@@ -53,7 +53,7 @@ permalink: /conference2020/
 1. Promit Ghosal (Columbia)
 1. Vadim Gorin (UWM)
 1. Sergei Korotkikh (MIT)
-1. Jeffrey Kuan (U Texas)
+1. Jeffrey Kuan (Texas A&M)
 1. Benjamin Landon (MIT)
 1. Yier Lin (Columbia)
 1. Konstantin Matetski (Columbia)
