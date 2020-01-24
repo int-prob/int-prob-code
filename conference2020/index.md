@@ -19,7 +19,7 @@ permalink: /conference2020/
 ## Speakers
 
 1. Amol Aggarwal (Harvard)
-1. Riddhi Basu (ICTS)
+1. Riddhipratim Basu (ICTS)
 1. Alexey Bufetov (Bonn)
 1. Duncan Dauvergne (Princeton)
 1. Pierre Le Doussal (ENS Paris)
@@ -45,6 +45,7 @@ permalink: /conference2020/
 1. Jinho Baik (UMich)
 1. Guillaume Barraquand (ENS, Paris)
 1. Alexei Borodin (MIT)
+1. Jeanne Boursier (France/visiting NYC)
 1. Ivan Corwin (Columbia)
 1. Cesar Cuenca (Caltech)
 1. Sayan Das (Columbia)
@@ -55,24 +56,30 @@ permalink: /conference2020/
 1. Sergei Korotkikh (MIT)
 1. Jeffrey Kuan (Texas A&M)
 1. Benjamin Landon (MIT)
+1. Yun Li (UWM)
 1. Yuchen Liao (UMich)
 1. Yier Lin (Columbia)
+1. Zhipeng Liu (Kansas)
 1. Konstantin Matetski (Columbia)
 1. Konstantin Matveev (Rutgers)
 1. Mihai Nica (Toronto)
 1. Guillaume Remy (Columbia)
 1. Shalin Parekh (Columbia)
+1. Luke Peilen (NYU)
 1. Roger Van Peski (MIT)
 1. Leonid Petrov (UVA)
 1. Marianna Russkikh (MIT)
 1. Mark Rychnovsky (Columbia)
 1. Axel Saenz (Warwick)
 1. Guilherme Silva (UMich)
+1. Hayate Suda (Tokyo)
 1. Xin Sun (Columbia)
 1. Yi Sun (Columbia)
+1. Eric Thoma (NYU)
+1. Balint Veto (Budapest)
 1. Xuan Wu (Columbia)
 1. Weitao Zhu (Columbia)
 
-## Announcment
+## Announcement
 
 The application is open for self-funded non-FRG junior participants. Interested applicants can send the following information to the [organizers](mailto:frg2020columbia@gmail.com): name, affiliation, position, research interests, name of the supervisor who can provide a short recommendation (for grad students and postdocs).
