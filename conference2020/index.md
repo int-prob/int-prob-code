@@ -41,8 +41,8 @@ permalink: /conference2020/
 
 ## Preliminary list of participants
 
-1. Andrew Ahn (MIT)
-1. Jinho Baik (UMich)
+2. Andrew Ahn (MIT)
+2. Jinho Baik (UMich)
 1. Guillaume Barraquand (ENS, Paris)
 1. Alexei Borodin (MIT)
 1. Jeanne Boursier (France/visiting NYC)
