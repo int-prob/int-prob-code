@@ -51,6 +51,7 @@ permalink: /conference2020/
 1. Sayan Das (Columbia)
 1. Evgeni Dimitrov (Columbia)
 1. Julien Dubedat (Columbia)
+1. Hugo Falconet (Columbia)
 1. Promit Ghosal (Columbia)
 1. Vadim Gorin (UWM)
 1. Sergei Korotkikh (MIT)
