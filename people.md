@@ -13,7 +13,7 @@ nav_id: Members
 
 ### Current
 
-- Andrei Prokhorov (University of Michigan), 2020-
+- [Andrei Prokhorov](https://lsa.umich.edu/math/people/postdoc-faculty/andreip.html) (University of Michigan), 2020-
 
 - [Marianna Russkikh][marianna] (MIT) 2019-2021
 
