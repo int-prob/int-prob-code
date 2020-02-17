@@ -57,7 +57,6 @@ permalink: /conference2020/
 1. Jiongji Gou (Hong Kong)
 1. Sergei Korotkikh (MIT)
 1. Jeffrey Kuan (Texas A&M)
-1. Benjamin Landon (MIT)
 1. Yun Li (UWM)
 1. Yuchen Liao (UMich)
 1. Yier Lin (Columbia)
