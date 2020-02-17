@@ -13,6 +13,8 @@ nav_id: Members
 
 ### Current
 
+- Andrei Prokhorov (University of Michigan), 2020-
+
 - [Marianna Russkikh][marianna] (MIT) 2019-2021
 
 - Benjamin Landon (MIT) 2018-2021
