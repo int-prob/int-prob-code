@@ -19,6 +19,7 @@ permalink: /conference2020/
 ## Speakers
 
 1. Amol Aggarwal (Harvard)
+1. Guillaume Barraquand (ENS, Paris)
 1. Riddhipratim Basu (ICTS)
 1. Alexey Bufetov (Bonn)
 1. Duncan Dauvergne (Princeton)
@@ -43,7 +44,6 @@ permalink: /conference2020/
 
 21. Andrew Ahn (MIT)
 1. Jinho Baik (UMich)
-1. Guillaume Barraquand (ENS, Paris)
 1. Alexei Borodin (MIT)
 1. Jeanne Boursier (France/visiting NYC)
 1. Ivan Corwin (Columbia)
