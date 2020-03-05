@@ -8,7 +8,7 @@ permalink: /conference2020/
 
 # Integrable Probability New York 2020 (IntProb New York)
 
-## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The event has been CANCELED due to COVID-19. However it can be postponed to a later to be determined date.
+## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **The event has been CANCELED due to COVID-19. However it can be postponed to a later to be determined date**
 
 ---
 
