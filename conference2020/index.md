@@ -8,7 +8,7 @@ permalink: /conference2020/
 
 # Integrable Probability New York 2020 (IntProb New York)
 
-## The event is CANCELED due to COVID-19
+## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `The event is CANCELED due to COVID-19'
 
 ### March 16-20, 2020, Columbia University, New York, NY
 
