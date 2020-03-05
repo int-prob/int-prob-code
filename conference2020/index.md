@@ -10,6 +10,8 @@ permalink: /conference2020/
 
 ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) The event is CANCELED due to COVID-19
 
+---
+
 ### March 16-20, 2020, Columbia University, New York, NY
 
 ### Location: 309 Havemeyer Hall ([Directions](https://www.google.com/maps/place/Havemeyer+Hall/@40.80943,-73.9620549,17z/data=!4m5!3m4!1s0x0:0x1c80db22c632edb9!8m2!3d40.8094422!4d-73.9621783))
