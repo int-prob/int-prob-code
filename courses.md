@@ -5,8 +5,9 @@ nav_order: 22
 nav_id: Seminars
 ---
 
+## Online events
 
-
+- [Columbia online integrable probability seminar](http://www.math.columbia.edu/department/probability/seminar/prob_sem_global.html)
 
 ## Seminars / working groups on Integrable Probability
 
