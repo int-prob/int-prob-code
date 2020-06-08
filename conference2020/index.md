@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Conference 2020
-nav_order: 100
-nav_id: Conference 2020
+# nav_order: 100
+# nav_id: Conference 2020
 permalink: /conference2020/
 ---
 
