@@ -8,6 +8,9 @@ nav_id: Seminars
 ## Online events
 
 - [Online probability seminars listing](http://www.math.columbia.edu/department/probability/seminar/prob_sem_global.html)
+- [Integrable Probability and Related Fields from a Safe Distance](http://mrusskikh.mit.edu/seminar-safe-distance?fbclid=IwAR19-XGrGRvr2IoqY9hT99pVi9B1SRWcVhhox4yjJDFBfG4W12hFaFPYr3E)
+- [Junior Integrable Probability Seminar](https://sites.google.com/view/junior-ips/home)
+
 
 ## Seminars / working groups on Integrable Probability
 
