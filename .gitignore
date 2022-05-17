@@ -4,3 +4,5 @@ _development_things/
 
 Gemfile.lock
 .jekyll-metadata
+.DS_Store
+_posts/.DS_Store
