@@ -27,7 +27,7 @@ jobs:
         # The directory to scan
         directory: "./_site"
         # The arguments to pass to HTMLProofer
-        arguments: --allow_hash_href true --disable-external true --enforce_https false
+        arguments: --allow_hash_href true --disable-external true --enforce-https false
           
     - name: Sync output to S3
       run: |
