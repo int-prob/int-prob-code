@@ -18,6 +18,10 @@ nav_id: Home
 
     <h3 class="mt-4 mb-2"><a href="{{site.url }}/posts/">New preprints</a></h3>
 
+    <div class="alert alert-warning" role="alert">
+      <strong>Note:</strong> This list is no longer being updated.
+    </div>
+
     <ul>
       {% for post in site.posts limit:7 %}
       <li {%if post.tags contains 'NSF_FRG' %}style="background-color:{{site.hlcolor}}"{%endif%}>
